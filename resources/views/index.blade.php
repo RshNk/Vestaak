@@ -18,7 +18,7 @@
 <!-- FONTS -->
 
 <!-- CSS -->
-<link rel='stylesheet' id='default-style-css'  href='/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='default-style-css'  href='/css/styleC.css' type='text/css' media='all' />
 <link rel='stylesheet' id='owlcarousel-style-css'  href='/css/owl.carousel.css' type='text/css' media='all' />
 <link rel='stylesheet' id='owltransitions-style-css'  href='/css/owl.transitions.css' type='text/css' media='all' />
 <link rel='stylesheet' id='fancybox-style-css'  href='/css/fancybox.css' type='text/css' media='all' />
@@ -265,7 +265,7 @@
 
 				<div class="spacer spacer-small"></div>
 
-				<div id="portfolio-grid-standard" class="masonry portfolio-entries clearfix" data-maxitemwidth="600">
+				<div id="portfolio-grid-standard" class="masonry portfolio-entries clearfix" data-maxitemwidth="550">
 
 					<div class="portfolio-masonry-entry masonry-item branding">
 						<div class="entry-thumb portfolio-thumb">
@@ -359,71 +359,88 @@
         <!--FIELDS-->
 
 		<div class="spacer spacer-big"></div>
-		
-		<!-- WORKS -->
-		<div class="owlcarousel portfolio-carousel" data-pagination="false" data-navigation="true">
-			<div class="portfolio-carousel-item" style="background-image:url(/images/800x600.jpg);">
-				<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-					<div class="overlaycaption">
-						<h5 class="overlay-name title-minimal"><strong>On the Road</strong></h5>
-						<div class="separator-small"><span></span></div>
-						<h6 class="alttitle">Photography</h6>
+
+		<!--WORK-->
+		<section id="portfolio-layout" class="notoppadding">
+			<div class="section-inner">
+
+				<!-- STANDARD PORTFOLIO -->
+				<div class="main-title wrapper align-center">
+					<h4 data-bigletter="S"><strong>WORK</strong></h4>
+					<div class="separator-small"><span></span></div>
+					<h6 class="alttitle title-minimal">our works</h6>
+				</div> <!-- END .main-title .wrapper -->
+
+				<div class="spacer spacer-small"></div>
+
+				<div class="owlcarousel portfolio-carousel" data-pagination="false" data-navigation="true">
+					<div class="portfolio-carousel-item" style="background-image:url(/images/800x600.jpg);">
+						<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
+							<div class="overlaycaption">
+								<h5 class="overlay-name title-minimal"><strong>On the Road</strong></h5>
+								<div class="separator-small"><span></span></div>
+								<h6 class="alttitle">Photography</h6>
+							</div>
+							<a href="portfolio-single4.html" class="transition"></a>
+						</div>
 					</div>
-					<a href="portfolio-single4.html" class="transition"></a>
-				</div>
-			</div>
-			<div class="portfolio-carousel-item" style="background-image:url(/images/800x600.jpg);">
-				<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-					<div class="overlaycaption">
-						<h5 class="overlay-name title-minimal"><strong>Don't<br>Bullshit<br>Me</strong></h5>
-						<div class="separator-small"><span></span></div>
-						<h6 class="alttitle">Branding</h6>
+					<div class="portfolio-carousel-item" style="background-image:url(/images/800x600.jpg);">
+						<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
+							<div class="overlaycaption">
+								<h5 class="overlay-name title-minimal"><strong>Don't<br>Bullshit<br>Me</strong></h5>
+								<div class="separator-small"><span></span></div>
+								<h6 class="alttitle">Branding</h6>
+							</div>
+							<a href="portfolio-single3.html" class="transition"></a>
+						</div>
 					</div>
-					<a href="portfolio-single3.html" class="transition"></a>
-				</div>
-			</div>
-			<div class="portfolio-carousel-item" style="background-image:url(/images/800x600.jpg);">
-				<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-					<div class="overlaycaption">
-						<h5 class="overlay-name title-minimal"><strong>Lucy</strong></h5>
-						<div class="separator-small"><span></span></div>
-						<h6 class="alttitle">Photography</h6>
+					<div class="portfolio-carousel-item" style="background-image:url(/images/800x600.jpg);">
+						<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
+							<div class="overlaycaption">
+								<h5 class="overlay-name title-minimal"><strong>Lucy</strong></h5>
+								<div class="separator-small"><span></span></div>
+								<h6 class="alttitle">Photography</h6>
+							</div>
+							<a href="portfolio-single4.html" class="transition"></a>
+						</div>
 					</div>
-					<a href="portfolio-single4.html" class="transition"></a>
-				</div>
-			</div>
-			<div class="portfolio-carousel-item" style="background-image:url(/images/800x600.jpg);">
-				<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-					<div class="overlaycaption">
-						<h5 class="overlay-name title-minimal"><strong>Air Crash</strong></h5>
-						<div class="separator-small"><span></span></div>
-						<h6 class="alttitle">Photography</h6>
+					<div class="portfolio-carousel-item" style="background-image:url(/images/800x600.jpg);">
+						<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
+							<div class="overlaycaption">
+								<h5 class="overlay-name title-minimal"><strong>Air Crash</strong></h5>
+								<div class="separator-small"><span></span></div>
+								<h6 class="alttitle">Photography</h6>
+							</div>
+							<a href="portfolio-single4.html" class="transition"></a>
+						</div>
 					</div>
-					<a href="portfolio-single4.html" class="transition"></a>
-				</div>
-			</div>
-			<div class="portfolio-carousel-item" style="background-image:url(/images/800x600.jpg);">
-				<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-					<div class="overlaycaption">
-						<h5 class="overlay-name title-minimal"><strong>Sixteen & <br>Frans</strong></h5>
-						<div class="separator-small"><span></span></div>
-						<h6 class="alttitle">Branding</h6>
+					<div class="portfolio-carousel-item" style="background-image:url(/images/800x600.jpg);">
+						<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
+							<div class="overlaycaption">
+								<h5 class="overlay-name title-minimal"><strong>Sixteen & <br>Frans</strong></h5>
+								<div class="separator-small"><span></span></div>
+								<h6 class="alttitle">Branding</h6>
+							</div>
+							<a href="portfolio-single2.html" class="transition"></a>
+						</div>
 					</div>
-					<a href="portfolio-single2.html" class="transition"></a>
-				</div>
-			</div>
-			<div class="portfolio-carousel-item" style="background-image:url(/images/800x600.jpg);">
-				<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-					<div class="overlaycaption">
-						<h5 class="overlay-name title-minimal"><strong>African<br>Cultur</strong></h5>
-						<div class="separator-small"><span></span></div>
-						<h6 class="alttitle">Photography</h6>
+					<div class="portfolio-carousel-item" style="background-image:url(/images/800x600.jpg);">
+						<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
+							<div class="overlaycaption">
+								<h5 class="overlay-name title-minimal"><strong>African<br>Cultur</strong></h5>
+								<div class="separator-small"><span></span></div>
+								<h6 class="alttitle">Photography</h6>
+							</div>
+							<a href="portfolio-single4.html" class="transition"></a>
+						</div>
 					</div>
-					<a href="portfolio-single4.html" class="transition"></a>
 				</div>
-			</div>
-		</div>
-		<!-- WORKS -->
+				<!-- END #portfolio-grid -->
+				<!-- STANDARD PORTFOLIO -->
+
+			</div> <!-- END .section-inner-->
+		</section>
+		<!--WORK-->
 
       	<!-- FOOTER -->  
 		<footer>
