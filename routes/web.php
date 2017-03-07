@@ -19,3 +19,12 @@ Route::get('/', function () {
 Route::get('/2', function () {
     return view('index2');
 });
+
+
+Route::get('/services/web', function () {
+    return view('services.webDesign');
+});
+
+Route::get('/services/app', function () {
+    return view('services.appDesign');
+});

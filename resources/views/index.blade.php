@@ -19,6 +19,7 @@
 
 <!-- CSS -->
 <link rel='stylesheet' id='default-style-css'  href='/css/styleC.css' type='text/css' media='all' />
+<link rel='stylesheet' id='colored-style-css'  href='/css/colored.css' type='text/css' media='all' />
 <link rel='stylesheet' id='owlcarousel-style-css'  href='/css/owl.carousel.css' type='text/css' media='all' />
 <link rel='stylesheet' id='owltransitions-style-css'  href='/css/owl.transitions.css' type='text/css' media='all' />
 <link rel='stylesheet' id='fancybox-style-css'  href='/css/fancybox.css' type='text/css' media='all' />
@@ -61,55 +62,7 @@
 <div id="page-content">
 
 	<!-- HEADER -->
-	<header id="header" class="overlay-bottom">        
-		<div class="header-inner clearfix">
-			
-           <!-- DEFAULT HEADER CONTENT -->
-		   	<div class="default-header-content">                 
-				<div id="logo" class="left-float">
-					<a id="default-logo" class="logotype" href="index.blade.php"><img src="/images/pond-logo-light.png" alt="Logo"></a>
-					<a id="fixed-logo" class="logotype" href="index.blade.php"><img src="/images/pond-logo.png" alt="Logo"></a>
-				</div>    
-				
-				<div class="menu right-float clearfix">
-					<a href="#" class="open-nav"><span></span></a>
-					<nav id="main-nav" class="text-light">
-						<div class="nav-logo"><img src="/images/pond-logo-light.png" alt="Logo"></div>
-						<div class="nav-inner">
-						<ul>
-						<li class="current-menu-item"><a href="#home" class="scroll-to" data-bigletter="H">Home</a></li>
-						<li><a href="#about" class="scroll-to" data-bigletter="A">About</a></li>
-						<li><a href="#services" class="scroll-to" data-bigletter="S">Service</a></li>
-						<li><a href="#work" class="scroll-to" data-bigletter="W">Work</a></li>
-						<li><a href="blog.html" data-bigletter="B">Blog</a></li>
-						<li><a href="elements.html" data-bigletter="F">Features</a>
-								<ul class="sub-menu">
-									<li><a href="elements.html">General Elements</a></li>    
-									<li><a href="portfolio-layout.html">Portfolio Layout</a></li>    
-									<li><a href="split-section.html">Split sections</a></li>
-								</ul>
-							</li>
-						<li><a href="#contact" class="scroll-to" data-bigletter="C">Contact</a></li>
-						</ul>
-						</div>
-						<div class="nav-social">
-							<ul class="socialmedia-widget">
-								<li class="facebook"><a href="#"></a></li>
-								<li class="twitter"><a href="#"></a></li>
-								<li class="linkedin"><a href="#"></a></li>
-								<li class="dribbble"><a href="#"></a></li>
-								<li class="behance"><a href="#"></a></li>
-								<li class="instagram"><a href="#"></a></li>
-							</ul>
-						</div>
-						<div class="nav-bg"></div>
-					</nav>
-				</div>
-			</div>
-           <!-- DEFAULT HEADER CONTENT -->
-                    
-		</div> <!-- END .header-inner -->
-	</header> <!-- END header -->
+	@include('header')
 	<!-- HEADER -->    
 	
 	
@@ -123,9 +76,9 @@
 				<ul>
 				
 					<!-- THE FIRST SLIDE -->
-					<li data-transition="slidedown" data-slotamount="5" data-masterspeed="1200" >
+					<li data-transition="slidedown" data-slotamount="5" data-masterspeed="1200" style="width: 100%; height: auto;">
 						<!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
-						<img src="/images/1690x1100.jpg"   alt="slidebg1"  data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+						<img src="/images/1.jpg"   alt="slidebg1"  data-bgposition="center center" data-bgrepeat="no-repeat">
 						
 						<!-- LAYER NR. 1 -->    
 						<div class="tp-caption srcaption-bigwhite lft ltb"
@@ -190,13 +143,13 @@
 	<!-- PAGEBODY -->
 	<div class="page-body">
 
-		<!-- About Us -->
+		<!-- Our Services -->
 		<section id="services" class="notoppadding">
 			<div class="section-inner">
 
 				<div id="services-spli" class="split-section clearfix" style="background:#f7f7f7;">
 
-					<div class="split-right split-onethird text-light">
+					<div class="split-left split-onethird text-light">
 						<div class="split-wrapped-content vertical-center">
 							<div class="main-title">
 								<h3><strong>Our Services</strong></h3>
@@ -207,7 +160,7 @@
 						<div class="split-bg" style="background:url(/images/1690x1100.jpg) center center; background-size:cover;"></div>
 					</div> <!-- END .split-left -->
 
-					<div class="split-left split-twothird">
+					<div class="split-right split-twothird">
 						<div class="split-wrapped-content">
 
 							<div class="column-section clearfix">
@@ -248,7 +201,7 @@
 
 			</div> <!-- END .section-inner-->
 		</section> <!-- END SECTION #service-->
-		<!-- About Us -->
+		<!-- Our Services -->
 
 		<div class="spacer spacer-big"></div>
 
@@ -269,40 +222,40 @@
 
 					<div class="portfolio-masonry-entry masonry-item branding">
 						<div class="entry-thumb portfolio-thumb">
-							<div class="imgoverlay name-hidden">
+							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
 								<img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
 								<div class="overlaycaption">
-									<h5 class="overlay-name title-minimal"><strong>Thomsoon</strong></h5>
+									<h5 class="overlay-name title-minimal"><strong>طراحی و توسعه سایت </strong></h5>
 									<div class="separator-small"><span></span></div>
-									<h6 class="alttitle">Branding</h6>
+									<h6 class="alttitle">HTML/Laravel</h6>
 								</div>
-								<a href="portfolio-single.html" class="transition"></a>
+								<a href="/services/web" class="transition"></a>
 							</div>
 						</div>
 					</div> <!-- END .portfolio-masonry-entry -->
 
 					<div class="portfolio-masonry-entry masonry-item print">
 						<div class="entry-thumb portfolio-thumb">
-							<div class="imgoverlay name-hidden">
+							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
 								<img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
 								<div class="overlaycaption">
-									<h5 class="overlay-name title-minimal"><strong>Overhead View</strong></h5>
+									<h5 class="overlay-name title-minimal"><strong>طراحی و توسعه اپلیکیشن</strong></h5>
 									<div class="separator-small"><span></span></div>
-									<h6 class="alttitle">Print</h6>
+									<h6 class="alttitle">Android/IOS</h6>
 								</div>
-								<a href="portfolio-single.html" class="transition"></a>
+								<a href="/services/app" class="transition"></a>
 							</div>
 						</div>
 					</div> <!-- END .portfolio-masonry-entry -->
 
 					<div class="portfolio-masonry-entry masonry-item branding">
 						<div class="entry-thumb portfolio-thumb">
-							<div class="imgoverlay name-hidden">
+							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
 								<img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
 								<div class="overlaycaption">
-									<h5 class="overlay-name title-minimal"><strong>Lokomotive</strong></h5>
+									<h5 class="overlay-name title-minimal"><strong>آموزش نیروی کار جوان</strong></h5>
 									<div class="separator-small"><span></span></div>
-									<h6 class="alttitle">Branding</h6>
+									<h6 class="alttitle">کارآموزی</h6>
 								</div>
 								<a href="portfolio-single.html" class="transition"></a>
 							</div>
@@ -311,12 +264,12 @@
 
 					<div class="portfolio-masonry-entry masonry-item print">
 						<div class="entry-thumb portfolio-thumb">
-							<div class="imgoverlay name-hidden">
+							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
 								<img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
 								<div class="overlaycaption">
-									<h5 class="overlay-name title-minimal"><strong>Sixten & Frans</strong></h5>
+									<h5 class="overlay-name title-minimal"><strong>مشاوره و ارائه تیم فنی</strong></h5>
 									<div class="separator-small"><span></span></div>
-									<h6 class="alttitle">Print</h6>
+									<h6 class="alttitle">پشتیبانی</h6>
 								</div>
 								<a href="portfolio-single2.html" class="transition"></a>
 							</div>
@@ -325,12 +278,12 @@
 
 					<div class="portfolio-masonry-entry masonry-item branding">
 						<div class="entry-thumb portfolio-thumb">
-							<div class="imgoverlay name-hidden">
+							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
 								<img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
 								<div class="overlaycaption">
-									<h5 class="overlay-name title-minimal"><strong>Bag Edit</strong></h5>
+									<h5 class="overlay-name title-minimal"><strong>بستر ویدئویی آموزش آنلاین</strong></h5>
 									<div class="separator-small"><span></span></div>
-									<h6 class="alttitle">Branding</h6>
+									<h6 class="alttitle">محصولات</h6>
 								</div>
 								<a href="portfolio-single.html" class="transition"></a>
 							</div>
@@ -339,12 +292,12 @@
 
 					<div class="portfolio-masonry-entry masonry-item branding">
 						<div class="entry-thumb portfolio-thumb">
-							<div class="imgoverlay name-hidden">
+							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
 								<img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
 								<div class="overlaycaption">
-									<h5 class="overlay-name title-minimal"><strong>Disk & Envelope</strong></h5>
+									<h5 class="overlay-name title-minimal"><strong>کلاس های تخصصی آموزشی</strong></h5>
 									<div class="separator-small"><span></span></div>
-									<h6 class="alttitle">Branding</h6>
+									<h6 class="alttitle">ورود به بازارکار</h6>
 								</div>
 								<a href="portfolio-single.html" class="transition"></a>
 							</div>
@@ -442,23 +395,72 @@
 		</section>
 		<!--WORK-->
 
-      	<!-- FOOTER -->  
-		<footer>
-			<div class="footer-inner wrapper">
-				<a id="backtotop" href="#">To Top</a>
-				<ul class="socialmedia-widget left-float">
-					<li class="facebook"><a href="#"></a></li>
-					<li class="twitter"><a href="#"></a></li>
-					<li class="linkedin"><a href="#"></a></li>
-					<li class="dribbble"><a href="#"></a></li>
-					<li class="behance"><a href="#"></a></li>
-					<li class="instagram"><a href="#"></a></li>
-				</ul>
-				<div class="copyright right-float">
-					Copyright &copy; 2014 by Pond.  Made with Love by SpabRice
+		<div class="spacer spacer-big"></div>
+
+		<!-- CLIENTS -->
+		<div class="wrapper">
+
+			<div class="main-title align-center">
+				<h4><strong>Clients</strong></h4>
+				<div class="separator-small"><span></span></div>
+				<h6 class="alttitle title-minimal">Who we worked with</h6>
+			</div>
+
+			<div class="spacer spacer-mini"></div>
+
+			<div class="owlcarousel content-carousel" data-autoplay="6000" data-pagination="true">
+				<div class="align-center">
+					<img src="/images/logo-placeholder.png" alt="Client Logo">
 				</div>
-         	</div>
-    	</footer>
+				<div class="align-center">
+					<img src="/images/logo-placeholder.png" alt="Client Logo">
+				</div>
+				<div class="align-center">
+					<img src="/images/logo-placeholder.png" alt="Client Logo">
+				</div>
+				<div class="align-center">
+					<img src="/images/logo-placeholder.png" alt="Client Logo">
+				</div>
+				<div class="align-center">
+					<img src="/images/logo-placeholder.png" alt="Client Logo">
+				</div>
+				<div class="align-center">
+					<img src="/images/logo-placeholder.png" alt="Client Logo">
+				</div>
+			</div>
+		</div>
+		<!-- CLIENTS -->
+
+		<div class="spacer spacer-big"></div>
+
+		<!-- TESTIMONIALS -->
+		<div id="testimonials" class="horizontalsection text-light parallax-section" data-parallax-image="/images/1690x1100.jpg">
+			<div class="horizontalinner wrapper">
+
+				<div class="owlslider testimonial-slider">
+					<div class="testimonial-item">
+						<div class="testimonial-quote">As a designer there are not many other templates that comes close to this. This template really understands the main purposes of webdesign.</div>
+						<h6 class="testimonial-name"><strong>Patrick Hamilton</strong></h6>
+						<h6 class="testimonial-namesub alttitle">Rip Curl</h6>
+					</div>
+					<div class="testimonial-item">
+						<div class="testimonial-quote">Clean, simple and so mighty.</div>
+						<h6 class="testimonial-name"><strong>Andy Smith</strong></h6>
+						<h6 class="testimonial-namesub alttitle">Quicksilver</h6>
+					</div>
+					<div class="testimonial-item">
+						<div class="testimonial-quote">Wow, just amazing. Made it very easy for me to get my website up and running.</div>
+						<h6 class="testimonial-name"><strong>Sementha Garro</strong></h6>
+						<h6 class="testimonial-namesub alttitle">Billabong</h6>
+					</div>
+				</div> <!-- END .owlslider -->
+
+			</div>
+		</div> <!-- END #testimonials -->
+		<!-- TESTIMONIALS -->
+
+      	<!-- FOOTER -->  
+		@include('footer')
       	<!-- FOOTER -->         
         
  	</div> <!-- END .page-body -->
@@ -468,6 +470,10 @@
 <!-- PAGE CONTENT -->
 
 <!-- SCRIPTS -->
+{{-- online chat box --}}
+<script type="text/javascript">$crisp=[];CRISP_WEBSITE_ID="2c85ff50-91de-4396-a476-ad122e716192";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.im/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+
+
 <script type='text/javascript' src='/js/retina.js'></script>
 <script type='text/javascript' src='/js/jquery.pace.js'></script>
 <script type='text/javascript' src='/js/jquery.easing.1.3.js'></script>
