@@ -74,8 +74,8 @@ h6 { font-size: 15px; line-height: 22px; }
 .gallery-col5 li { width: 25%;  }
 .gallery-col6 li { width: 33.33%;  }
 
-.masonry.masonry-spaced { width: calc(120% - 120px); margin-left: 60px; margin-bottom: -60px; }	
-.masonry-spaced .masonry-item { margin-right: 60px; margin-bottom: 60px; }
+.masonry.masonry-spaced { width: calc(100% - 50px); margin-right: 60px; margin-bottom: -60px; }
+.masonry-spaced .masonry-item { margin-left: 60px; margin-bottom: 60px; }
 #blog-leavecomment form .form-row { margin-right: 45px; width: calc(33.3% - 30px); }
 
 nav#main-nav .nav-inner ul li { margin: 0 15px; }
@@ -251,8 +251,8 @@ h6 { font-size: 14px; line-height: 20px; }
 .gallery-col5 li { width: 100%;  }
 .gallery-col6 li { width: 50%;  }
 
-.masonry.masonry-spaced { width: calc(120% - 40px); margin-left: 20px; margin-bottom: -40px; }	
-.masonry-spaced .masonry-item { margin-right: 20px; margin-bottom: 40px; }
+.masonry.masonry-spaced { width: calc(100% - 20px); margin-right: 20px; margin-bottom: -40px; }
+.masonry-spaced .masonry-item { margin-left: 20px; margin-bottom: 40px; }
 
 .owl-controls { bottom: 5px; }
 .owl-controls .owl-buttons div { color: #ffffff !important; }

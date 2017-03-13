@@ -15,11 +15,14 @@ Route::get('/', function () {
     return view('index');
 });
 
-
-Route::get('/2', function () {
-    return view('index2');
+Route::get('/Not-found', function () {
+    return view('404');
 });
 
+
+Route::get('/contact-us', function () {
+    return view('contact');
+});
 
 Route::get('/services/web', function () {
     return view('services.webDesign');
@@ -27,4 +30,22 @@ Route::get('/services/web', function () {
 
 Route::get('/services/app', function () {
     return view('services.appDesign');
+});
+
+
+/*------blog parts-------*/
+Route::get('/blog', function () {
+    return view('blog.blog');
+});
+
+Route::get('/blog/1', function () {
+    return view('blog.blog1');
+});
+
+Route::get('/blog/2', function () {
+    return view('blog.blog2');
+});
+
+Route::get('/blog/3', function () {
+    return view('blog.blog3');
 });

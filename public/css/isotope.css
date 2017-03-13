@@ -16,11 +16,19 @@
 }
 
 .isotope .isotope-item {
+    -webkit-transition-property: right, top, -webkit-transform, opacity;
+    -moz-transition-property: right, top, -moz-transform, opacity;
+    -ms-transition-property: right, top, -ms-transform, opacity;
+    -o-transition-property: right, top, -o-transform, opacity;
+    transition-property: right, top, transform, opacity;
+}
+
+/*.isotope .isotope-item {
   -webkit-transition-property: -webkit-transform, opacity;
      -moz-transition-property:    -moz-transform, opacity;
        -o-transition-property:         top, left, opacity;
           transition-property:         transform, opacity;
-}
+}*/
 
 /**** disabling Isotope CSS3 transitions ****/
 

@@ -28,6 +28,7 @@
 <link rel="stylesheet" id='fontawesome-style-css' href="/css/font-awesome.min.css" type="text/css" media="all" />
 <link rel="stylesheet" id='pe-icons-style-css' href="/css/pe-icon-7-stroke.css" type="text/css" media="all" />
 <link rel='stylesheet' id='mqueries-style-css'  href='/css/mqueries.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mqueries-style-css'  href='/css/searchbox.css' type='text/css' media='all' />
 <!-- CSS -->
 
 <!-- FAVICON -->
@@ -143,7 +144,7 @@
 	<!-- PAGEBODY -->
 	<div class="page-body">
 
-		<!-- Our Services -->
+		{{--<!-- Our Services -->
 		<section id="services" class="notoppadding">
 			<div class="section-inner">
 
@@ -201,7 +202,7 @@
 
 			</div> <!-- END .section-inner-->
 		</section> <!-- END SECTION #service-->
-		<!-- Our Services -->
+		<!-- Our Services -->--}}
 
 		<div class="spacer spacer-big"></div>
 
@@ -218,7 +219,7 @@
 
 				<div class="spacer spacer-small"></div>
 
-				<div id="portfolio-grid-standard" class="masonry portfolio-entries clearfix" data-maxitemwidth="550">
+				<div id="portfolio-grid-standard" class="masonry portfolio-entries clearfix" data-maxitemwidth="450">
 
 					<div class="portfolio-masonry-entry masonry-item branding">
 						<div class="entry-thumb portfolio-thumb">
@@ -298,6 +299,48 @@
 									<h5 class="overlay-name title-minimal"><strong>کلاس های تخصصی آموزشی</strong></h5>
 									<div class="separator-small"><span></span></div>
 									<h6 class="alttitle">ورود به بازارکار</h6>
+								</div>
+								<a href="portfolio-single.html" class="transition"></a>
+							</div>
+						</div>
+					</div> <!-- END .portfolio-masonry-entry -->
+
+					<div class="portfolio-masonry-entry masonry-item branding">
+						<div class="entry-thumb portfolio-thumb">
+							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
+								<img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
+								<div class="overlaycaption">
+									<h5 class="overlay-name title-minimal"><strong>مهندسی نیازمندی ها</strong></h5>
+									<div class="separator-small"><span></span></div>
+									<h6 class="alttitle">استخراج نیازمندی ها و مشاوره فنی</h6>
+								</div>
+								<a href="portfolio-single.html" class="transition"></a>
+							</div>
+						</div>
+					</div> <!-- END .portfolio-masonry-entry -->
+
+					<div class="portfolio-masonry-entry masonry-item branding">
+						<div class="entry-thumb portfolio-thumb">
+							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
+								<img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
+								<div class="overlaycaption">
+									<h5 class="overlay-name title-minimal"><strong>bot تلگرام</strong></h5>
+									<div class="separator-small"><span></span></div>
+									<h6 class="alttitle">طراحی bot تلگرام و بازی inline</h6>
+								</div>
+								<a href="portfolio-single.html" class="transition"></a>
+							</div>
+						</div>
+					</div> <!-- END .portfolio-masonry-entry -->
+
+					<div class="portfolio-masonry-entry masonry-item branding">
+						<div class="entry-thumb portfolio-thumb">
+							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
+								<img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
+								<div class="overlaycaption">
+									<h5 class="overlay-name title-minimal"><strong>نرم افزار HRM</strong></h5>
+									<div class="separator-small"><span></span></div>
+									<h6 class="alttitle">نرم افزار مدیریت نیروی انسانی</h6>
 								</div>
 								<a href="portfolio-single.html" class="transition"></a>
 							</div>
@@ -458,8 +501,7 @@
 			</div>
 		</div> <!-- END #testimonials -->
 		<!-- TESTIMONIALS -->
-
-      	<!-- FOOTER -->  
+      	<!-- FOOTER -->
 		@include('footer')
       	<!-- FOOTER -->         
         
@@ -492,6 +534,7 @@
 <script type='text/javascript' src='/js/pond-form.js'></script>
 <script type='text/javascript' src='/js/pond-header.js'></script>
 <script type='text/javascript' src='/js/script.js'></script>
+<script type='text/javascript' src='/js/searchbox.js'></script>
 <!-- SCRIPTS -->
 
 </body>

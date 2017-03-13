@@ -64,7 +64,7 @@ jQuery(window).load(function($) {
 			$container.imagesLoaded( function(){
 				$container.isotope({
 					itemSelector : '.masonry-item',
-					transformsEnabled: true			// Important for videos
+					transformsEnabled: false		// Important for videos
 				});	
 			});
 		});
@@ -90,7 +90,23 @@ jQuery(window).load(function($) {
 					 I S O T O P E : reorganize
 		------------------------------------------------*/
 		function reorganizeIsotope() {
-			jQuery('.masonry').each(function(){
+            jQuery('.masonry').each(function(){
+                $container = jQuery(this);
+                var maxitemwidth = $container.data('maxitemwidth');
+                if (!maxitemwidth) { maxitemwidth = 370; }
+                // $container.css({ 'width': '100%' });
+                // var containerwidth = Math.ceil((($container.width()+(parseInt($container.css('marginRight'))*2)) / 100) * 100 - (parseInt($container.css('marginRight'))*2));
+                var containerwidth = Math.ceil($container.width()-(parseInt($container.css('marginRight'))));
+                //alert(containerwidth);
+                var itemmargin = parseInt($container.children('div').css('marginLeft')) + parseInt($container.children('div').css('marginRight'));
+                var rows = Math.ceil(containerwidth/maxitemwidth);
+                var marginperrow = (rows-1)*itemmargin;
+                var newitemmargin = marginperrow / rows;
+                var itemwidth = Math.floor((containerwidth/rows)-newitemmargin);
+                $container.children('div').css({ 'width': itemwidth+'px' });
+                if ($container.children('div').hasClass('isotope-item')) { $container.isotope( 'reLayout' ); }
+            });
+            jQuery('.masonry .blog-entries').each(function(){
 				$container = jQuery(this);
 				var maxitemwidth = $container.data('maxitemwidth');
 				if (!maxitemwidth) { maxitemwidth = 370; }
@@ -104,15 +120,15 @@ jQuery(window).load(function($) {
 				//$container.css({ 'width': '110%' });
 				$container.children('div').css({ 'width': itemwidth+'px' });
 				if ($container.children('div').hasClass('isotope-item')) { $container.isotope( 'reLayout' ); }
-			});
+            });
 		}
 		reorganizeIsotope();
 			
 		jQuery(window).resize(function() {
 			reorganizeIsotope();
 		});
-		
-		
+
+
 	} /* END if isotope */
 	
 	
@@ -316,7 +332,7 @@ jQuery(window).load(function($) {
 		
 		/* for all owlcarousel classes (multiple items) */
 		jQuery(".owlcarousel").owlCarousel({
-			items : 4,
+			items : 3,
 			itemsDesktop:false,
 			itemsDesktopSmall:false,
 			itemsTablet: [860,2],

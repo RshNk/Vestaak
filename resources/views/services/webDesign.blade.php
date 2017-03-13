@@ -112,7 +112,7 @@
 
                 </div>
 
-                <div class="spacer spacer-big"></div>
+                <div class="spacer spacer-small"></div>
 
             </div> <!-- END .section-inner-->
 
