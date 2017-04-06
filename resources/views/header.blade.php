@@ -15,19 +15,23 @@
                     <div class="nav-logo"><img src="/images/pond-logo-light.png" alt="Logo"></div>
                     <div class="nav-inner">
                         <ul>
-                            <li class="current-menu-item"><a href="#home" class="scroll-to" data-bigletter="H">Home</a></li>
-                            <li><a href="#about" class="scroll-to" data-bigletter="A">About</a></li>
-                            <li><a href="#services" class="scroll-to" data-bigletter="S">Service</a></li>
-                            <li><a href="#work" class="scroll-to" data-bigletter="W">Work</a></li>
-                            <li><a href="blog.html" data-bigletter="B">Blog</a></li>
-                            <li><a href="elements.html" data-bigletter="F">Features</a>
+                            <li class="current-menu-item"><a href="/" class="scroll-to" data-bigletter="خ">صفحه اصلی</a></li>
+                            <li><a href="javascript:void(0);" class="scroll-to" data-bigletter="خ">خدمات</a>
                                 <ul class="sub-menu">
-                                    <li><a href="elements.html">General Elements</a></li>
-                                    <li><a href="portfolio-layout.html">Portfolio Layout</a></li>
-                                    <li><a href="split-section.html">Split sections</a></li>
+                                    <li><a href="/services/web">طراحی و توسعه سایت</a></li>
+                                    <li><a href="/services/app">طراحی و توسعه اپلیکیشن موبایل</a></li>
+                                    <li><a href="javascript:void(0);">...</a></li>
                                 </ul>
                             </li>
-                            <li><a href="#contact" class="scroll-to" data-bigletter="C">Contact</a></li>
+                            <li><a href="/#work" class="scroll-to" data-bigletter="ن">نمونه کارها</a></li>
+                            <li><a href="/blog" data-bigletter="ب">بلاگ</a></a>
+                                <ul class="sub-menu">
+                                    <li><a href="/blog/1">نمونه 1</a></li>
+                                    <li><a href="/blog/2">نمونه 2</a></li>
+                                    <li><a href="/blog/3">نمونه 3</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="/contact-us" class="scroll-to" data-bigletter="ا">ارتباط با ما</a></li>
                         </ul>
                     </div>
                     <div class="nav-social">

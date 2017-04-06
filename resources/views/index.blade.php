@@ -357,7 +357,7 @@
 		<div class="spacer spacer-big"></div>
 
 		<!--WORK-->
-		<section id="portfolio-layout" class="notoppadding">
+		<section id="portfolio-layout work" class="notoppadding">
 			<div class="section-inner">
 
 				<!-- STANDARD PORTFOLIO -->

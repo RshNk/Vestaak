@@ -46,6 +46,7 @@ Route::get('/blog/2', function () {
     return view('blog.blog2');
 });
 
+
 Route::get('/blog/3', function () {
     return view('blog.blog3');
 });

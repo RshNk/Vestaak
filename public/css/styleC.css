@@ -869,7 +869,7 @@ top: -0.02em; opacity: 0.25; filter: alpha(opacity=25); -ms-filter:"progid:DXIma
 nav#main-nav .nav-inner ul li > ul {
 	position: absolute;
 	top: 30px;
-	left: 0;
+	right: 0;
 	width: 300px;
 	text-align: right;
 	padding-top: 10px;
