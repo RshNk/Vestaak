@@ -67,13 +67,13 @@
 
 
     <!-- PAGE TITLE -->
-    <section id="page-title" class="full-height text-light parallax-section" data-parallax-image="/images/1690x1100.jpg">
+    <section id="page-title" class="full-height text-light parallax-section" data-parallax-image="/images/backweb.jpg">
         <div class="section-inner align-center">
 
             <div class="main-title">
-                <h2><strong>Blog & News</strong></h2>
+                <h2><strong>طراحی و توسعه سایت</strong></h2>
                 <div class="separator"><span></span></div>
-                <h5 class="alttitle title-minimal">From us - for you</h5>
+                <h5 class="alttitle title-minimal">منحصر به فرد و با کیفیت</h5>
             </div>
 
         </div>
@@ -91,23 +91,32 @@
                 <div class="spacer spacer-medium"></div>
 
                 <div class="blog-content wrapper">
-                    <h4 class="post-name title-minimal"><strong>Single Post Without Header Image</strong></h4>
+                    <h4 class="post-name title-minimal"><strong>طراحی و توسعه سایت</strong></h4>
 
                     <h5 class="alttitle">
-                        <strong>Aenean non enim ut enim fringilla adipiscing id in lorem. Quisque aliquet neque vitae lectus tempus consectetur</strong>
+                        <strong>
+                            طراحی های شرکت از نظر ظاهری تماما با آخرین ویژگی های روز دنیا و با استاندارد های جهانی منظبق است.
+                        </strong>
                     </h5>
 
-                    <p>Praesent augue arcu, ornare ut tincidunt eu, mattis a libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In elit purus, ullamcorper vel luctus vitae, venenatis eu odio. Vivamus tincidunt, urna quis consectetur venenatis, quam urna tincidunt mi, quis convallis enim dolor sed elit.Praesent augue arcu, ornare ut tincidunt eu, mattis a libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In elit purus, ullamcorper vel luctus vitae, venenatis eu odio. Vivamus tincidunt, urna quis consectetur venenatis, quam urna tincidunt mi, quis convallis enim dolor sed elit.
+                    <p>
+                        وستاک قادر است تا در سریع ترین زمان ممکن وب سایتی تولید نماید تا علاوه بر برطرف کردن نیازمندی های پروژه توجه بسیار زیادی به تجربه کاربری مناسب و همچنین سرعت و قدرت عمل سرور داشته باشد.
+                        <br>
+                        با بهره گیری از آخرین اطلاعات و تکنولوژی های روز قادر هستیم در طراحی و توسعه وب سایت ها از سیستم هایی استفاده نماییم که علاوه بر راحتی کار در بخض توسعه بتوانند سرعت و عملکرد قابل قبولی را ارائه دهند و طبیعتا تجربه بسیار خوبی را در اختیار کاربران شما قراردهند
+                        <br>
+                        خلاقیت یکی از نقاط قوت ماست چرا که با وجود تیم جوان و البته با تجربه میتوانیم طراحی های نوین و همچنین سیستم های پیشنهادی زیادی را به وب سایت شما اضافه نماییم.
+                        <br>
+                        اگر بخواهیم بگوییم چرا وستاک بهترین انتخاب برای توسعه یک وب سایت میباشد میتوان گفت :
                     </p>
 
-                    <blockquote><p>Nulla facilisi. Vestibulum pretium, dui eu aliquam faucibus, est dui hendrerit nulla, mattis semper turpis mauris eget tellus.</p></blockquote>
+                    <blockquote><p>وستاک ابزار روز دنیا را آمیخته با طراحی ایرانی و همچنین رعایت استاندارد های جهانی به کار میگیرد و با تکیه بر دانش آکادمیک و تجربه کاری خود بهترین را ایجاد خواهد نمود</p></blockquote>
 
                     <h6 class="alttitle">
-                        <strong>Quisque aliquet neque vitae</strong>
+                        <strong>همه چیز را به ما بسپارید</strong>
                     </h6>
 
                     <p>
-                        Praesent augue arcu, ornare ut tincidunt eu, mattis a libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In elit purus, ullamcorper vel luctus vitae, venenatis eu odio. Vivamus tincidunt, urna quis consectetur venenatis, quam urna tincidunt mi, quis convallis enim dolor sed elit.Praesent augue arcu, ornare ut tincidunt eu, mattis a libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In elit purus, ullamcorper vel luctus vitae, venenatis eu odio. Vivamus tincidunt, urna quis consectetur.
+وستاک از مرحله ایده تا اجرا در کنار شما خواهد بود و کمک خواهد کرد تا به بهترین شکل ممکن وارد دنیای تکنولوژی و اینترنت شوید.
                     </p>
 
                 </div>
@@ -126,25 +135,25 @@
             <div class="horizontalinner wrapper">
 
                 <div class="main-title align-center">
-                    <h4 class="title-minimal" data-bigletter="S"><strong>Services</strong></h4>
+                    <h4 class="title-minimal" data-bigletter="و"><strong>ویژگی ها</strong></h4>
                     <div class="separator-small"><span></span></div>
                 </div>
 
                 <div class="column-section clearfix">
                     <div class="column one-third align-center">
                         <i class="pe-7s-browser pe-3x"></i>
-                        <h6 class="title-minimal" data-bigletter="R"><strong>Responsive</strong></h6>
-                        <p>Ferri reque integre mea ut, eu eos vide errem noluise se.  At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.</p>
+                        <h6 class="title-minimal" data-bigletter="و"><strong>واکنش گرا</strong></h6>
+                        <p style="text-align: center">طراحی متناسب برای موبایل ، لپتاپ و دسکتاپ ها</p>
                     </div>
                     <div class="column one-third align-center">
-                        <i class="pe-7s-camera pe-3x"></i>
-                        <h6 class="title-minimal" data-bigletter="M"><strong>Media</strong></h6>
-                        <p>Ferri reque integre mea ut, eu eos vide errem noluise se.  At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.</p>
+                        <i class="pe-7s-gleam pe-3x"></i>
+                        <h6 class="title-minimal" data-bigletter="س"><strong>سریع</strong></h6>
+                        <p style="text-align: center">سرعت بالای لود صفحات مختلف</p>
                     </div>
                     <div class="column one-third last-col align-center">
-                        <i class="pe-7s-gleam pe-3x"></i>
-                        <h6 class="title-minimal" data-bigletter="D"><strong>Design</strong></h6>
-                        <p>Ferri reque integre mea ut, eu eos vide errem noluise se.  At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.</p>
+                        <i class="pe-7s-camera pe-3x"></i>
+                        <h6 class="title-minimal" data-bigletter="ط"><strong>طراحی خلاقانه</strong></h6>
+                        <p style="text-align: center">طراحی به صورت ساده اما گیرا و جذاب</p>
                     </div>
                 </div> <!-- END .column-section -->
 
@@ -156,13 +165,13 @@
                     </div>
                     <div class="column one-third align-center">
                         <i class="pe-7s-camera pe-3x"></i>
-                        <h6 class="title-minimal" data-bigletter="M"><strong>Media</strong></h6>
-                        <p>Ferri reque integre mea ut, eu eos vide errem noluise se.  At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.</p>
+                        <h6 class="title-minimal" data-bigletter="ت"><strong>تست و اجرا</strong></h6>
+                        <p style="text-align: center">تست کامل عملکرد سیستم و اجرا بر روی سرور</p>
                     </div>
                     <div class="column one-third last-col align-center">
                         <i class="pe-7s-help2 pe-3x"></i>
-                        <h6 class="title-minimal" data-bigletter="S"><strong>Support</strong></h6>
-                        <p>Ferri reque integre mea ut, eu eos vide errem noluise se.  At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.</p>
+                        <h6 class="title-minimal" data-bigletter="پ"><strong>پشتیبانی</strong></h6>
+                        <p style="text-align: center">آماده ارائه پشتیبانی کامل</p>
                     </div>
                 </div> <!-- END .column-section -->
 

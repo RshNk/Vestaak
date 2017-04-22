@@ -15,7 +15,7 @@
                     <div class="nav-logo"><img src="/images/pond-logo-light.png" alt="Logo"></div>
                     <div class="nav-inner">
                         <ul>
-                            <li class="current-menu-item"><a href="/" class="scroll-to" data-bigletter="خ">صفحه اصلی</a></li>
+                            <li class="current-menu-item"><a href="/" class="scroll-to" data-bigletter="ص">صفحه اصلی</a></li>
                             <li><a href="javascript:void(0);" class="scroll-to" data-bigletter="خ">خدمات</a>
                                 <ul class="sub-menu">
                                     <li><a href="/services/web">طراحی و توسعه سایت</a></li>
