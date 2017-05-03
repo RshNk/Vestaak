@@ -160,8 +160,8 @@
                 <div class="column-section clearfix">
                     <div class="column one-third align-center">
                         <i class="pe-7s-camera pe-3x"></i>
-                        <h6 class="title-minimal" data-bigletter="M"><strong>Media</strong></h6>
-                        <p>Ferri reque integre mea ut, eu eos vide errem noluise se.  At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.</p>
+                        <h6 class="title-minimal" data-bigletter="س"><strong>سفارشی سازی</strong></h6>
+                        <p style="text-align: center">قابلیت سفارشی سازی حرفه ای بر اساس نیازها</p>
                     </div>
                     <div class="column one-third align-center">
                         <i class="pe-7s-camera pe-3x"></i>
@@ -183,9 +183,9 @@
 
         <!-- SPACED PORTFOLIO -->
         <div class="main-title wrapper align-center">
-            <h4 data-bigletter="S"><strong>Spaced</strong></h4>
+            <h4 data-bigletter="ن"><strong>نمونه کارها</strong></h4>
             <div class="separator-small"><span></span></div>
-            <h6 class="alttitle title-minimal">Spaced Layout & dark overlay</h6>
+            <h6 class="alttitle title-minimal">توجه : تنها نمونه کارهایی که اجازه انتشار دارند به اشتراک گذاشته شده اند.</h6>
             <div class="spacer spacer-small"></div>
             <ul id="portfolio-filter-spaced" class="filter clearfix" data-related-grid="portfolio-grid-spaced">
                 <li><a class="active" href="#" data-option-value="*">All</a></li>
@@ -339,11 +339,11 @@
         <section id="services" class="notoppadding">
             <div class="section-inner">
 
-                <div class="horizontalsection  parallax-section" data-parallax-image="/images/1690x1100.jpg" data-speed="0.5">
+                <div class="horizontalsection  parallax-section"  data-parallax-image="/images/contact.jpg"  data-speed="0.5">
                     <div class="horizontalinner wrapper align-center text-light">
                         <div class="spacer spacer-medium"></div>
-                        <h6 class="alttitle title-ultraminimal">Awesomeness meets</h6>
-                        <h2 class="title-minimal" data-bigletter="U"><strong>Uniqueness</strong></h2>
+                        <h6 class="alttitle title-ultraminimal">مشاوره رایگان برای شروع کار</h6>
+                        <h2 class="title-minimal" data-bigletter="ح"><strong>حرفه ای عمل کنیم</strong></h2>
                         <div class="spacer spacer-mini"></div>
                         <a href="gallery-multipage.html" class="transition sr-button medium-button sr-button2">تماس بگیرید</a>
                         <div class="spacer spacer-big"></div>
@@ -399,10 +399,10 @@
 
         <!-- Single Pagination -->
         <ul class="single-pagination fixed-pagination">
-            <li class="next"><a href="blog-single.html" class="transition" data-name="The Beauty of North Carolina">
-                    <i class="pagination-icon"></i> Next Post <i class="pagination-icon"></i></a></li>
-            <li class="prev"><a href="blog-single2.html" class="transition" data-name="Selfhosted Audio File">
-                    <i class="pagination-icon"></i> Previous Post <i class="pagination-icon"></i></a></li>
+            <li class="next"><a href="/services/app" class="transition" data-name="طراحی و توسعه اپلیکیشن">
+                    <i class="pagination-icon"></i> بعدی <i class="pagination-icon"></i></a></li>
+            {{--<li class="prev"><a href="blog-single2.html" class="transition" data-name="Selfhosted Audio File">--}}
+                    {{--<i class="pagination-icon"></i> قبلی <i class="pagination-icon"></i></a></li>--}}
         </ul>
 
     </div> <!-- END .page-body -->
