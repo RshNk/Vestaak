@@ -32,6 +32,10 @@ Route::get('/services/app', function () {
     return view('services.appDesign');
 });
 
+Route::get('/services/young', function () {
+    return view('services.young');
+});
+
 
 /*------blog parts-------*/
 Route::get('/blog', function () {

@@ -9,7 +9,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <title>Blog | Pond | Elegant One Page Template</title>
+    <title>آموزش نیروی کار جوان</title>
     <!-- DEFAULT META TAGS -->
 
     <!-- FONTS -->
@@ -67,13 +67,13 @@
 
 
     <!-- PAGE TITLE -->
-    <section id="page-title" class="full-height text-light parallax"  data-parallax-image="/images/backweb.jpg">
+    <section id="page-title" class="full-height text-light parallax-section" data-parallax-image="/images/young.jpg">
         <div class="section-inner align-center">
 
             <div class="main-title">
-                <h2><strong>طراحی و توسعه سایت</strong></h2>
+                <h2><strong>آموزش نیروی کار جوان</strong></h2>
                 <div class="separator"><span></span></div>
-                <h5 class="alttitle title-minimal">منحصر به فرد و با کیفیت</h5>
+                <h5 class="alttitle title-minimal">آینده با کیفیت</h5>
             </div>
 
         </div>
@@ -91,11 +91,11 @@
                 <div class="spacer spacer-medium"></div>
 
                 <div class="blog-content wrapper">
-                    <h4 class="post-name title-minimal"><strong>طراحی و توسعه سایت</strong></h4>
+                    <h4 class="post-name title-minimal"><strong>آموزش نیروی کار جوان</strong></h4>
 
                     <h5 class="alttitle">
                         <strong>
-                            طراحی های شرکت از نظر ظاهری تماما با آخرین ویژگی های روز دنیا و با استاندارد های جهانی منظبق است.
+                            در ساخت نیروی فنی آینده کشورمان قدمی برداشته ایم تا نیاز های مختلف فنی در زمینه های کامپیوتری را که هر روزه در حال گسترش میباشد رفع نماییم.
                         </strong>
                     </h5>
 
@@ -339,7 +339,7 @@
         <section id="services" class="notoppadding">
             <div class="section-inner">
 
-                <div class="horizontalsection  parallax"  data-parallax-image="/images/contact.jpg"  data-speed="0.5">
+                <div class="horizontalsection  parallax-section"  data-parallax-image="/images/contact.jpg"  data-speed="0.5">
                     <div class="horizontalinner wrapper align-center text-light">
                         <div class="spacer spacer-medium"></div>
                         <h6 class="alttitle title-ultraminimal">مشاوره رایگان برای شروع کار</h6>
@@ -434,9 +434,6 @@
 <script type='text/javascript' src='/js/pond-form.js'></script>
 <script type='text/javascript' src='/js/pond-header.js'></script>
 <script type='text/javascript' src='/js/script.js'></script>
-<script>
-    $('#page-title').css('background-size','100% 100%');
-</script>
 <!-- SCRIPTS -->
 
 </body>

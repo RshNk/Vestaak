@@ -79,7 +79,7 @@
 					<!-- THE FIRST SLIDE -->
 					<li data-transition="slidedown" data-slotamount="5" data-masterspeed="1200" style="width: 100%; height: auto;">
 						<!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
-						<img src="/images/1.jpg"   alt="slidebg1"  data-bgposition="center center" data-bgrepeat="no-repeat">
+						<img src="/images/milad.jpg"   alt="slidebg1"  data-bgposition="center center" data-bgrepeat="no-repeat">
 						
 						<!-- LAYER NR. 1 -->    
 						<div class="tp-caption srcaption-bigwhite lft ltb"
@@ -90,7 +90,7 @@
 						data-easing="easeInOutQuad"
 						data-endspeed="800"
 						data-endeasing="easeInOutQuad"
-						style="z-index: 2"><strong>Designed to attract</strong>
+						style="z-index: 2"><strong> وستاک</strong>
 						</div>
 						
 					</li> <!-- end first slide -->
@@ -116,7 +116,7 @@
 					<!-- THE THIRD SLIDE -->
 					<li data-transition="slidedown" data-slotamount="5" data-masterspeed="1200" >
 						<!-- THE MAIN IMAGE IN THE SECOND SLIDE -->
-						<img src="/images/1690x1100.jpg"   alt="slidebg3"  data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+						<img src="/images/backweb.jpg"   alt="slidebg3"  data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
 						<!-- LAYER NR. 1 -->    
 						<div class="tp-caption srcaption-bigwhite lft ltb"
 						data-x="center" data-hoffset="0"
@@ -258,7 +258,7 @@
 									<div class="separator-small"><span></span></div>
 									<h6 class="alttitle">کارآموزی</h6>
 								</div>
-								<a href="portfolio-single.html" class="transition"></a>
+								<a href="/services/young" class="transition"></a>
 							</div>
 						</div>
 					</div> <!-- END .portfolio-masonry-entry -->

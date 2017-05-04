@@ -9,7 +9,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <title>Blog | Pond | Elegant One Page Template</title>
+    <title>طراحی و توسعه اپلیکیشن های موبایل</title>
     <!-- DEFAULT META TAGS -->
 
     <!-- FONTS -->
@@ -53,7 +53,7 @@
 <div id="page-loader" class="text-light">
     <div class="page-loader-inner">
         <div class="loader-logo-name"><img src="/images/pond-logo-light.png" alt="Logo"/></div>
-        <h6 class="alttitle title-minimal">Loading</h6>
+        <h6 class="alttitle title-minimal">صبر کنید ...</h6>
     </div>
 </div>
 <!-- PAGELOADER -->
@@ -91,7 +91,7 @@
                 <div class="spacer spacer-medium"></div>
 
                 <div class="blog-content wrapper">
-                    <h4 class="post-name title-minimal"><strong>طراحی و توسعه سایت</strong></h4>
+                    <h4 class="post-name title-minimal"><strong>طراحی و توسعه اپلیکیشن های موبایل</strong></h4>
 
                     <h5 class="alttitle">
                         <strong>
@@ -100,23 +100,23 @@
                     </h5>
 
                     <p>
-                        وستاک قادر است تا در سریع ترین زمان ممکن وب سایتی تولید نماید تا علاوه بر برطرف کردن نیازمندی های پروژه توجه بسیار زیادی به تجربه کاربری مناسب و همچنین سرعت و قدرت عمل سرور داشته باشد.
+                        وستاک قادر است تا در سریع ترین زمان ممکن اپلیکیشنی  تولید نماید تا علاوه بر برطرف کردن نیازمندی های پروژه توجه بسیار زیادی به تجربه کاربری مناسب و همچنین راحتی کار برای کاربران داشته باشد.
                         <br>
-                        با بهره گیری از آخرین اطلاعات و تکنولوژی های روز قادر هستیم در طراحی و توسعه وب سایت ها از سیستم هایی استفاده نماییم که علاوه بر راحتی کار در بخض توسعه بتوانند سرعت و عملکرد قابل قبولی را ارائه دهند و طبیعتا تجربه بسیار خوبی را در اختیار کاربران شما قراردهند
+                        با بهره گیری از آخرین اطلاعات و تکنولوژی های روز قادر هستیم در طراحی و توسعه اپلیکیشن ها  از تکنولوژی هایی استفاده نماییم که علاوه بر راحتی کار در بخش توسعه بتوانند سرعت و عملکرد قابل قبولی را ارائه دهند و طبیعتا تجربه بسیار خوبی را در اختیار کاربران شما قراردهند
                         <br>
-                        خلاقیت یکی از نقاط قوت ماست چرا که با وجود تیم جوان و البته با تجربه میتوانیم طراحی های نوین و همچنین سیستم های پیشنهادی زیادی را به وب سایت شما اضافه نماییم.
+                        خلاقیت یکی از نقاط قوت ماست چرا که با وجود تیم جوان و البته با تجربه میتوانیم طراحی های نوین و همچنین سیستم های پیشنهادی زیادی را به فعالیت شما اضافه نماییم.
                         <br>
-                        اگر بخواهیم بگوییم چرا وستاک بهترین انتخاب برای توسعه یک وب سایت میباشد میتوان گفت :
+                        اگر بخواهیم بگوییم چرا وستاک بهترین انتخاب برای توسعه یک اپلیکیشن  میباشد میتوان گفت :
                     </p>
 
-                    <blockquote><p>وستاک ابزار روز دنیا را آمیخته با طراحی ایرانی و همچنین رعایت استاندارد های جهانی به کار میگیرد و با تکیه بر دانش آکادمیک و تجربه کاری خود بهترین را ایجاد خواهد نمود</p></blockquote>
+                    <blockquote><p>وستاک با ارائه گزینه های مختلف همانند استفاده از تکنولوژی یکپارچه روی وب و موبایل و همچنین پشتیبانی از برنامه نویسی به زبان native میتواند بهترین همراه شما در توسعه و نگهداری پروژه باشد.</p></blockquote>
 
                     <h6 class="alttitle">
-                        <strong>همه چیز را به ما بسپارید</strong>
+                        <strong>همیشه همراه کاربرانتان باشید تا بدانند که تنها نخواهند بود.</strong>
                     </h6>
 
                     <p>
-                        وستاک از مرحله ایده تا اجرا در کنار شما خواهد بود و کمک خواهد کرد تا به بهترین شکل ممکن وارد دنیای تکنولوژی و اینترنت شوید.
+                        وستاک از مرحله ایده تا اجرا در کنار شما خواهد بود و کمک خواهد کرد تا به بهترین شکل ممکن وارد دنیای تکنولوژی و موبایل شوید.
                     </p>
 
                 </div>
@@ -142,13 +142,13 @@
                 <div class="column-section clearfix">
                     <div class="column one-third align-center">
                         <i class="pe-7s-browser pe-3x"></i>
-                        <h6 class="title-minimal" data-bigletter="و"><strong>واکنش گرا</strong></h6>
-                        <p style="text-align: center">طراحی متناسب برای موبایل ، لپتاپ و دسکتاپ ها</p>
+                        <h6 class="title-minimal" data-bigletter="و"><strong>نمایش کارآمد بر روی دستگاه ها</strong></h6>
+                        <p style="text-align: center">طراحی مناسب برای دستگاه های گوشی مختلف و تپلت ها در سایز های مختلف</p>
                     </div>
                     <div class="column one-third align-center">
                         <i class="pe-7s-gleam pe-3x"></i>
-                        <h6 class="title-minimal" data-bigletter="س"><strong>سریع</strong></h6>
-                        <p style="text-align: center">سرعت بالای لود صفحات مختلف</p>
+                        <h6 class="title-minimal" data-bigletter="س"><strong>بهینه سازی </strong></h6>
+                        <p style="text-align: center">استفاده معقول از منابع سیستم</p>
                     </div>
                     <div class="column one-third last-col align-center">
                         <i class="pe-7s-camera pe-3x"></i>
@@ -399,10 +399,10 @@
 
         <!-- Single Pagination -->
         <ul class="single-pagination fixed-pagination">
-            <li class="next"><a href="/services/app" class="transition" data-name="طراحی و توسعه اپلیکیشن">
+            <li class="next"><a href="/services/young" class="transition" data-name="آموزش نیروی کار جوان">
                     <i class="pagination-icon"></i> بعدی <i class="pagination-icon"></i></a></li>
-            {{--<li class="prev"><a href="blog-single2.html" class="transition" data-name="Selfhosted Audio File">--}}
-            {{--<i class="pagination-icon"></i> قبلی <i class="pagination-icon"></i></a></li>--}}
+            <li class="prev"><a href="/services/web" class="transition" data-name="طراحی و توسعه سایت">
+            <i class="pagination-icon"></i> قبلی <i class="pagination-icon"></i></a></li>
         </ul>
 
     </div> <!-- END .page-body -->
