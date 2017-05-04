@@ -64,7 +64,7 @@
 	
 	
 	<!-- PAGE TITLE -->
-	<section id="page-title" class="full-height parallax-section" data-parallax-image="/images/1690x1100-light.jpg">
+	<section id="page-title" class="full-height parallax" data-parallax-image="/images/1690x1100-light.jpg">
 		<div class="section-inner align-center">
 			<div class="separator-small"><span></span></div>
 			<div><h2 class="title-minimal"><strong>Contact</strong></h2></div>

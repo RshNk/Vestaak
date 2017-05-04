@@ -126,7 +126,7 @@
 	
 
 	<!-- PAGE TITLE -->
-	<section id="page-title" class="parallax-section" data-parallax-image="/images/1690x1100-light.jpg">
+	<section id="page-title" class="parallax" data-parallax-image="/images/1690x1100-light.jpg">
 		<div class="section-inner wrapper align-center">
 			
 			<div class="blog-headline">

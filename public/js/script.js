@@ -350,8 +350,8 @@ jQuery(window).load(function($) {
 	/*---------------------------------------------- 
 				   	 P A R A L L A X
 	------------------------------------------------*/
-	if(jQuery().parallax) { 
-		jQuery('.parallax-section').parallax();
+	if(jQuery().parallax) {
+		jQuery('.parallax').parallax();
 	}
 	
 	

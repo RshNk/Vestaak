@@ -62,7 +62,7 @@
 	
 
 	<!-- PAGE TITLE -->
-	<section id="page-title" class="full-height text-light parallax-section" data-parallax-image="/images/1690x1100.jpg">
+	<section id="page-title" class="full-height text-light parallax" data-parallax-image="/images/1690x1100.jpg">
 		<div class="section-inner wrapper align-center">
 			
 			<span class="time">Nov 12, 2014</span>

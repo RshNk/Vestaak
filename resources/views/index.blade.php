@@ -477,7 +477,7 @@
 		<div class="spacer spacer-big"></div>
 
 		<!-- TESTIMONIALS -->
-		<div id="testimonials" class="horizontalsection text-light parallax-section" data-parallax-image="/images/1690x1100.jpg">
+		<div id="testimonials" class="horizontalsection text-light parallax" data-parallax-image="/images/1690x1100.jpg">
 			<div class="horizontalinner wrapper">
 
 				<div class="owlslider testimonial-slider">

@@ -67,7 +67,7 @@
 
 
     <!-- PAGE TITLE -->
-    <section id="page-title" class="full-height text-light parallax-section" data-parallax-image="/images/mobile.jpg">
+    <section id="page-title" class="full-height text-light parallax" data-parallax-image="/images/mobile.jpg">
         <div class="section-inner align-center">
 
             <div class="main-title">
@@ -339,7 +339,7 @@
         <section id="services" class="notoppadding">
             <div class="section-inner">
 
-                <div class="horizontalsection  parallax-section"  data-parallax-image="/images/contact.jpg"  data-speed="0.5">
+                <div class="horizontalsection  parallax"  data-parallax-image="/images/contact.jpg"  data-speed="0.5">
                     <div class="horizontalinner wrapper align-center text-light">
                         <div class="spacer spacer-medium"></div>
                         <h6 class="alttitle title-ultraminimal">مشاوره رایگان برای شروع کار</h6>
