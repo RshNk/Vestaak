@@ -224,7 +224,7 @@
 					<div class="portfolio-masonry-entry masonry-item branding">
 						<div class="entry-thumb portfolio-thumb">
 							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-								<img src="/images/moon.jpg" alt="SEO IMAGE NAME">
+								<img src="/images/web.jpg" alt="SEO IMAGE NAME">
 								<h5 class="overlay-name fixed title-minimal"><strong>طراحی و توسعه سایت </strong></h5>
 								<div class="overlaycaption">
 									<h5 class="overlay-name title-minimal"><strong>طراحی و توسعه سایت </strong></h5>
@@ -239,7 +239,7 @@
 					<div class="portfolio-masonry-entry masonry-item print">
 						<div class="entry-thumb portfolio-thumb">
 							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-								<img src="/images/tree.jpg" alt="SEO IMAGE NAME">
+								<img src="/images/mobile.png" alt="SEO IMAGE NAME">
 								<h5 class="overlay-name fixed title-minimal"><strong>طراحی و توسعه اپلیکیشن</strong></h5>
 								<div class="overlaycaption">
 									<h5 class="overlay-name title-minimal"><strong>طراحی و توسعه اپلیکیشن</strong></h5>
@@ -254,7 +254,7 @@
 					<div class="portfolio-masonry-entry masonry-item branding">
 						<div class="entry-thumb portfolio-thumb">
 							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-								<img src="/images/heart.jpg" alt="SEO IMAGE NAME">
+								<img src="/images/youth.jpg" alt="SEO IMAGE NAME">
 								<h5 class="overlay-name fixed title-minimal"><strong>آموزش نیروی کار جوان</strong></h5>
 								<div class="overlaycaption">
 									<h5 class="overlay-name title-minimal"><strong>آموزش نیروی کار جوان</strong></h5>
@@ -269,7 +269,7 @@
 					<div class="portfolio-masonry-entry masonry-item print">
 						<div class="entry-thumb portfolio-thumb">
 							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-								<img src="/images/map.jpg" alt="SEO IMAGE NAME">
+								<img src="/images/consult.jpg" alt="SEO IMAGE NAME">
 								<h5 class="overlay-name fixed title-minimal"><strong>مشاوره و ارائه تیم فنی</strong></h5>
 								<div class="overlaycaption">
 									<h5 class="overlay-name title-minimal"><strong>مشاوره و ارائه تیم فنی</strong></h5>
@@ -284,7 +284,7 @@
 					<div class="portfolio-masonry-entry masonry-item branding">
 						<div class="entry-thumb portfolio-thumb">
 							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-								<img src="/images/cat.jpg" data-bgposition="center center" alt="SEO IMAGE NAME">
+								<img src="/images/learn.jpg" data-bgposition="center center" alt="SEO IMAGE NAME">
 								<h5 class="overlay-name fixed title-minimal"><strong>بستر ویدئویی آموزش آنلاین</strong></h5>
 								<div class="overlaycaption">
 									<h5 class="overlay-name title-minimal"><strong>بستر ویدئویی آموزش آنلاین</strong></h5>
@@ -299,7 +299,7 @@
 					<div class="portfolio-masonry-entry masonry-item branding">
 						<div class="entry-thumb portfolio-thumb">
 							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-								<img src="/images/castle.jpg" alt="SEO IMAGE NAME">
+								<img src="/images/teach.jpg" alt="SEO IMAGE NAME">
 								<h5 class="overlay-name fixed title-minimal"><strong>کلاس های تخصصی آموزشی</strong></h5>
 								<div class="overlaycaption">
 									<h5 class="overlay-name title-minimal"><strong>کلاس های تخصصی آموزشی</strong></h5>
@@ -314,7 +314,7 @@
 					<div class="portfolio-masonry-entry masonry-item branding">
 						<div class="entry-thumb portfolio-thumb">
 							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-								<img src="/images/home.jpg" alt="SEO IMAGE NAME">
+								<img src="/images/re.jpg" alt="SEO IMAGE NAME">
 								<h5 class="overlay-name fixed title-minimal"><strong>مهندسی نیازمندی ها</strong></h5>
 								<div class="overlaycaption">
 									<h5 class="overlay-name title-minimal"><strong>مهندسی نیازمندی ها</strong></h5>
@@ -329,7 +329,7 @@
 					<div class="portfolio-masonry-entry masonry-item branding">
 						<div class="entry-thumb portfolio-thumb">
 							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-								<img src="/images/night.jpg" alt="SEO IMAGE NAME">
+								<img src="/images/telegram.jpg" alt="SEO IMAGE NAME">
 								<h5 class="overlay-name fixed title-minimal"><strong>bot تلگرام</strong></h5>
 								<div class="overlaycaption">
 									<h5 class="overlay-name title-minimal"><strong>bot تلگرام</strong></h5>
@@ -344,12 +344,57 @@
 					<div class="portfolio-masonry-entry masonry-item branding">
 						<div class="entry-thumb portfolio-thumb">
 							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-								<img src="/images/purple.jpg" alt="SEO IMAGE NAME">
+								<img src="/images/hrm.jpg" alt="SEO IMAGE NAME">
 								<h5 class="overlay-name fixed title-minimal"><strong>نرم افزار HRM</strong></h5>
 								<div class="overlaycaption">
 									<h5 class="overlay-name title-minimal"><strong>نرم افزار HRM</strong></h5>
 									<div class="separator-small"><span></span></div>
 									<h6 class="alttitle">نرم افزار مدیریت نیروی انسانی</h6>
+								</div>
+								<a href="portfolio-single.html" class="transition"></a>
+							</div>
+						</div>
+					</div> <!-- END .portfolio-masonry-entry -->
+
+					<div class="portfolio-masonry-entry masonry-item branding">
+						<div class="entry-thumb portfolio-thumb">
+							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
+								<img src="/images/bill.jpg" alt="SEO IMAGE NAME">
+								<h5 class="overlay-name fixed title-minimal"><strong>سیستم مدیریت قبض</strong></h5>
+								<div class="overlaycaption">
+									<h5 class="overlay-name title-minimal"><strong>سیستم مدیریت قبص</strong></h5>
+									<div class="separator-small"><span></span></div>
+									<h6 class="alttitle">مدیریت ، ایحاد و پرداخت قبوض</h6>
+								</div>
+								<a href="portfolio-single.html" class="transition"></a>
+							</div>
+						</div>
+					</div> <!-- END .portfolio-masonry-entry -->
+
+					<div class="portfolio-masonry-entry masonry-item branding">
+						<div class="entry-thumb portfolio-thumb">
+							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
+								<img src="/images/todo.jpg" alt="SEO IMAGE NAME">
+								<h5 class="overlay-name fixed title-minimal"><strong>سیستم مدیریت وظایف</strong></h5>
+								<div class="overlaycaption">
+									<h5 class="overlay-name title-minimal"><strong>سیستم مدیریت وظایف</strong></h5>
+									<div class="separator-small"><span></span></div>
+									<h6 class="alttitle">سیستم TODO فارسی</h6>
+								</div>
+								<a href="portfolio-single.html" class="transition"></a>
+							</div>
+						</div>
+					</div> <!-- END .portfolio-masonry-entry -->
+
+					<div class="portfolio-masonry-entry masonry-item branding">
+						<div class="entry-thumb portfolio-thumb">
+							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
+								<img src="/images/teacher.jpg" alt="SEO IMAGE NAME">
+								<h5 class="overlay-name fixed title-minimal"><strong>سایت شخصی و دستیار اساتید</strong></h5>
+								<div class="overlaycaption">
+									<h5 class="overlay-name title-minimal"><strong>سایت شخصی و دستیار اساتید</strong></h5>
+									<div class="separator-small"><span></span></div>
+									<h6 class="alttitle">سایتی جذاب با امکانات فوق العاده</h6>
 								</div>
 								<a href="portfolio-single.html" class="transition"></a>
 							</div>
