@@ -229,7 +229,7 @@
 								<div class="overlaycaption">
 									<h5 class="overlay-name title-minimal"><strong>طراحی و توسعه سایت </strong></h5>
 									<div class="separator-small"><span></span></div>
-									<h6 class="alttitle">HTML/Laravel</h6>
+									<h6 class="alttitle">طراحی پیشرفته و پیاده سازی نوین</h6>
 								</div>
 								<a href="/services/web" class="transition"></a>
 							</div>
