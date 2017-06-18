@@ -65,9 +65,8 @@
     @include('header')
     <!-- HEADER -->
 
-
     <!-- PAGE TITLE -->
-    <section id="page-title" class="full-height text-light parallax-section" data-parallax-image="/images/young.jpg">
+    <section id="page-title" class="full-height text-light parallax" data-parallax-image="/images/young.jpg">
         <div class="section-inner align-center">
 
             <div class="main-title">
@@ -79,7 +78,6 @@
         </div>
     </section>
     <!-- PAGE TITLE -->
-
 
     <!-- PAGEBODY -->
     <div class="page-body">
@@ -99,25 +97,28 @@
                         </strong>
                     </h5>
 
-                    <p>
-                        وستاک قادر است تا در سریع ترین زمان ممکن وب سایتی تولید نماید تا علاوه بر برطرف کردن نیازمندی های پروژه توجه بسیار زیادی به تجربه کاربری مناسب و همچنین سرعت و قدرت عمل سرور داشته باشد.
-                        <br>
-                        با بهره گیری از آخرین اطلاعات و تکنولوژی های روز قادر هستیم در طراحی و توسعه وب سایت ها از سیستم هایی استفاده نماییم که علاوه بر راحتی کار در بخش توسعه بتوانند سرعت و عملکرد قابل قبولی را ارائه دهند و طبیعتا تجربه بسیار خوبی را در اختیار کاربران شما قراردهند
-                        <br>
-                        خلاقیت یکی از نقاط قوت ماست چرا که با وجود تیم جوان و البته با تجربه میتوانیم طراحی های نوین و همچنین سیستم های پیشنهادی زیادی را به وب سایت شما اضافه نماییم.
-                        <br>
-                        اگر بخواهیم بگوییم چرا وستاک بهترین انتخاب برای توسعه یک وب سایت میباشد میتوان گفت :
-                    </p>
+                   <p>
+                       نیرو های جوان که بعد از یادگیری های اولیه مباحث مورد نیاز بازار کماکان فاصله ای بین خود و آنچه در دنیای بیرون اتفاق می افتد حس میکنند نیاز است تا یک دوره کارورزی یا کارآموزی را پشت سر بگذارند تا کاملا از نزدیک در جریان تمام اتفاقات و فرآیند های داخل شرکت ها باشند.
+                       <br>
+                       فرد میتواند با گذراندن دوره ی کارآموزی شرکت وستاک علاوه بر تمام مزیت های بالا از مزیت کار کردن در یک محیط فوق العاده صمیمی و فضایی باز برای پیشرفت را بهره مند شود و در پایان دوره کارآموزی به شرکت های معتبر در زمینه ی تخصصی خود معرفی گردد.
+                   </p>
 
-                    <blockquote><p>وستاک ابزار روز دنیا را آمیخته با طراحی ایرانی و همچنین رعایت استاندارد های جهانی به کار میگیرد و با تکیه بر دانش آکادمیک و تجربه کاری خود بهترین را ایجاد خواهد نمود</p></blockquote>
+                    <blockquote>
+                        <p>
+                            کارآموزی در واقع حدفاصل بین آموزش ها و واقعیات بازار کار است.
+                        </p>
+                    </blockquote>
 
                     <h6 class="alttitle">
-                        <strong>همه چیز را به ما بسپارید</strong>
+                        <strong>امروز شروع کنید</strong>
                     </h6>
 
                     <p>
-وستاک از مرحله ایده تا اجرا در کنار شما خواهد بود و کمک خواهد کرد تا به بهترین شکل ممکن وارد دنیای تکنولوژی و اینترنت شوید.
+                        برای استفاده از این فرصت کارآموزی از طریق بات تلگرام زیر اقدام نمایید
                     </p>
+                    <a  target="_blank" href="http://t.me/VestaakInternShipbot">
+ورود به بات تلگرام شرکت وستاک
+                    </a>
 
                 </div>
 
@@ -141,39 +142,22 @@
 
                 <div class="column-section clearfix">
                     <div class="column one-third align-center">
-                        <i class="pe-7s-browser pe-3x"></i>
-                        <h6 class="title-minimal" data-bigletter="و"><strong>واکنش گرا</strong></h6>
-                        <p style="text-align: center">طراحی متناسب برای موبایل ، لپتاپ و دسکتاپ ها</p>
-                    </div>
-                    <div class="column one-third align-center">
                         <i class="pe-7s-gleam pe-3x"></i>
-                        <h6 class="title-minimal" data-bigletter="س"><strong>سریع</strong></h6>
-                        <p style="text-align: center">سرعت بالای لود صفحات مختلف</p>
+                        <h6 class="title-minimal" data-bigletter="پ"><strong>پیشرفت سریع </strong></h6>
+                        <p style="text-align: center">با تمام سرعت به جلو بروید و چیز های جدید یاد بگیرید</p>
                     </div>
-                    <div class="column one-third last-col align-center">
+                    <div class="column one-third align-center">
                         <i class="pe-7s-camera pe-3x"></i>
-                        <h6 class="title-minimal" data-bigletter="ط"><strong>طراحی خلاقانه</strong></h6>
-                        <p style="text-align: center">طراحی به صورت ساده اما گیرا و جذاب</p>
-                    </div>
-                </div> <!-- END .column-section -->
-
-                <div class="column-section clearfix">
-                    <div class="column one-third align-center">
-                        <i class="pe-7s-users pe-3x"></i>
-                        <h6 class="title-minimal" data-bigletter="س"><strong>سفارشی سازی</strong></h6>
-                        <p style="text-align: center">قابلیت سفارشی سازی حرفه ای بر اساس نیازها</p>
-                    </div>
-                    <div class="column one-third align-center">
-                        <i class="pe-7s-alarm pe-3x"></i>
-                        <h6 class="title-minimal" data-bigletter="ت"><strong>تست و اجرا</strong></h6>
-                        <p style="text-align: center">تست کامل عملکرد سیستم و اجرا بر روی سرور</p>
+                        <h6 class="title-minimal" data-bigletter="خ"><strong>خلاقیت</strong></h6>
+                        <p style="text-align: center">خلاقیت خودتان را محک بزنید و مسائل جدید را حل کنید</p>
                     </div>
                     <div class="column one-third last-col align-center">
                         <i class="pe-7s-help2 pe-3x"></i>
-                        <h6 class="title-minimal" data-bigletter="پ"><strong>پشتیبانی</strong></h6>
-                        <p style="text-align: center">آماده ارائه پشتیبانی کامل</p>
+                        <h6 class="title-minimal" data-bigletter="ت"><strong>کار تیمی</strong></h6>
+                        <p style="text-align: center">کار تیمی را بیاموزید</p>
                     </div>
                 </div> <!-- END .column-section -->
+
 
             </div> <!-- END .horizontalinner.wrapper -->
         </div> <!-- END .horizontalsection -->
@@ -183,14 +167,15 @@
 
         <!-- SPACED PORTFOLIO -->
         <div class="main-title wrapper align-center">
-            <h4 data-bigletter="ن"><strong>نمونه کارها</strong></h4>
+            <h4 data-bigletter=" کارآموزان"><strong>کارآموز های فعلی و گذشته</strong></h4>
             <div class="separator-small"><span></span></div>
-            <h6 class="alttitle title-minimal">توجه : تنها نمونه کارهایی که اجازه انتشار دارند به اشتراک گذاشته شده اند.</h6>
+            <h6 class="alttitle title-minimal">تنها کارآموزانی که دوره ها به اتمام رسانده اند معرفی شده اند.</h6>
             <div class="spacer spacer-small"></div>
             <ul id="portfolio-filter-spaced" class="filter clearfix" data-related-grid="portfolio-grid-spaced">
-                <li><a class="active" href="#" data-option-value="*">All</a></li>
-                <li><a data-option-value=".branding" href="#" title="Branding">Branding</a></li>
-                <li><a data-option-value=".print" href="#" title="Print">Print</a></li>
+                <li><a class="active" href="#" data-option-value="*">همه</a></li>
+                <li><a data-option-value=".branding" href="#" title="Branding">وب</a></li>
+                <li><a data-option-value=".print" href="#" title="Print">موبایل</a></li>
+                <li><a data-option-value=".print" href="#" title="Print">داده کاوی</a></li>
             </ul>
         </div> <!-- END .main-title .wrapper -->
 
@@ -335,60 +320,6 @@
 
         <div class="spacer spacer-big"></div>
 
-        <!-- SERVICE -->
-        <section id="services" class="notoppadding">
-            <div class="section-inner">
-
-                <div class="horizontalsection  parallax-section"  data-parallax-image="/images/contact.jpg"  data-speed="0.5">
-                    <div class="horizontalinner wrapper align-center text-light">
-                        <div class="spacer spacer-medium"></div>
-                        <h6 class="alttitle title-ultraminimal">مشاوره رایگان برای شروع کار</h6>
-                        <h2 class="title-minimal" data-bigletter="ح"><strong>حرفه ای عمل کنیم</strong></h2>
-                        <div class="spacer spacer-mini"></div>
-                        <a href="gallery-multipage.html" class="transition sr-button medium-button sr-button2">تماس بگیرید</a>
-                        <div class="spacer spacer-big"></div>
-                    </div>
-                </div> <!-- END .horizontalsection-->
-
-            </div> <!-- END .section-inner-->
-        </section> <!-- END SECTION #service-->
-        <!-- SERVICE -->
-
-        <div class="spacer spacer-big"></div>
-
-        <!-- CLIENTS -->
-        <div class="wrapper">
-
-            <div class="main-title align-center">
-                <h4><strong>Clients</strong></h4>
-                <div class="separator-small"><span></span></div>
-                <h6 class="alttitle title-minimal">Who we worked with</h6>
-            </div>
-
-            <div class="spacer spacer-mini"></div>
-
-            <div class="owlcarousel content-carousel column-section clearfix align-center" data-autoplay="6000" data-pagination="true" data-navigation="true">
-                <div class="align-center">
-                    <img src="/images/800x600.jpg" alt="Client Logo">
-                </div>
-                <div class="align-center">
-                    <img src="/images/800x600.jpg" alt="Client Logo">
-                </div>
-                <div class="align-center">
-                    <img src="/images/800x1200.jpg" alt="Client Logo">
-                </div>
-                <div class="align-center">
-                    <img src="/images/800x600.jpg" alt="Client Logo">
-                </div>
-                <div class="align-center">
-                    <img src="/images/800x600.jpg" alt="Client Logo">
-                </div>
-                <div class="align-center">
-                    <img src="/images/800x600.jpg" alt="Client Logo">
-                </div>
-            </div>
-        </div>
-        <!-- CLIENTS -->
 
         <div class="spacer spacer-big"></div>
 
@@ -399,10 +330,10 @@
 
         <!-- Single Pagination -->
         <ul class="single-pagination fixed-pagination">
-            <li class="next"><a href="/services/app" class="transition" data-name="طراحی و توسعه اپلیکیشن">
+            <li class="next"><a href="/services/consult" class="transition" data-name="مشاوره و ارائه تیم فنی">
                     <i class="pagination-icon"></i> بعدی <i class="pagination-icon"></i></a></li>
-            {{--<li class="prev"><a href="blog-single2.html" class="transition" data-name="Selfhosted Audio File">--}}
-                    {{--<i class="pagination-icon"></i> قبلی <i class="pagination-icon"></i></a></li>--}}
+            <li class="prev"><a href="/services/app" class="transition" data-name="طراحی و توسعه اپلیکیشن">
+                    <i class="pagination-icon"></i> قبلی <i class="pagination-icon"></i></a></li>
         </ul>
 
     </div> <!-- END .page-body -->

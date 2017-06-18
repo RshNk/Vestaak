@@ -1,7 +1,7 @@
 <!-- FOOTER -->
 <footer>
     <div class="footer-inner wrapper">
-        <a id="backtotop" href="#">To Top</a>
+        <a id="backtotop" href="#">بالای صفحه</a>
         <ul class="socialmedia-widget left-float">
             <li class="facebook"><a href="#"></a></li>
             <li class="twitter"><a href="#"></a></li>

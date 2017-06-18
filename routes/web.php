@@ -37,6 +37,10 @@ Route::get('/services/young', function () {
 });
 
 
+Route::get('/services/consult', function () {
+    return view('services.consult');
+});
+
 /*------blog parts-------*/
 Route::get('/blog', function () {
     return view('blog.blog');
