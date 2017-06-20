@@ -91,32 +91,57 @@
                 <div class="spacer spacer-medium"></div>
 
                 <div class="blog-content wrapper">
-                    <h4 class="post-name title-minimal"><strong>طراحی و توسعه سایت</strong></h4>
+                    <h4 class="post-name title-minimal"><strong>بستر آنلاین آموزش مبتنی بر ویدئو</strong></h4>
 
                     <h5 class="alttitle">
                         <strong>
-                            طراحی های شرکت از نظر ظاهری تماما با آخرین ویژگی های روز دنیا و با استاندارد های جهانی منظبق است.
+                            یک سیستم کامل و قوی برای  آموزش آنلاین موسسه یا استارتاپ شما آماده است. از امکانات وب و موبایل برای پیشرفت آموزش هایتان بهره ببرید.
                         </strong>
                     </h5>
 
                     <p>
-                        وستاک قادر است تا در سریع ترین زمان ممکن وب سایتی تولید نماید تا علاوه بر برطرف کردن نیازمندی های پروژه توجه بسیار زیادی به تجربه کاربری مناسب و همچنین سرعت و قدرت عمل سرور داشته باشد.
-                        <br>
-                        با بهره گیری از آخرین اطلاعات و تکنولوژی های روز قادر هستیم در طراحی و توسعه وب سایت ها از سیستم هایی استفاده نماییم که علاوه بر راحتی کار در بخش توسعه بتوانند سرعت و عملکرد قابل قبولی را ارائه دهند و طبیعتا تجربه بسیار خوبی را در اختیار کاربران شما قراردهند
-                        <br>
-                        خلاقیت یکی از نقاط قوت ماست چرا که با وجود تیم جوان و البته با تجربه میتوانیم طراحی های نوین و همچنین سیستم های پیشنهادی زیادی را به وب سایت شما اضافه نماییم.
-                        <br>
-                        اگر بخواهیم بگوییم چرا وستاک بهترین انتخاب برای توسعه یک وب سایت میباشد میتوان گفت :
+                        سیستم آموزش آنلاین مبتنی بر ویدئو وستاک به شما امکانات فراوانی را عرضه میکند که میتواند به کمک آن ها با ظاهری زیبا و کیفیتی فوق العاده و اندکی سفارشی سازی یک سرویس فعال و به روز آموزشی آنلاین را بسازید و بتوانید به کسب درآمد بپردازید.
+                       برخی از امکانات این سیستم به شرح زیر میباشند:
+                        <ul>
+                            <li>امکان اضافه کردن دروس </li>
+                            <li>امکان اضافه کردن اساتید</li>
+                            <li>امکان اضافه کردن جلسات دروس</li>
+                            <li>توضیحات دقیق دروس </li>
+                            <li>امتیاز دهی و نظر دهی در جلسات</li>
+                            <li>سرچ پیشرفته دروس </li>
+                            <li>سیستم تگ برای دروس و اساتید</li>
+                            <li>پروفایل سازی برای اساتید</li>
+                            <li>ادمین کامل</li>
+                            <li>امکان استفاده از سرویس های ویدیویی مبتنی بر CDN</li>
+                            <li>عضو گیری و پروفایل کاربران</li>
+                            <li>امکان تعریف دروس رایگان و پولی </li>
+                            <li>اعتبار کاربری</li>
+                            <li>خرید بسته های درسی به صورت زمان دار</li>
+                            <li>تعریف بسته های درسی مشخص</li>
+                            <li>اپلیکیشن اندروید و ios</li>
+                            <li>خرید از اعتبار یا درگاه های بانکی به صورت مستقیم</li>
+                            <li>تعریف درگاه های بانکی متعدد</li>
+                            <li>پشتیبانی از کد های تخفیف درصدی و نقدی</li>
+                            <li>و چندین ویژگی دیگر ...</li>
+
+
+                        </ul>
                     </p>
 
-                    <blockquote><p>وستاک ابزار روز دنیا را آمیخته با طراحی ایرانی و همچنین رعایت استاندارد های جهانی به کار میگیرد و با تکیه بر دانش آکادمیک و تجربه کاری خود بهترین را ایجاد خواهد نمود</p></blockquote>
+                    <blockquote>
+                        <p>
+                            آموزش را در همه جا به همراه مخاطبینتان داشته باشید و درآمد کسب کنید.
+                        </p>
+                    </blockquote>
 
                     <h6 class="alttitle">
-                        <strong>همه چیز را به ما بسپارید</strong>
+                        <strong>دموی پروژه را مشاهده نمایید</strong>
                     </h6>
 
                     <p>
-وستاک از مرحله ایده تا اجرا در کنار شما خواهد بود و کمک خواهد کرد تا به بهترین شکل ممکن وارد دنیای تکنولوژی و اینترنت شوید.
+                        <a href="http://hamyad.net">
+                            مشاهده ی دمو پلتفرم آموزش آنلاین مبتنی بر ویدئو
+                        </a>
                     </p>
 
                 </div>
@@ -128,212 +153,7 @@
         </section> <!-- END SECTION #blog-->
         <!-- BLOG SINGLE SECTION -->
 
-        <div class="spacer spacer-big"></div>
-
-        <!-- SERVICES -->
-        <div class="horizontalsection" style="background:#f7f7f7;">
-            <div class="horizontalinner wrapper">
-
-                <div class="main-title align-center">
-                    <h4 class="title-minimal" data-bigletter="و"><strong>ویژگی ها</strong></h4>
-                    <div class="separator-small"><span></span></div>
-                </div>
-
-                <div class="column-section clearfix">
-                    <div class="column one-third align-center">
-                        <i class="pe-7s-browser pe-3x"></i>
-                        <h6 class="title-minimal" data-bigletter="و"><strong>واکنش گرا</strong></h6>
-                        <p style="text-align: center">طراحی متناسب برای موبایل ، لپتاپ و دسکتاپ ها</p>
-                    </div>
-                    <div class="column one-third align-center">
-                        <i class="pe-7s-gleam pe-3x"></i>
-                        <h6 class="title-minimal" data-bigletter="س"><strong>سریع</strong></h6>
-                        <p style="text-align: center">سرعت بالای لود صفحات مختلف</p>
-                    </div>
-                    <div class="column one-third last-col align-center">
-                        <i class="pe-7s-camera pe-3x"></i>
-                        <h6 class="title-minimal" data-bigletter="ط"><strong>طراحی خلاقانه</strong></h6>
-                        <p style="text-align: center">طراحی به صورت ساده اما گیرا و جذاب</p>
-                    </div>
-                </div> <!-- END .column-section -->
-
-                <div class="column-section clearfix">
-                    <div class="column one-third align-center">
-                        <i class="pe-7s-users pe-3x"></i>
-                        <h6 class="title-minimal" data-bigletter="س"><strong>سفارشی سازی</strong></h6>
-                        <p style="text-align: center">قابلیت سفارشی سازی حرفه ای بر اساس نیازها</p>
-                    </div>
-                    <div class="column one-third align-center">
-                        <i class="pe-7s-alarm pe-3x"></i>
-                        <h6 class="title-minimal" data-bigletter="ت"><strong>تست و اجرا</strong></h6>
-                        <p style="text-align: center">تست کامل عملکرد سیستم و اجرا بر روی سرور</p>
-                    </div>
-                    <div class="column one-third last-col align-center">
-                        <i class="pe-7s-help2 pe-3x"></i>
-                        <h6 class="title-minimal" data-bigletter="پ"><strong>پشتیبانی</strong></h6>
-                        <p style="text-align: center">آماده ارائه پشتیبانی کامل</p>
-                    </div>
-                </div> <!-- END .column-section -->
-
-            </div> <!-- END .horizontalinner.wrapper -->
-        </div> <!-- END .horizontalsection -->
-        <!-- SERVICES -->
-
-        <div class="spacer spacer-big"></div>
-
-        <!-- SPACED PORTFOLIO -->
-        <div class="main-title wrapper align-center">
-            <h4 data-bigletter="ن"><strong>نمونه کارها</strong></h4>
-            <div class="separator-small"><span></span></div>
-            <h6 class="alttitle title-minimal">توجه : تنها نمونه کارهایی که اجازه انتشار دارند به اشتراک گذاشته شده اند.</h6>
-            <div class="spacer spacer-small"></div>
-            <ul id="portfolio-filter-spaced" class="filter clearfix" data-related-grid="portfolio-grid-spaced">
-                <li><a class="active" href="#" data-option-value="*">All</a></li>
-                <li><a data-option-value=".branding" href="#" title="Branding">Branding</a></li>
-                <li><a data-option-value=".print" href="#" title="Print">Print</a></li>
-            </ul>
-        </div> <!-- END .main-title .wrapper -->
-
         <div class="spacer spacer-small"></div>
-
-        <div id="portfolio-grid-spaced" class="masonry portfolio-entries masonry-spaced clearfix" data-maxitemwidth="400">
-
-            <div class="portfolio-masonry-entry masonry-item branding">
-                <div class="entry-thumb portfolio-thumb">
-                    <div class="imgoverlay overlay-dark overlay-transparent">
-                        <img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
-                        <div class="overlaycaption">
-                            <h4 class="overlay-name title-minimal"><strong>Tom Burly</strong></h4>
-                            <div class="separator-small"><span></span></div>
-                            <ul class="socialmedia-widget alttitle">
-                                <li class="facebook"><a href="#"></a></li>
-                                <li class="dropbox"><a href="#"></a></li>
-                                <li class="flickr"><a href="#"></a></li>
-                                <li class="vimeo"><a href="#"></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <h6>Creative Director</h6>
-                    <p>
-                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempora invidunt ut labore.
-                    </p>
-                </div>
-            </div> <!-- END .portfolio-masonry-entry -->
-
-            <div class="portfolio-masonry-entry masonry-item print">
-                <div class="entry-thumb portfolio-thumb">
-                    <div class="imgoverlay overlay-dark overlay-transparent">
-                        <img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
-                        <div class="overlaycaption">
-                            <h4 class="overlay-name title-minimal"><strong>Tom Burly</strong></h4>
-                            <div class="separator-small"><span></span></div>
-                            <ul class="socialmedia-widget alttitle">
-                                <li class="facebook"><a href="#"></a></li>
-                                <li class="dropbox"><a href="#"></a></li>
-                                <li class="flickr"><a href="#"></a></li>
-                                <li class="vimeo"><a href="#"></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <h6>Creative Director</h6>
-                    <p>
-                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempora invidunt ut labore.
-                    </p>
-                </div>
-            </div> <!-- END .portfolio-masonry-entry -->
-
-            <div class="portfolio-masonry-entry masonry-item branding">
-                <div class="entry-thumb portfolio-thumb">
-                    <div class="imgoverlay overlay-dark overlay-transparent">
-                        <img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
-                        <div class="overlaycaption">
-                            <h4 class="overlay-name title-minimal"><strong>Tom Burly</strong></h4>
-                            <div class="separator-small"><span></span></div>
-                            <ul class="socialmedia-widget alttitle">
-                                <li class="facebook"><a href="#"></a></li>
-                                <li class="dropbox"><a href="#"></a></li>
-                                <li class="flickr"><a href="#"></a></li>
-                                <li class="vimeo"><a href="#"></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <h6>Creative Director</h6>
-                    <p>
-                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempora invidunt ut labore.
-                    </p>
-                </div>
-            </div> <!-- END .portfolio-masonry-entry -->
-
-            <div class="portfolio-masonry-entry masonry-item print">
-                <div class="entry-thumb portfolio-thumb">
-                    <div class="imgoverlay overlay-dark overlay-transparent">
-                        <img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
-                        <div class="overlaycaption">
-                            <h4 class="overlay-name title-minimal"><strong>Tom Burly</strong></h4>
-                            <div class="separator-small"><span></span></div>
-                            <ul class="socialmedia-widget alttitle">
-                                <li class="facebook"><a href="#"></a></li>
-                                <li class="dropbox"><a href="#"></a></li>
-                                <li class="flickr"><a href="#"></a></li>
-                                <li class="vimeo"><a href="#"></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <h6>Creative Director</h6>
-                    <p>
-                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempora invidunt ut labore.
-                    </p>
-                </div>
-            </div> <!-- END .portfolio-masonry-entry -->
-
-            <div class="portfolio-masonry-entry masonry-item branding">
-                <div class="entry-thumb portfolio-thumb">
-                    <div class="imgoverlay overlay-dark overlay-transparent">
-                        <img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
-                        <div class="overlaycaption">
-                            <h4 class="overlay-name title-minimal"><strong>Tom Burly</strong></h4>
-                            <div class="separator-small"><span></span></div>
-                            <ul class="socialmedia-widget alttitle">
-                                <li class="facebook"><a href="#"></a></li>
-                                <li class="dropbox"><a href="#"></a></li>
-                                <li class="flickr"><a href="#"></a></li>
-                                <li class="vimeo"><a href="#"></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <h6>Creative Director</h6>
-                    <p>
-                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempora invidunt ut labore.
-                    </p>
-                </div>
-            </div> <!-- END .portfolio-masonry-entry -->
-
-            <div class="portfolio-masonry-entry masonry-item branding">
-                <div class="entry-thumb portfolio-thumb">
-                    <div class="imgoverlay overlay-dark overlay-transparent">
-                        <img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
-                        <div class="overlaycaption">
-                            <h4 class="overlay-name title-minimal"><strong>Tom Burly</strong></h4>
-                            <div class="separator-small"><span></span></div>
-                            <ul class="socialmedia-widget alttitle">
-                                <li class="facebook"><a href="#"></a></li>
-                                <li class="dropbox"><a href="#"></a></li>
-                                <li class="flickr"><a href="#"></a></li>
-                                <li class="vimeo"><a href="#"></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <h6>Creative Director</h6>
-                    <p>
-                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempora invidunt ut labore.
-                    </p>
-                </div>
-            </div> <!-- END .portfolio-masonry-entry -->
-
-        </div> <!-- END #portfolio-grid -->
-        <!-- SPACED PORTFOLIO -->
-
-        <div class="spacer spacer-big"></div>
 
         <!-- SERVICE -->
         <section id="services" class="notoppadding">
@@ -354,43 +174,7 @@
         </section> <!-- END SECTION #service-->
         <!-- SERVICE -->
 
-        <div class="spacer spacer-big"></div>
-
-        <!-- CLIENTS -->
-        <div class="wrapper">
-
-            <div class="main-title align-center">
-                <h4><strong>Clients</strong></h4>
-                <div class="separator-small"><span></span></div>
-                <h6 class="alttitle title-minimal">Who we worked with</h6>
-            </div>
-
-            <div class="spacer spacer-mini"></div>
-
-            <div class="owlcarousel content-carousel column-section clearfix align-center" data-autoplay="6000" data-pagination="true" data-navigation="true">
-                <div class="align-center">
-                    <img src="/images/800x600.jpg" alt="Client Logo">
-                </div>
-                <div class="align-center">
-                    <img src="/images/800x600.jpg" alt="Client Logo">
-                </div>
-                <div class="align-center">
-                    <img src="/images/800x1200.jpg" alt="Client Logo">
-                </div>
-                <div class="align-center">
-                    <img src="/images/800x600.jpg" alt="Client Logo">
-                </div>
-                <div class="align-center">
-                    <img src="/images/800x600.jpg" alt="Client Logo">
-                </div>
-                <div class="align-center">
-                    <img src="/images/800x600.jpg" alt="Client Logo">
-                </div>
-            </div>
-        </div>
-        <!-- CLIENTS -->
-
-        <div class="spacer spacer-big"></div>
+        <div class="spacer spacer-small"></div>
 
 
         <!-- FOOTER -->
