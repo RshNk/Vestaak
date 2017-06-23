@@ -44,6 +44,30 @@ Route::get('/services/elearn', function () {
     return view('services.elearn');
 });
 
+Route::get('/services/courses', function () {
+    return view('services.courses');
+});
+
+Route::get('/services/needs', function () {
+    return view('services.needs');
+});
+
+Route::get('/services/telebot', function () {
+    return view('services.telebot');
+});
+
+Route::get('/services/hrm', function () {
+    return view('services.hrm');
+});
+
+Route::get('/services/bills', function () {
+    return view('services.bills');
+});
+
+Route::get('/services/todo', function () {
+    return view('services.todo');
+});
+
 /*------blog parts-------*/
 Route::get('/blog', function () {
     return view('blog.blog');
