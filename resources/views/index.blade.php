@@ -276,7 +276,8 @@
 									<div class="separator-small"><span></span></div>
 									<h6 class="alttitle">پشتیبانی</h6>
 								</div>
-								<a href="portfolio-single2.html" class="transition"></a>
+								{{--<a href="portfolio-single2.html" class="transition"></a>--}}
+								<a href="/services/consult" class="transition"></a>
 							</div>
 						</div>
 					</div> <!-- END .portfolio-masonry-entry -->
@@ -291,7 +292,7 @@
 									<div class="separator-small"><span></span></div>
 									<h6 class="alttitle">محصولات</h6>
 								</div>
-								<a href="portfolio-single.html" class="transition"></a>
+								<a href="/services/elearn" class="transition"></a>
 							</div>
 						</div>
 					</div> <!-- END .portfolio-masonry-entry -->
@@ -306,7 +307,7 @@
 									<div class="separator-small"><span></span></div>
 									<h6 class="alttitle">ورود به بازارکار</h6>
 								</div>
-								<a href="portfolio-single.html" class="transition"></a>
+								<a href="/services/courses" class="transition"></a>
 							</div>
 						</div>
 					</div> <!-- END .portfolio-masonry-entry -->
@@ -321,7 +322,7 @@
 									<div class="separator-small"><span></span></div>
 									<h6 class="alttitle">استخراج نیازمندی ها و مشاوره فنی</h6>
 								</div>
-								<a href="portfolio-single.html" class="transition"></a>
+								<a href="/services/needs" class="transition"></a>
 							</div>
 						</div>
 					</div> <!-- END .portfolio-masonry-entry -->
@@ -336,7 +337,7 @@
 									<div class="separator-small"><span></span></div>
 									<h6 class="alttitle">طراحی bot تلگرام و بازی inline</h6>
 								</div>
-								<a href="portfolio-single.html" class="transition"></a>
+								<a href="/services/telebot" class="transition"></a>
 							</div>
 						</div>
 					</div> <!-- END .portfolio-masonry-entry -->
@@ -351,7 +352,7 @@
 									<div class="separator-small"><span></span></div>
 									<h6 class="alttitle">نرم افزار مدیریت نیروی انسانی</h6>
 								</div>
-								<a href="portfolio-single.html" class="transition"></a>
+								<a href="/services/hrm" class="transition"></a>
 							</div>
 						</div>
 					</div> <!-- END .portfolio-masonry-entry -->
@@ -364,9 +365,9 @@
 								<div class="overlaycaption">
 									<h5 class="overlay-name title-minimal"><strong>سیستم مدیریت قبص</strong></h5>
 									<div class="separator-small"><span></span></div>
-									<h6 class="alttitle">مدیریت ، ایحاد و پرداخت قبوض</h6>
+									<h6 class="alttitle">مدیریت ، ایجاد و پرداخت قبوض</h6>
 								</div>
-								<a href="portfolio-single.html" class="transition"></a>
+								<a href="/services/bills" class="transition"></a>
 							</div>
 						</div>
 					</div> <!-- END .portfolio-masonry-entry -->
@@ -381,7 +382,7 @@
 									<div class="separator-small"><span></span></div>
 									<h6 class="alttitle">سیستم TODO فارسی</h6>
 								</div>
-								<a href="portfolio-single.html" class="transition"></a>
+								<a href="/services/todo" class="transition"></a>
 							</div>
 						</div>
 					</div> <!-- END .portfolio-masonry-entry -->
