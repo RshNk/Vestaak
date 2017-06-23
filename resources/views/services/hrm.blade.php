@@ -9,7 +9,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <title>بستر آنلاین آموزش ویدئو</title>
+    <title>نرم افزار HRM</title>
     <!-- DEFAULT META TAGS -->
 
     <!-- FONTS -->
@@ -65,21 +65,19 @@
     @include('header')
     <!-- HEADER -->
 
-
     <!-- PAGE TITLE -->
-    <section id="page-title" class="full-height text-light parallax"  data-parallax-image="/images/backvideo.gif">
+    <section id="page-title" class="full-height text-light parallax" data-parallax-image="/images/hrm.jpg">
         <div class="section-inner align-center">
 
             <div class="main-title">
-                <h2 style="color:floralwhite"><strong>بستر آنلاین آموزش ویدئو</strong></h2>
+                <h2><strong>نرم افزار HRM</strong></h2>
                 <div class="separator"><span></span></div>
-                <h5 class="alttitle title-minimal">سرویس بستر آنلاین آموزش بر اساس ویدئو</h5>
+                <h5 class="alttitle title-minimal">نرم افزار مدیریت نیروی انسانی</h5>
             </div>
 
         </div>
     </section>
     <!-- PAGE TITLE -->
-
 
     <!-- PAGEBODY -->
     <div class="page-body">
@@ -91,56 +89,35 @@
                 <div class="spacer spacer-medium"></div>
 
                 <div class="blog-content wrapper">
-                    <h4 class="post-name title-minimal"><strong>بستر آنلاین آموزش مبتنی بر ویدئو</strong></h4>
+                    <h4 class="post-name title-minimal"><strong>نرم افزار HRM</strong></h4>
 
                     <h5 class="alttitle">
                         <strong>
-                            یک سیستم کامل و قوی برای  آموزش آنلاین موسسه یا استارتاپ شما آماده است. از امکانات وب و موبایل برای پیشرفت آموزش هایتان بهره ببرید.
+                            وستاک به شما این امکان را میدهد تا با استفاده از نرم‌افزار HRM نیروی انسانی‌ خود را مطابق با نیاز شرکت مدیریت کنید.
                         </strong>
                     </h5>
 
-                    <p>
-                        سیستم آموزش آنلاین مبتنی بر ویدئو وستاک به شما امکانات فراوانی را عرضه میکند که میتواند به کمک آن ها با ظاهری زیبا و کیفیتی فوق العاده و اندکی سفارشی سازی یک سرویس فعال و به روز آموزشی آنلاین را بسازید و بتوانید به کسب درآمد بپردازید.
-                       برخی از امکانات این سیستم به شرح زیر میباشند:
-                        <ul>
-                            <li>امکان اضافه کردن دروس </li>
-                            <li>امکان اضافه کردن اساتید</li>
-                            <li>امکان اضافه کردن جلسات دروس</li>
-                            <li>توضیحات دقیق دروس </li>
-                            <li>امتیاز دهی و نظر دهی در جلسات</li>
-                            <li>سرچ پیشرفته دروس </li>
-                            <li>سیستم تگ برای دروس و اساتید</li>
-                            <li>پروفایل سازی برای اساتید</li>
-                            <li>ادمین کامل</li>
-                            <li>امکان استفاده از سرویس های ویدیویی مبتنی بر CDN</li>
-                            <li>عضو گیری و پروفایل کاربران</li>
-                            <li>امکان تعریف دروس رایگان و پولی </li>
-                            <li>اعتبار کاربری</li>
-                            <li>خرید بسته های درسی به صورت زمان دار</li>
-                            <li>تعریف بسته های درسی مشخص</li>
-                            <li>اپلیکیشن اندروید و ios</li>
-                            <li>خرید از اعتبار یا درگاه های بانکی به صورت مستقیم</li>
-                            <li>تعریف درگاه های بانکی متعدد</li>
-                            <li>پشتیبانی از کد های تخفیف درصدی و نقدی</li>
-                            <li>و چندین ویژگی دیگر ...</li>
-
-
-                        </ul>
-                    </p>
+                   <p>
+                       وستاک قادر است تا در سریع ترین زمان ممکن نرم‌افزاری تولید نماید تا علاوه بر برطرف کردن نیازمندی های پروژه توجه بسیار زیادی به استفاده بهینه از نیروی انسانی‌ در دسترس داشته باشد.
+                       <br>
+                       طراحی خلاقانه و الگوریتم مناسب نرم‌افزار حرم وستاک به شما کمک می‌کند تا بهترین گزینه‌ها را برای کار خود انتخاب کنید.
+                   </p>
 
                     <blockquote>
                         <p>
-                            آموزش را در همه جا به همراه مخاطبینتان داشته باشید و درآمد کسب کنید.
+                            استفاده از منابع درست در جای مناسب شما را به اوج می‌رساند.
                         </p>
                     </blockquote>
 
                     <h6 class="alttitle">
-                        <strong>دموی پروژه را مشاهده نمایید</strong>
+                        <strong>هزینه یه خود را اتلاف نکنید.</strong>
                     </h6>
 
                     <p>
-                        <a href="http://hamyad.net">
-                            مشاهده ی دمو پلتفرم آموزش آنلاین مبتنی بر ویدئو
+                        با استفاده از لینک زیر برای خرید نرم‌افزار اقدام کنید:
+                        <br>
+                        <a  target="_blank" href="#">
+                            نرم‌افزار HRM
                         </a>
                     </p>
 
@@ -153,7 +130,41 @@
         </section> <!-- END SECTION #blog-->
         <!-- BLOG SINGLE SECTION -->
 
-        <div class="spacer spacer-small"></div>
+        <div class="spacer spacer-big"></div>
+
+        <!-- SERVICES -->
+        <div class="horizontalsection" style="background:#f7f7f7;">
+            <div class="horizontalinner wrapper">
+
+                <div class="main-title align-center">
+                    <h4 class="title-minimal" data-bigletter="و"><strong>ویژگی ها</strong></h4>
+                    <div class="separator-small"><span></span></div>
+                </div>
+
+                <div class="column-section clearfix">
+                    <div class="column one-third align-center">
+                        <i class="pe-7s-gleam pe-3x"></i>
+                        <h6 class="title-minimal" data-bigletter="پ"><strong>پیشرفت سریع</strong></h6>
+                        <p style="text-align: center">با تمام سرعت به جلو بروید</p>
+                    </div>
+                    <div class="column one-third align-center">
+                        <i class="pe-7s-help2 pe-3x"></i>
+                        <h6 class="title-minimal" data-bigletter="پ"><strong>پشتیبانی</strong></h6>
+                        <p style="text-align: center">آماده ارائه پشتیبانی کامل</p>
+                    </div>
+                    <div class="column one-third last-col align-center">
+                        <i class="pe-7s-alarm pe-3x"></i>
+                        <h6 class="title-minimal" data-bigletter="ت"><strong>تست و اجرا</strong></h6>
+                        <p style="text-align: center">تست کامل عملکرد سیستم و اجرا بر روی سرور</p>
+                    </div>
+                </div> <!-- END .column-section -->
+
+
+            </div> <!-- END .horizontalinner.wrapper -->
+        </div> <!-- END .horizontalsection -->
+        <!-- SERVICES -->
+
+        <div class="spacer spacer-big"></div>
 
         <!-- SERVICE -->
         <section id="services" class="notoppadding">
@@ -174,7 +185,46 @@
         </section> <!-- END SECTION #service-->
         <!-- SERVICE -->
 
-        <div class="spacer spacer-small"></div>
+        <div class="spacer spacer-big"></div>
+
+        <!-- CLIENTS -->
+        <div class="wrapper">
+
+            <div class="main-title align-center">
+                <h4><strong>مشتریان</strong></h4>
+                <div class="separator-small"><span></span></div>
+                <h6 class="alttitle title-minimal">کسانی‌ که با هم همکاری داشته ایم</h6>
+            </div>
+
+            <div class="spacer spacer-mini"></div>
+
+            <div class="owlcarousel content-carousel column-section clearfix align-center" data-autoplay="6000" data-pagination="true" data-navigation="true">
+                <div class="align-center">
+                    <img src="/images/800x600.jpg" alt="Client Logo">
+                </div>
+                <div class="align-center">
+                    <img src="/images/800x600.jpg" alt="Client Logo">
+                </div>
+                <div class="align-center">
+                    <img src="/images/800x1200.jpg" alt="Client Logo">
+                </div>
+                <div class="align-center">
+                    <img src="/images/800x600.jpg" alt="Client Logo">
+                </div>
+                <div class="align-center">
+                    <img src="/images/800x600.jpg" alt="Client Logo">
+                </div>
+                <div class="align-center">
+                    <img src="/images/800x600.jpg" alt="Client Logo">
+                </div>
+            </div>
+        </div>
+        <!-- CLIENTS -->
+
+        <div class="spacer spacer-big"></div>
+
+
+        <div class="spacer spacer-big"></div>
 
 
         <!-- FOOTER -->
@@ -183,9 +233,9 @@
 
         <!-- Single Pagination -->
         <ul class="single-pagination fixed-pagination">
-            <li class="next"><a href="/services/courses" class="transition" data-name="کلاس‌های تخصصی آموزشی">
+            <li class="next"><a href="/services/bills" class="transition" data-name="سیستم مدیریت قبض">
                     <i class="pagination-icon"></i> بعدی <i class="pagination-icon"></i></a></li>
-            <li class="prev"><a href="/services/consult" class="transition" data-name="مشاوره و تیم فنی">
+            <li class="prev"><a href="/services/telebot" class="transition" data-name="bot تلگرام">
                     <i class="pagination-icon"></i> قبلی <i class="pagination-icon"></i></a></li>
         </ul>
 
@@ -218,9 +268,6 @@
 <script type='text/javascript' src='/js/pond-form.js'></script>
 <script type='text/javascript' src='/js/pond-header.js'></script>
 <script type='text/javascript' src='/js/script.js'></script>
-<script>
-    $('#page-title').css('background-size','100% 100%');
-</script>
 <!-- SCRIPTS -->
 
 </body>

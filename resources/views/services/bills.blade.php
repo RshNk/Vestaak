@@ -9,7 +9,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <title>بستر آنلاین آموزش ویدئو</title>
+    <title>سیستم مدیریت قبض</title>
     <!-- DEFAULT META TAGS -->
 
     <!-- FONTS -->
@@ -65,21 +65,19 @@
     @include('header')
     <!-- HEADER -->
 
-
     <!-- PAGE TITLE -->
-    <section id="page-title" class="full-height text-light parallax"  data-parallax-image="/images/backvideo.gif">
+    <section id="page-title" class="full-height text-light parallax" data-parallax-image="/images/bill.jpg">
         <div class="section-inner align-center">
 
             <div class="main-title">
-                <h2 style="color:floralwhite"><strong>بستر آنلاین آموزش ویدئو</strong></h2>
+                <h2><strong>سیستم مدیریت قبض</strong></h2>
                 <div class="separator"><span></span></div>
-                <h5 class="alttitle title-minimal">سرویس بستر آنلاین آموزش بر اساس ویدئو</h5>
+                <h5 class="alttitle title-minimal">مدیریت ، ایجاد و پرداخت قبوض</h5>
             </div>
 
         </div>
     </section>
     <!-- PAGE TITLE -->
-
 
     <!-- PAGEBODY -->
     <div class="page-body">
@@ -91,56 +89,35 @@
                 <div class="spacer spacer-medium"></div>
 
                 <div class="blog-content wrapper">
-                    <h4 class="post-name title-minimal"><strong>بستر آنلاین آموزش مبتنی بر ویدئو</strong></h4>
+                    <h4 class="post-name title-minimal"><strong>سیستم مدیریت قبض</strong></h4>
 
                     <h5 class="alttitle">
                         <strong>
-                            یک سیستم کامل و قوی برای  آموزش آنلاین موسسه یا استارتاپ شما آماده است. از امکانات وب و موبایل برای پیشرفت آموزش هایتان بهره ببرید.
+                            وستاک با طراحی سیستمی‌، کار مدیریت هزینه‌های اشتراکی‌ مانند قبوض آب، برق، گاز در مجتمع‌های تجاری و مسکونی را به سادگی‌ برای شما انجام میدهد.
                         </strong>
                     </h5>
 
-                    <p>
-                        سیستم آموزش آنلاین مبتنی بر ویدئو وستاک به شما امکانات فراوانی را عرضه میکند که میتواند به کمک آن ها با ظاهری زیبا و کیفیتی فوق العاده و اندکی سفارشی سازی یک سرویس فعال و به روز آموزشی آنلاین را بسازید و بتوانید به کسب درآمد بپردازید.
-                       برخی از امکانات این سیستم به شرح زیر میباشند:
-                        <ul>
-                            <li>امکان اضافه کردن دروس </li>
-                            <li>امکان اضافه کردن اساتید</li>
-                            <li>امکان اضافه کردن جلسات دروس</li>
-                            <li>توضیحات دقیق دروس </li>
-                            <li>امتیاز دهی و نظر دهی در جلسات</li>
-                            <li>سرچ پیشرفته دروس </li>
-                            <li>سیستم تگ برای دروس و اساتید</li>
-                            <li>پروفایل سازی برای اساتید</li>
-                            <li>ادمین کامل</li>
-                            <li>امکان استفاده از سرویس های ویدیویی مبتنی بر CDN</li>
-                            <li>عضو گیری و پروفایل کاربران</li>
-                            <li>امکان تعریف دروس رایگان و پولی </li>
-                            <li>اعتبار کاربری</li>
-                            <li>خرید بسته های درسی به صورت زمان دار</li>
-                            <li>تعریف بسته های درسی مشخص</li>
-                            <li>اپلیکیشن اندروید و ios</li>
-                            <li>خرید از اعتبار یا درگاه های بانکی به صورت مستقیم</li>
-                            <li>تعریف درگاه های بانکی متعدد</li>
-                            <li>پشتیبانی از کد های تخفیف درصدی و نقدی</li>
-                            <li>و چندین ویژگی دیگر ...</li>
-
-
-                        </ul>
-                    </p>
+                   <p>
+                       با سیستم وستاک تمام خرج‌های مشترک خود را مدیریت کنید. امکناتی همچون پرداخت آنلاین قبوض، شارژ حساب کاربری خود قبل از پرداخت و هماهنگی‌ با سایر سیستم‌های موجود، سیستم وستاک را به سادگی‌ قابل استفاده می‌کند.
+                       <br>
+                       شما میتوانید برای هر کدام از کاربر‌ها پانل اختصاصی طراحی کنید تا وضعیت هر فرد مانند بدهی و پرداخت‌های گذشته آن‌ مشخص باشد.
+                   </p>
 
                     <blockquote>
                         <p>
-                            آموزش را در همه جا به همراه مخاطبینتان داشته باشید و درآمد کسب کنید.
+                            با سیستم وستاک به مخارج مشترک خود نظم دهید.
                         </p>
                     </blockquote>
 
                     <h6 class="alttitle">
-                        <strong>دموی پروژه را مشاهده نمایید</strong>
+                        <strong>مدیریت حساب‌های مشترک خود را به ما بسپارید.</strong>
                     </h6>
 
                     <p>
-                        <a href="http://hamyad.net">
-                            مشاهده ی دمو پلتفرم آموزش آنلاین مبتنی بر ویدئو
+                        با استفاده از لینک زیر برای خرید سیستم وستاک اقدام کنید:
+                        <br>
+                        <a  target="_blank" href="#">
+                            سیستم مدیریت قبض
                         </a>
                     </p>
 
@@ -153,7 +130,41 @@
         </section> <!-- END SECTION #blog-->
         <!-- BLOG SINGLE SECTION -->
 
-        <div class="spacer spacer-small"></div>
+        <div class="spacer spacer-big"></div>
+
+        <!-- SERVICES -->
+        <div class="horizontalsection" style="background:#f7f7f7;">
+            <div class="horizontalinner wrapper">
+
+                <div class="main-title align-center">
+                    <h4 class="title-minimal" data-bigletter="و"><strong>امکانات</strong></h4>
+                    <div class="separator-small"><span></span></div>
+                </div>
+
+                <div class="column-section clearfix">
+                    <div class="column one-third align-center">
+                        <i class="pe-7s-portfolio pe-3x"></i>
+                        <h6 class="title-minimal" data-bigletter="پ"><strong>مدیریت حساب‌های مشترک</strong></h6>
+                        <p style="text-align: center">وقت شما ارزش دارد</p>
+                    </div>
+                    <div class="column one-third align-center">
+                        <i class="pe-7s-print pe-3x"></i>
+                        <h6 class="title-minimal" data-bigletter="پ"><strong>چاپ قبض</strong></h6>
+                        <p style="text-align: center">در صورت نیاز به ارائه قبض</p>
+                    </div>
+                    <div class="column one-third last-col align-center">
+                        <i class="pe-7s-credit pe-3x"></i>
+                        <h6 class="title-minimal" data-bigletter="ت"><strong>امکان پرداخت آنلاین</strong></h6>
+                        <p style="text-align: center">از طریق درگاه بانکی‌</p>
+                    </div>
+                </div> <!-- END .column-section -->
+
+
+            </div> <!-- END .horizontalinner.wrapper -->
+        </div> <!-- END .horizontalsection -->
+        <!-- SERVICES -->
+
+        <div class="spacer spacer-big"></div>
 
         <!-- SERVICE -->
         <section id="services" class="notoppadding">
@@ -174,7 +185,8 @@
         </section> <!-- END SECTION #service-->
         <!-- SERVICE -->
 
-        <div class="spacer spacer-small"></div>
+
+        <div class="spacer spacer-big"></div>
 
 
         <!-- FOOTER -->
@@ -183,9 +195,9 @@
 
         <!-- Single Pagination -->
         <ul class="single-pagination fixed-pagination">
-            <li class="next"><a href="/services/courses" class="transition" data-name="کلاس‌های تخصصی آموزشی">
+            <li class="next"><a href="/services/todo" class="transition" data-name="سیستم مدیریت وظایف">
                     <i class="pagination-icon"></i> بعدی <i class="pagination-icon"></i></a></li>
-            <li class="prev"><a href="/services/consult" class="transition" data-name="مشاوره و تیم فنی">
+            <li class="prev"><a href="/services/hrm" class="transition" data-name="نرم افزار HRM">
                     <i class="pagination-icon"></i> قبلی <i class="pagination-icon"></i></a></li>
         </ul>
 
@@ -218,9 +230,6 @@
 <script type='text/javascript' src='/js/pond-form.js'></script>
 <script type='text/javascript' src='/js/pond-header.js'></script>
 <script type='text/javascript' src='/js/script.js'></script>
-<script>
-    $('#page-title').css('background-size','100% 100%');
-</script>
 <!-- SCRIPTS -->
 
 </body>

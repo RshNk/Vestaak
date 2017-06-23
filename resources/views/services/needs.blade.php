@@ -9,7 +9,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <title>طراحی و توسعه سایت</title>
+    <title>مهندسی نیازمندی ها</title>
     <!-- DEFAULT META TAGS -->
 
     <!-- FONTS -->
@@ -67,13 +67,13 @@
 
 
     <!-- PAGE TITLE -->
-    <section id="page-title" class="full-height text-light parallax"  data-parallax-image="/images/backweb.jpg">
+    <section id="page-title" class="full-height text-light parallax"  data-parallax-image="/images/re.jpg">
         <div class="section-inner align-center">
 
             <div class="main-title">
-                <h2><strong>طراحی و توسعه سایت</strong></h2>
+                <h2><strong>مهندسی نیازمندی ها</strong></h2>
                 <div class="separator"><span></span></div>
-                <h5 class="alttitle title-minimal">منحصر به فرد و با کیفیت</h5>
+                <h5 class="alttitle title-minimal">استخراج نیازمندی ها و مشاوره فنی</h5>
             </div>
 
         </div>
@@ -91,11 +91,11 @@
                 <div class="spacer spacer-medium"></div>
 
                 <div class="blog-content wrapper">
-                    <h4 class="post-name title-minimal"><strong>طراحی و توسعه سایت</strong></h4>
+                    <h4 class="post-name title-minimal"><strong>مهندسی نیازمندی ها</strong></h4>
 
                     <h5 class="alttitle">
                         <strong>
-                            طراحی های شرکت از نظر ظاهری تماما با آخرین ویژگی های روز دنیا و با استاندارد های جهانی منظبق است.
+                            وستاک با بررسی‌ موقعیت، نیاز واقعی‌ شما را شناسایی می‌کند، و راه حل مناسب را معرفی‌ می‌کند
                         </strong>
                     </h5>
 
@@ -399,10 +399,10 @@
 
         <!-- Single Pagination -->
         <ul class="single-pagination fixed-pagination">
-            <li class="next"><a href="/services/app" class="transition" data-name="طراحی و توسعه اپلیکیشن">
+            <li class="next"><a href="/services/telebot" class="transition" data-name="bot تلگرام">
                     <i class="pagination-icon"></i> بعدی <i class="pagination-icon"></i></a></li>
-            {{--<li class="prev"><a href="blog-single2.html" class="transition" data-name="Selfhosted Audio File">--}}
-                    {{--<i class="pagination-icon"></i> قبلی <i class="pagination-icon"></i></a></li>--}}
+            <li class="prev"><a href="/services/courses" class="transition" data-name="کلاس های تخصصی آموزشی">
+                    <i class="pagination-icon"></i> قبلی <i class="pagination-icon"></i></a></li>
         </ul>
 
     </div> <!-- END .page-body -->
