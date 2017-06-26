@@ -367,7 +367,7 @@
 
             <div class="spacer spacer-mini"></div>
 
-            <div class="owlcarousel content-carousel column-section clearfix align-center" data-autoplay="6000" data-pagination="true" data-navigation="true">
+            <div class="owlcarousel content-carousel column-section clearfix align-center clients" data-autoplay="6000" data-pagination="true" data-navigation="true">
                 <div class="align-center">
                     <img src="/images/800x600.jpg" alt="Client Logo">
                 </div>

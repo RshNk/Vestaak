@@ -92,7 +92,7 @@ blockquote { margin: 50px; }
 .section-inner { padding-top: 100px; }
 .notoppadding .section-inner { padding-top: 0px; }
 .horizontalsection .horizontalinner { padding: 100px 0; }
-.column { margin-right: 50px; }
+.column { margin-left: 50px; }
 .spacer.spacer-big { height: 100px; }
 
 /* Big Border */
