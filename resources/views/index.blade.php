@@ -224,7 +224,7 @@
 					<div class="portfolio-masonry-entry masonry-item branding">
 						<div class="entry-thumb portfolio-thumb">
 							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-								<img src="/images/web.jpg" alt="SEO IMAGE NAME">
+								<img src="/images/web.jpg" alt="SEO IMAGE NAME" >
 								<h5 class="overlay-name fixed title-minimal"><strong>طراحی و توسعه سایت </strong></h5>
 								<div class="overlaycaption">
 									<h5 class="overlay-name title-minimal"><strong>طراحی و توسعه سایت </strong></h5>
@@ -239,7 +239,7 @@
 					<div class="portfolio-masonry-entry masonry-item print">
 						<div class="entry-thumb portfolio-thumb">
 							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-								<img src="/images/mobile.png" alt="SEO IMAGE NAME">
+								<img src="/images/mobile.png" alt="SEO IMAGE NAME" >
 								<h5 class="overlay-name fixed title-minimal"><strong>طراحی و توسعه اپلیکیشن</strong></h5>
 								<div class="overlaycaption">
 									<h5 class="overlay-name title-minimal"><strong>طراحی و توسعه اپلیکیشن</strong></h5>
@@ -254,7 +254,7 @@
 					<div class="portfolio-masonry-entry masonry-item branding">
 						<div class="entry-thumb portfolio-thumb">
 							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-								<img src="/images/youth.jpg" alt="SEO IMAGE NAME">
+								<img src="/images/youth.jpg" alt="SEO IMAGE NAME" >
 								<h5 class="overlay-name fixed title-minimal"><strong>آموزش نیروی کار جوان</strong></h5>
 								<div class="overlaycaption">
 									<h5 class="overlay-name title-minimal"><strong>آموزش نیروی کار جوان</strong></h5>
@@ -425,7 +425,7 @@
 				<div class="spacer spacer-small"></div>
 
 				<div class="owlcarousel portfolio-carousel" data-pagination="false" data-navigation="true">
-					<div class="portfolio-carousel-item" style="background-image:url(/images/800x600.jpg);">
+					<div class="portfolio-carousel-item" style="background-image:url(/images/tree.jpg);">
 						<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
 							<div class="overlaycaption">
 								<h5 class="overlay-name title-minimal"><strong>On the Road</strong></h5>
@@ -506,9 +506,9 @@
 
 			<div class="spacer spacer-mini"></div>
 
-			<div class="owlcarousel content-carousel" data-autoplay="6000" data-pagination="true">
+			<div class="owlcarousel content-carousel client" data-autoplay="6000" data-pagination="true">
 				<div class="align-center">
-					<img src="/images/logo-placeholder.png" alt="Client Logo">
+					<img src="/images/tree.jpg" alt="Client Logo">
 				</div>
 				<div class="align-center">
 					<img src="/images/logo-placeholder.png" alt="Client Logo">
@@ -532,7 +532,7 @@
 		<div class="spacer spacer-big"></div>
 
 		<!-- TESTIMONIALS -->
-		<div id="testimonials" class="horizontalsection text-light parallax" data-parallax-image="/images/1690x1100.jpg">
+		<div id="testimonials" class="horizontalsection text-light parallax" data-parallax-image="/images/home.jpg">
 			<div class="horizontalinner wrapper">
 
 				<div class="owlslider testimonial-slider">

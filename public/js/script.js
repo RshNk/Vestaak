@@ -65,10 +65,14 @@ jQuery(window).load(function($) {
 				$container.isotope({
 					itemSelector : '.masonry-item',
 					transformsEnabled: false		// Important for videos
-				});	
+				});
+				/*$('#portfolio-grid-standard').isotope({
+					layoutMode: 'fitColumns',
+					itemSelector: '.masonry-item',
+					number: 3
+				});*/
 			});
 		});
-		
 		
 		/*---------------------------------------------- 
 					 I S O T O P E : Filter
@@ -130,7 +134,14 @@ jQuery(window).load(function($) {
 
 
 	} /* END if isotope */
-	
+
+	/*$('#portfolio-grid-standard .portfolio-masonry-entry').each(function () {
+
+		var sum=0;
+		alert($(this).height());
+		sum+=$(this).height();
+		alert(sum);
+	});*/
 	
 	
 	/*---------------------------------------------- 

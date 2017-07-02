@@ -1158,7 +1158,9 @@ section { }
 	left: 0;
 	}
 
-
+#portfolio-grid-standard .portfolio-masonry-entry {
+	height: calc(40vh);
+}
 	
 /*---------------------------------------------- 
 11. PAGINATION
@@ -2332,10 +2334,14 @@ a.sr-button2:hover { border-color: #ffffff; color: #0d0d0d; }
 .imgoverlay.overlay-transparent:hover:after { opacity:0.75;filter: alpha(opacity=75); -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=75)"; }
 .imgoverlay.overlay-border:hover:after { opacity:1;filter: alpha(opacity=100); -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)"; }
 
-.imgoverlay > img {
+/*.imgoverlay > img {
 	width: 100%;
+}*/
+.imgoverlay > img {
+	//width: 100%;
+	object-fit: cover;
+	min-height: calc(40vh);
 }
-
 .imgoverlay > a {
 	z-index: 2;
 	position: absolute;
@@ -2607,3 +2613,27 @@ a.sr-button2:hover { border-color: #ffffff; color: #0d0d0d; }
 	width: 100%;
 	overflow: hidden;
 }
+ .parallax{
+	 background-position: center !important;
+	 -webkit-background-size: cover !important;
+	 -moz-background-size: cover !important;
+	 -o-background-size: cover !important;
+	 background-size: cover !important;
+ }
+
+.client .owl-item img{
+	width: 50%;
+	height: auto;
+}
+/*
+.clients {
+
+}
+.clients .owl-item{
+	height: calc(40vh);
+	object-fit: ;
+}
+.clients .owl-item img {
+
+	object-fit: cover;
+}*/
