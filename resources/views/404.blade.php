@@ -47,8 +47,8 @@
 <!-- PAGELOADER -->
 <div id="page-loader" class="text-light">
 	<div class="page-loader-inner">
-    	<div class="loader-logo-name"><img src="/images/pond-logo-light.png" alt="Logo"/></div>
-		<h6 class="alttitle title-minimal">Loading</h6>
+    	<div class="loader-logo-name"><img src="/images/vestaak-light.png" alt="Logo"/></div>
+		<h6 class="alttitle title-minimal">در حال ورود به سایت</h6>
 	</div>
 </div>
 <!-- PAGELOADER -->

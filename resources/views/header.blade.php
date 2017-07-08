@@ -5,14 +5,14 @@
         <!-- DEFAULT HEADER CONTENT -->
         <div class="default-header-content">
             <div id="logo" class="left-float">
-                <a id="default-logo" class="logotype" href="index.blade.php"><img src="/images/pond-logo-light.png" alt="Logo"></a>
-                <a id="fixed-logo" class="logotype" href="index.blade.php"><img src="/images/pond-logo.png" alt="Logo"></a>
+                <a id="default-logo" class="logotype" href="index.blade.php"><img src="/images/vestaak-light.png" alt="Logo"></a>
+                <a id="fixed-logo" class="logotype" href="index.blade.php"><img src="/images/vestaak.png" alt="Logo"></a>
             </div>
 
             <div class="menu right-float clearfix">
                 <a href="#" class="open-nav"><span></span></a>
                 <nav id="main-nav" class="text-light">
-                    <div class="nav-logo"><img src="/images/pond-logo-light.png" alt="Logo"></div>
+                    <div class="nav-logo"><img src="/images/vestaak.png" alt="Logo"></div>
                     <div class="nav-inner">
                         <ul>
                             <li class="current-menu-item"><a href="/" class="scroll-to" data-bigletter="ص">صفحه اصلی</a></li>
@@ -34,8 +34,9 @@
                             <li><a href="/contact-us" class="scroll-to" data-bigletter="ا">ارتباط با ما</a></li>
                         </ul>
                     </div>
-                    <div class="nav-social">
+                    {{--<div class="nav-social">
                         <ul class="socialmedia-widget">
+                            --}}{{--<li ><a href="#"><i class="fa fa-telegram"></i></a></li>--}}{{--
                             <li class="facebook"><a href="#"></a></li>
                             <li class="twitter"><a href="#"></a></li>
                             <li class="linkedin"><a href="#"></a></li>
@@ -43,7 +44,7 @@
                             <li class="behance"><a href="#"></a></li>
                             <li class="instagram"><a href="#"></a></li>
                         </ul>
-                    </div>
+                    </div>--}}
                     <div class="nav-bg"></div>
                 </nav>
             </div>

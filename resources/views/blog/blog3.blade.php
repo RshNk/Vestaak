@@ -47,8 +47,8 @@
 <!-- PAGELOADER -->
 <div id="page-loader" class="text-light">
 	<div class="page-loader-inner">
-    	<div class="loader-logo-name"><img src="/images/pond-logo-light.png" alt="Logo"/></div>
-		<h6 class="alttitle title-minimal">Loading</h6>
+    	<div class="loader-logo-name"><img src="/images/vestaak-light.png" alt="Logo"/></div>
+		<h6 class="alttitle title-minimal">در حال ورود به سایت</h6>
 	</div>
 </div>
 <!-- PAGELOADER -->
@@ -78,14 +78,14 @@
            <!-- DEFAULT HEADER CONTENT -->
 		   	<div class="default-header-content">                 
 				<div id="logo" class="left-float">
-					<a id="default-logo" class="logotype" href="index.html"><img src="/images/pond-logo-light.png" alt="Logo"></a>
-					<a id="fixed-logo" class="logotype" href="index.html"><img src="/images/pond-logo.png" alt="Logo"></a>
+					<a id="default-logo" class="logotype" href="index.html"><img src="/images/vestaak-light.png" alt="Logo"></a>
+					<a id="fixed-logo" class="logotype" href="index.html"><img src="/images/vestaak.png" alt="Logo"></a>
 				</div>    
 				
 				<div class="menu right-float clearfix">
 					<a href="#" class="open-nav"><span></span></a>
 					<nav id="main-nav" class="text-light">
-						<div class="nav-logo"><img src="/images/pond-logo-light.png" alt="Logo"></div>
+						<div class="nav-logo"><img src="/images/vestaak-light.png" alt="Logo"></div>
 						<div class="nav-inner">
 						<ul>
 						<li><a href="index.html" class="scroll-to" data-bigletter="H">Home</a></li>
@@ -297,9 +297,6 @@
     
 </div> <!-- END #page-content -->
 <!-- PAGE CONTENT -->
-
-<!-- SCRIPTS -->{{-- online chat box --}}
-<script type="text/javascript">$crisp=[];CRISP_WEBSITE_ID="2c85ff50-91de-4396-a476-ad122e716192";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.im/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
 
 
 <script type='text/javascript' src='/js/retina.js'></script>

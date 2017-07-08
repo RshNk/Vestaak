@@ -53,8 +53,8 @@
 <!-- PAGELOADER -->
 <div id="page-loader" class="text-light">
 	<div class="page-loader-inner">
-    	<div class="loader-logo-name"><img src="/images/pond-logo-light.png" alt="Logo"/></div>
-		<h6 class="alttitle title-minimal">Loading</h6>
+    	<div class="loader-logo-name"><img src="/images/vestaak-light.png" alt="Logo"/></div>
+		<h6 class="alttitle title-minimal">در حال ورود به سایت</h6>
 	</div>
 </div>
 <!-- PAGELOADER -->
@@ -79,7 +79,7 @@
 					<!-- THE FIRST SLIDE -->
 					<li data-transition="slidedown" data-slotamount="5" data-masterspeed="1200" style="width: 100%; height: auto;">
 						<!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
-						<img src="/images/milad.jpg"   alt="slidebg1"  data-bgposition="center center" data-bgrepeat="no-repeat">
+						<img src="/images/slider/6-min.jpg"   alt="slidebg1"  data-bgposition="center center" data-bgrepeat="no-repeat" style="opacity:50%;">
 						
 						<!-- LAYER NR. 1 -->    
 						<div class="tp-caption srcaption-bigwhite lft ltb"
@@ -98,7 +98,7 @@
 					<!-- THE SECOND SLIDE -->
 					<li data-transition="slidedown" data-slotamount="5" data-masterspeed="1200" >
 						<!-- THE MAIN IMAGE IN THE SECOND SLIDE -->
-						<img src="/images/1690x1100.jpg"   alt="slidebg2"  data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+						<img src="/images/slider/2-min.jpg"   alt="slidebg2"  data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
 						<!-- LAYER NR. 1 -->    
 						<div class="tp-caption srcaption-bigwhite lft ltb"
 						data-x="center" data-hoffset="0"
@@ -108,7 +108,7 @@
 						data-easing="easeInOutQuad"
 						data-endspeed="800"
 						data-endeasing="easeInOutQuad"
-						style="z-index: 2"><strong>Creative Minimalism</strong>
+						style="z-index: 2"><strong>خدمات برنامه نویسی</strong>
 						</div>
 												
 					</li>
@@ -116,7 +116,7 @@
 					<!-- THE THIRD SLIDE -->
 					<li data-transition="slidedown" data-slotamount="5" data-masterspeed="1200" >
 						<!-- THE MAIN IMAGE IN THE SECOND SLIDE -->
-						<img src="/images/backweb.jpg"   alt="slidebg3"  data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+						<img src="/images/slider/1-min.jpg"   alt="slidebg3"  data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
 						<!-- LAYER NR. 1 -->    
 						<div class="tp-caption srcaption-bigwhite lft ltb"
 						data-x="center" data-hoffset="0"
@@ -126,7 +126,7 @@
 						data-easing="easeInOutQuad"
 						data-endspeed="800"
 						data-endeasing="easeInOutQuad"
-						style="z-index: 2"><strong>Sharp Elegance</strong>
+						style="z-index: 2"><strong>تربیت نیروی کار</strong>
 						</div>
 						
 					</li>
@@ -212,9 +212,9 @@
 				
 				<!-- STANDARD PORTFOLIO -->
 				<div class="main-title wrapper align-center">
-					<h4 data-bigletter="S"><strong>Standard</strong></h4>
+					<h4 data-bigletter="S"><strong>سرویس ها</strong></h4>
 					<div class="separator-small"><span></span></div>
-					<h6 class="alttitle title-minimal">Standard Fullwidth</h6>
+					<h6 class="alttitle title-minimal">خدمات ارائه شده توسط شرکت وستاک </h6>
 				</div> <!-- END .main-title .wrapper -->
 
 				<div class="spacer spacer-small"></div>
@@ -224,7 +224,7 @@
 					<div class="portfolio-masonry-entry masonry-item branding">
 						<div class="entry-thumb portfolio-thumb">
 							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-								<img src="/images/web.jpg" alt="SEO IMAGE NAME" >
+								<img src="/images/services/web-min.jpg" alt="SEO IMAGE NAME" >
 								<h5 class="overlay-name fixed title-minimal"><strong>طراحی و توسعه سایت </strong></h5>
 								<div class="overlaycaption">
 									<h5 class="overlay-name title-minimal"><strong>طراحی و توسعه سایت </strong></h5>
@@ -239,7 +239,7 @@
 					<div class="portfolio-masonry-entry masonry-item print">
 						<div class="entry-thumb portfolio-thumb">
 							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-								<img src="/images/mobile.png" alt="SEO IMAGE NAME" >
+								<img src="/images/services/mobile-min.png" alt="SEO IMAGE NAME" >
 								<h5 class="overlay-name fixed title-minimal"><strong>طراحی و توسعه اپلیکیشن</strong></h5>
 								<div class="overlaycaption">
 									<h5 class="overlay-name title-minimal"><strong>طراحی و توسعه اپلیکیشن</strong></h5>
@@ -254,7 +254,7 @@
 					<div class="portfolio-masonry-entry masonry-item branding">
 						<div class="entry-thumb portfolio-thumb">
 							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-								<img src="/images/youth.jpg" alt="SEO IMAGE NAME" >
+								<img src="/images/services/youth-min.jpg" alt="SEO IMAGE NAME" >
 								<h5 class="overlay-name fixed title-minimal"><strong>آموزش نیروی کار جوان</strong></h5>
 								<div class="overlaycaption">
 									<h5 class="overlay-name title-minimal"><strong>آموزش نیروی کار جوان</strong></h5>
@@ -269,7 +269,7 @@
 					<div class="portfolio-masonry-entry masonry-item print">
 						<div class="entry-thumb portfolio-thumb">
 							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-								<img src="/images/consult.jpg" alt="SEO IMAGE NAME">
+								<img src="/images/services/consult-min.jpg" alt="SEO IMAGE NAME">
 								<h5 class="overlay-name fixed title-minimal"><strong>مشاوره و ارائه تیم فنی</strong></h5>
 								<div class="overlaycaption">
 									<h5 class="overlay-name title-minimal"><strong>مشاوره و ارائه تیم فنی</strong></h5>
@@ -285,7 +285,7 @@
 					<div class="portfolio-masonry-entry masonry-item branding">
 						<div class="entry-thumb portfolio-thumb">
 							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-								<img src="/images/learn.jpg" data-bgposition="center center" alt="SEO IMAGE NAME">
+								<img src="/images/services/learn-min.jpg" data-bgposition="center center" alt="SEO IMAGE NAME">
 								<h5 class="overlay-name fixed title-minimal"><strong>بستر ویدئویی آموزش آنلاین</strong></h5>
 								<div class="overlaycaption">
 									<h5 class="overlay-name title-minimal"><strong>بستر ویدئویی آموزش آنلاین</strong></h5>
@@ -300,7 +300,7 @@
 					<div class="portfolio-masonry-entry masonry-item branding">
 						<div class="entry-thumb portfolio-thumb">
 							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-								<img src="/images/teach.jpg" alt="SEO IMAGE NAME">
+								<img src="/images/services/teach-min.jpg" alt="SEO IMAGE NAME">
 								<h5 class="overlay-name fixed title-minimal"><strong>کلاس های تخصصی آموزشی</strong></h5>
 								<div class="overlaycaption">
 									<h5 class="overlay-name title-minimal"><strong>کلاس های تخصصی آموزشی</strong></h5>
@@ -315,7 +315,7 @@
 					<div class="portfolio-masonry-entry masonry-item branding">
 						<div class="entry-thumb portfolio-thumb">
 							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-								<img src="/images/re.jpg" alt="SEO IMAGE NAME">
+								<img src="/images/services/re-min.jpg" alt="SEO IMAGE NAME">
 								<h5 class="overlay-name fixed title-minimal"><strong>مهندسی نیازمندی ها</strong></h5>
 								<div class="overlaycaption">
 									<h5 class="overlay-name title-minimal"><strong>مهندسی نیازمندی ها</strong></h5>
@@ -330,7 +330,7 @@
 					<div class="portfolio-masonry-entry masonry-item branding">
 						<div class="entry-thumb portfolio-thumb">
 							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-								<img src="/images/telegram.jpg" alt="SEO IMAGE NAME">
+								<img src="/images/services/telegram-min.jpg" alt="SEO IMAGE NAME">
 								<h5 class="overlay-name fixed title-minimal"><strong>bot تلگرام</strong></h5>
 								<div class="overlaycaption">
 									<h5 class="overlay-name title-minimal"><strong>bot تلگرام</strong></h5>
@@ -345,7 +345,7 @@
 					<div class="portfolio-masonry-entry masonry-item branding">
 						<div class="entry-thumb portfolio-thumb">
 							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-								<img src="/images/hrm.jpg" alt="SEO IMAGE NAME">
+								<img src="/images/services/hrm-min.jpg" alt="SEO IMAGE NAME">
 								<h5 class="overlay-name fixed title-minimal"><strong>نرم افزار HRM</strong></h5>
 								<div class="overlaycaption">
 									<h5 class="overlay-name title-minimal"><strong>نرم افزار HRM</strong></h5>
@@ -360,7 +360,7 @@
 					<div class="portfolio-masonry-entry masonry-item branding">
 						<div class="entry-thumb portfolio-thumb">
 							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-								<img src="/images/bill.jpg" alt="SEO IMAGE NAME">
+								<img src="/images/services/bill-min.jpg" alt="SEO IMAGE NAME">
 								<h5 class="overlay-name fixed title-minimal"><strong>سیستم مدیریت قبض</strong></h5>
 								<div class="overlaycaption">
 									<h5 class="overlay-name title-minimal"><strong>سیستم مدیریت قبص</strong></h5>
@@ -375,7 +375,7 @@
 					<div class="portfolio-masonry-entry masonry-item branding">
 						<div class="entry-thumb portfolio-thumb">
 							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-								<img src="/images/todo.jpg" alt="SEO IMAGE NAME">
+								<img src="/images/services/todo-min.jpg" alt="SEO IMAGE NAME">
 								<h5 class="overlay-name fixed title-minimal"><strong>سیستم مدیریت وظایف</strong></h5>
 								<div class="overlaycaption">
 									<h5 class="overlay-name title-minimal"><strong>سیستم مدیریت وظایف</strong></h5>
@@ -390,7 +390,7 @@
 					<div class="portfolio-masonry-entry masonry-item branding">
 						<div class="entry-thumb portfolio-thumb">
 							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-								<img src="/images/teacher.jpg" alt="SEO IMAGE NAME">
+								<img src="/images/services/teacher-min.jpg" alt="SEO IMAGE NAME">
 								<h5 class="overlay-name fixed title-minimal"><strong>سایت شخصی و دستیار اساتید</strong></h5>
 								<div class="overlaycaption">
 									<h5 class="overlay-name title-minimal"><strong>سایت شخصی و دستیار اساتید</strong></h5>
@@ -417,72 +417,42 @@
 
 				<!-- STANDARD PORTFOLIO -->
 				<div class="main-title wrapper align-center">
-					<h4 data-bigletter="S"><strong>WORK</strong></h4>
+					<h4 data-bigletter="S"><strong>نمونه کارها</strong></h4>
 					<div class="separator-small"><span></span></div>
-					<h6 class="alttitle title-minimal">our works</h6>
+					<h6 class="alttitle title-minimal">سایت های طراحی شده توسط تیم وستاک</h6>
 				</div> <!-- END .main-title .wrapper -->
 
 				<div class="spacer spacer-small"></div>
 
-				<div class="owlcarousel portfolio-carousel" data-pagination="false" data-navigation="true">
-					<div class="portfolio-carousel-item" style="background-image:url(/images/tree.jpg);">
+				<div class="owlcarousel portfolio-carousel work-Slider" data-pagination="false" data-navigation="true">
+					<div class="portfolio-carousel-item" style="background-image:url(/images/ourWork/1.png);">
 						<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
 							<div class="overlaycaption">
-								<h5 class="overlay-name title-minimal"><strong>On the Road</strong></h5>
+								<h5 class="overlay-name title-minimal"><strong>Commentminer</strong></h5>
 								<div class="separator-small"><span></span></div>
-								<h6 class="alttitle">Photography</h6>
+								<h6 class="alttitle">web site</h6>
 							</div>
-							<a href="portfolio-single4.html" class="transition"></a>
+							<a href="http://commentminer.ir/" class="transition"></a>
 						</div>
 					</div>
-					<div class="portfolio-carousel-item" style="background-image:url(/images/800x600.jpg);">
+					<div class="portfolio-carousel-item" style="background-image:url(/images/ourWork/2.png);">
 						<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
 							<div class="overlaycaption">
-								<h5 class="overlay-name title-minimal"><strong>Don't<br>Bullshit<br>Me</strong></h5>
+								<h5 class="overlay-name title-minimal"><strong>Noor e jahan</strong></h5>
 								<div class="separator-small"><span></span></div>
-								<h6 class="alttitle">Branding</h6>
+								<h6 class="alttitle">web site</h6>
 							</div>
-							<a href="portfolio-single3.html" class="transition"></a>
+							<a href="http://noore-jahan.com/home/fa" class="transition"></a>
 						</div>
 					</div>
-					<div class="portfolio-carousel-item" style="background-image:url(/images/800x600.jpg);">
+					<div class="portfolio-carousel-item" style="background-image:url(/images//ourWork/3.png);">
 						<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
 							<div class="overlaycaption">
-								<h5 class="overlay-name title-minimal"><strong>Lucy</strong></h5>
+								<h5 class="overlay-name title-minimal"><strong>VEestacamp</strong></h5>
 								<div class="separator-small"><span></span></div>
-								<h6 class="alttitle">Photography</h6>
+								<h6 class="alttitle">web site</h6>
 							</div>
-							<a href="portfolio-single4.html" class="transition"></a>
-						</div>
-					</div>
-					<div class="portfolio-carousel-item" style="background-image:url(/images/800x600.jpg);">
-						<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-							<div class="overlaycaption">
-								<h5 class="overlay-name title-minimal"><strong>Air Crash</strong></h5>
-								<div class="separator-small"><span></span></div>
-								<h6 class="alttitle">Photography</h6>
-							</div>
-							<a href="portfolio-single4.html" class="transition"></a>
-						</div>
-					</div>
-					<div class="portfolio-carousel-item" style="background-image:url(/images/800x600.jpg);">
-						<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-							<div class="overlaycaption">
-								<h5 class="overlay-name title-minimal"><strong>Sixteen & <br>Frans</strong></h5>
-								<div class="separator-small"><span></span></div>
-								<h6 class="alttitle">Branding</h6>
-							</div>
-							<a href="portfolio-single2.html" class="transition"></a>
-						</div>
-					</div>
-					<div class="portfolio-carousel-item" style="background-image:url(/images/800x600.jpg);">
-						<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-							<div class="overlaycaption">
-								<h5 class="overlay-name title-minimal"><strong>African<br>Cultur</strong></h5>
-								<div class="separator-small"><span></span></div>
-								<h6 class="alttitle">Photography</h6>
-							</div>
-							<a href="portfolio-single4.html" class="transition"></a>
+							<a href="http://vestacamp.vestaak.com/" class="transition"></a>
 						</div>
 					</div>
 				</div>
@@ -567,9 +537,6 @@
 <!-- PAGE CONTENT -->
 
 <!-- SCRIPTS -->
-{{-- online chat box --}}
-<script type="text/javascript">$crisp=[];CRISP_WEBSITE_ID="2c85ff50-91de-4396-a476-ad122e716192";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.im/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
-
 
 <script type='text/javascript' src='/js/retina.js'></script>
 <script type='text/javascript' src='/js/jquery.pace.js'></script>

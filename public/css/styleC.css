@@ -1148,7 +1148,10 @@ section { }
 	position:relative;
 	background-position: center center;
 	background-size: cover;
-	}
+}
+.work-Slider .portfolio-carousel-item{
+	background-position: center top;
+}
 	
 .portfolio-carousel-item .imgoverlay {
 	height: 100%;
