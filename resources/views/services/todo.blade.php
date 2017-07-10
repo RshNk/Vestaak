@@ -66,7 +66,7 @@
     <!-- HEADER -->
 
     <!-- PAGE TITLE -->
-    <section id="page-title" class="full-height text-light parallax" data-parallax-image="/images/todo.jpg">
+    <section id="page-title" class="full-height text-light parallax" data-parallax-image="/images/services/todo-slider.jpg">
         <div class="section-inner align-center">
 
             <div class="main-title">
@@ -163,9 +163,6 @@
             </div> <!-- END .horizontalinner.wrapper -->
         </div> <!-- END .horizontalsection -->
         <!-- SERVICES -->
-
-
-        <div class="spacer spacer-big"></div>
 
 
         <!-- FOOTER -->

@@ -67,7 +67,7 @@
 
 
     <!-- PAGE TITLE -->
-    <section id="page-title" class="full-height text-light parallax"  data-parallax-image="/images/backconsult.jpg">
+    <section id="page-title" class="full-height text-light parallax"  data-parallax-image="/images/services/consult-slider.jpg">
         <div class="section-inner align-center">
 
             <div class="main-title">
@@ -136,13 +136,13 @@
         <section id="services" class="notoppadding">
             <div class="section-inner">
 
-                <div class="horizontalsection  parallax"  data-parallax-image="/images/contact.jpg"  data-speed="0.5">
+                <div class="horizontalsection  parallax"  data-parallax-image="/images/contact2.jpg"  data-speed="0.5">
                     <div class="horizontalinner wrapper align-center text-light">
                         <div class="spacer spacer-medium"></div>
-                        <h6 class="alttitle title-ultraminimal">مشاورین ما منتظر کمک به شما هستند  </h6>
+                        <h6 class="alttitle title-ultraminimal">مشاوره رایگان برای شروع کار</h6>
                         <h2 class="title-minimal" data-bigletter="ح"><strong>حرفه ای عمل کنیم</strong></h2>
                         <div class="spacer spacer-mini"></div>
-                        <a href="gallery-multipage.html" class="transition sr-button medium-button sr-button2">تماس بگیرید</a>
+                        <a href="/contact" class="transition sr-button medium-button sr-button2">تماس بگیرید</a>
                         <div class="spacer spacer-big"></div>
                     </div>
                 </div> <!-- END .horizontalsection-->
@@ -151,7 +151,7 @@
         </section> <!-- END SECTION #service-->
         <!-- SERVICE -->
 
-        <div class="spacer spacer-big"></div>
+        {{--<div class="spacer spacer-big"></div>--}}
 
         {{--<!-- CLIENTS -->--}}
         {{--<div class="wrapper">--}}

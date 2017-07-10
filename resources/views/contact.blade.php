@@ -9,7 +9,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Contact Multipage | Pond | Creative Page Template</title>
+<title>وستاک</title>
 <!-- DEFAULT META TAGS -->
 
 <!-- FONTS -->
@@ -64,10 +64,10 @@
 	
 	
 	<!-- PAGE TITLE -->
-	<section id="page-title" class="full-height parallax" data-parallax-image="/images/1690x1100-light.jpg">
-		<div class="section-inner align-center">
+	<section id="page-title" class="full-height parallax" data-parallax-image="/images/contactus-min-blur.jpg">
+		<div class="section-inner text-light align-center">
 			<div class="separator-small"><span></span></div>
-			<div><h2 class="title-minimal"><strong>Contact</strong></h2></div>
+			<div><h2 class="title-minimal"><strong>تماس با ما</strong></h2></div>
 			<!-- The h2 is wrapped into a div tag because by default it has a top margin. By placing it in the div it doesn't apply the top padding because it's the first child of its parent element -->
 			<div class="separator-small"><span></span></div>
 		</div>
@@ -88,7 +88,7 @@
 						<div class="split-wrapped-content">
 
 							<div class="main-title align-center">
-								<h5 class="alttitle title-minimal"><strong>We're ready for your next project</strong></h5>
+								<h5 class="alttitle title-minimal"><strong>کارشناسان ما در اولین فرصت پاسخگوی پیام شما هستند.</strong></h5>
 							</div>
 
 							<form id="contact-form" class="checkform" action="#" target="contact-send.php" method="post" >
@@ -110,7 +110,7 @@
 
 								<div id="form-note">
 									<div class="alert alert-error">
-										<strong>Error</strong>: Please check your entries!
+										<strong>خطا</strong>دوباره اطلاعات خواسته شده را وارد کنید. :
 									</div>
 								</div>
 
@@ -149,15 +149,15 @@
 									};
 									var map = new google.maps.Map(document.getElementById("map"),myOptions);
 
-									var image = "/images/map-pin.png";
-									var image = new google.maps.MarkerImage("/images/map-pin.png", null, null, null, new google.maps.Size(84,30));
+									var image = "/images/vestaak-map-pin.png";
+									var image = new google.maps.MarkerImage("/images/vestaak-map-pin.png", null, null, null, new google.maps.Size(84,30));
 									var marker = new google.maps.Marker({
 										map: map,
 										icon: image,
 										position: map.getCenter()
 									});
 
-									var contentString = '<b>دفتر اصلی</b><br>وستاک<br>پلاک 103';
+									var contentString = '<b>دفتر اصلی</b><br>خ دکتر حبیب الله<br>شرکت وستاک<br>پلاک 103، واحد 1';
 									var infowindow = new google.maps.InfoWindow({
 										content: contentString
 									});
@@ -199,6 +199,7 @@
 <script type='text/javascript' src='/js/jquery.owl.carousel.min.js'></script>
 <script type='text/javascript' src='/js/pond-header.js'></script>
 <script type='text/javascript' src='/js/pond-form.js'></script>
+<script type='text/javascript' src='/js/persianumber.js'></script>
 <script type='text/javascript' src='/js/script.js'></script>
 <!-- SCRIPTS -->
 

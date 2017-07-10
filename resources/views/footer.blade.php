@@ -12,7 +12,7 @@
             <li class="instagram"><a href="#"></a></li>
         </ul>--}}
         <div class="copyright right-float">
-            Copyright &copy; 2014 by Pond. design by <a href="http:\\vestaal.com">vestaak</a>
+            Copyright &copy; 2014 by Pond. design by <a href="http:\\vestaak.com">vestaak</a>
         </div>
     </div>
 </footer>

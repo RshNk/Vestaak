@@ -66,7 +66,7 @@
     <!-- HEADER -->
 
     <!-- PAGE TITLE -->
-    <section id="page-title" class="full-height text-light parallax" data-parallax-image="/images/young.jpg">
+    <section id="page-title" class="full-height text-light parallax" data-parallax-image="/images/services/young-slider.jpg">
         <div class="section-inner align-center">
 
             <div class="main-title">
@@ -163,165 +163,164 @@
         </div> <!-- END .horizontalsection -->
         <!-- SERVICES -->
 
-        <div class="spacer spacer-big"></div>
+    {{-- <div class="spacer spacer-big"></div>
 
-        <!-- SPACED PORTFOLIO -->
-        <div class="main-title wrapper align-center">
-            <h4 data-bigletter=" کارآموزان"><strong>کارآموز های فعلی و گذشته</strong></h4>
-            <div class="separator-small"><span></span></div>
-            <h6 class="alttitle title-minimal">تنها کارآموزانی که دوره ها به اتمام رسانده اند معرفی شده اند.</h6>
-            <div class="spacer spacer-small"></div>
-            <ul id="portfolio-filter-spaced" class="filter clearfix" data-related-grid="portfolio-grid-spaced">
-                <li><a class="active" href="#" data-option-value="*">همه</a></li>
-                <li><a data-option-value=".branding" href="#" title="Branding">وب</a></li>
-                <li><a data-option-value=".print" href="#" title="Print">موبایل</a></li>
-                <li><a data-option-value=".print" href="#" title="Print">داده کاوی</a></li>
-            </ul>
-        </div> <!-- END .main-title .wrapper -->
-
+    <!-- SPACED PORTFOLIO -->
+    <div class="main-title wrapper align-center">
+        <h4 data-bigletter=" کارآموزان"><strong>کارآموز های فعلی و گذشته</strong></h4>
+        <div class="separator-small"><span></span></div>
+        <h6 class="alttitle title-minimal">تنها کارآموزانی که دوره ها به اتمام رسانده اند معرفی شده اند.</h6>
         <div class="spacer spacer-small"></div>
+        <ul id="portfolio-filter-spaced" class="filter clearfix" data-related-grid="portfolio-grid-spaced">
+            <li><a class="active" href="#" data-option-value="*">همه</a></li>
+            <li><a data-option-value=".branding" href="#" title="Branding">وب</a></li>
+            <li><a data-option-value=".print" href="#" title="Print">موبایل</a></li>
+            <li><a data-option-value=".print" href="#" title="Print">داده کاوی</a></li>
+        </ul>
+    </div> <!-- END .main-title .wrapper -->
 
-        <div id="portfolio-grid-spaced" class="masonry portfolio-entries masonry-spaced clearfix" data-maxitemwidth="400">
+   <div class="spacer spacer-small"></div>
 
-            <div class="portfolio-masonry-entry masonry-item branding">
-                <div class="entry-thumb portfolio-thumb">
-                    <div class="imgoverlay overlay-dark overlay-transparent">
-                        <img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
-                        <div class="overlaycaption">
-                            <h4 class="overlay-name title-minimal"><strong>Tom Burly</strong></h4>
-                            <div class="separator-small"><span></span></div>
-                            <ul class="socialmedia-widget alttitle">
-                                <li class="facebook"><a href="#"></a></li>
-                                <li class="dropbox"><a href="#"></a></li>
-                                <li class="flickr"><a href="#"></a></li>
-                                <li class="vimeo"><a href="#"></a></li>
-                            </ul>
-                        </div>
+    <div id="portfolio-grid-spaced" class="masonry portfolio-entries masonry-spaced clearfix" data-maxitemwidth="400">
+
+        <div class="portfolio-masonry-entry masonry-item branding">
+            <div class="entry-thumb portfolio-thumb">
+                <div class="imgoverlay overlay-dark overlay-transparent">
+                    <img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
+                    <div class="overlaycaption">
+                        <h4 class="overlay-name title-minimal"><strong>Tom Burly</strong></h4>
+                        <div class="separator-small"><span></span></div>
+                        <ul class="socialmedia-widget alttitle">
+                            <li class="facebook"><a href="#"></a></li>
+                            <li class="dropbox"><a href="#"></a></li>
+                            <li class="flickr"><a href="#"></a></li>
+                            <li class="vimeo"><a href="#"></a></li>
+                        </ul>
                     </div>
-                    <h6>Creative Director</h6>
-                    <p>
-                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempora invidunt ut labore.
-                    </p>
                 </div>
-            </div> <!-- END .portfolio-masonry-entry -->
+                <h6>Creative Director</h6>
+                <p>
+                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempora invidunt ut labore.
+                </p>
+            </div>
+        </div> <!-- END .portfolio-masonry-entry -->
 
-            <div class="portfolio-masonry-entry masonry-item print">
-                <div class="entry-thumb portfolio-thumb">
-                    <div class="imgoverlay overlay-dark overlay-transparent">
-                        <img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
-                        <div class="overlaycaption">
-                            <h4 class="overlay-name title-minimal"><strong>Tom Burly</strong></h4>
-                            <div class="separator-small"><span></span></div>
-                            <ul class="socialmedia-widget alttitle">
-                                <li class="facebook"><a href="#"></a></li>
-                                <li class="dropbox"><a href="#"></a></li>
-                                <li class="flickr"><a href="#"></a></li>
-                                <li class="vimeo"><a href="#"></a></li>
-                            </ul>
-                        </div>
+        <div class="portfolio-masonry-entry masonry-item print">
+            <div class="entry-thumb portfolio-thumb">
+                <div class="imgoverlay overlay-dark overlay-transparent">
+                    <img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
+                    <div class="overlaycaption">
+                        <h4 class="overlay-name title-minimal"><strong>Tom Burly</strong></h4>
+                        <div class="separator-small"><span></span></div>
+                        <ul class="socialmedia-widget alttitle">
+                            <li class="facebook"><a href="#"></a></li>
+                            <li class="dropbox"><a href="#"></a></li>
+                            <li class="flickr"><a href="#"></a></li>
+                            <li class="vimeo"><a href="#"></a></li>
+                        </ul>
                     </div>
-                    <h6>Creative Director</h6>
-                    <p>
-                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempora invidunt ut labore.
-                    </p>
                 </div>
-            </div> <!-- END .portfolio-masonry-entry -->
+                <h6>Creative Director</h6>
+                <p>
+                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempora invidunt ut labore.
+                </p>
+            </div>
+        </div> <!-- END .portfolio-masonry-entry -->
 
-            <div class="portfolio-masonry-entry masonry-item branding">
-                <div class="entry-thumb portfolio-thumb">
-                    <div class="imgoverlay overlay-dark overlay-transparent">
-                        <img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
-                        <div class="overlaycaption">
-                            <h4 class="overlay-name title-minimal"><strong>Tom Burly</strong></h4>
-                            <div class="separator-small"><span></span></div>
-                            <ul class="socialmedia-widget alttitle">
-                                <li class="facebook"><a href="#"></a></li>
-                                <li class="dropbox"><a href="#"></a></li>
-                                <li class="flickr"><a href="#"></a></li>
-                                <li class="vimeo"><a href="#"></a></li>
-                            </ul>
-                        </div>
+        <div class="portfolio-masonry-entry masonry-item branding">
+            <div class="entry-thumb portfolio-thumb">
+                <div class="imgoverlay overlay-dark overlay-transparent">
+                    <img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
+                    <div class="overlaycaption">
+                        <h4 class="overlay-name title-minimal"><strong>Tom Burly</strong></h4>
+                        <div class="separator-small"><span></span></div>
+                        <ul class="socialmedia-widget alttitle">
+                            <li class="facebook"><a href="#"></a></li>
+                            <li class="dropbox"><a href="#"></a></li>
+                            <li class="flickr"><a href="#"></a></li>
+                            <li class="vimeo"><a href="#"></a></li>
+                        </ul>
                     </div>
-                    <h6>Creative Director</h6>
-                    <p>
-                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempora invidunt ut labore.
-                    </p>
                 </div>
-            </div> <!-- END .portfolio-masonry-entry -->
+                <h6>Creative Director</h6>
+                <p>
+                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempora invidunt ut labore.
+                </p>
+            </div>
+        </div> <!-- END .portfolio-masonry-entry -->
 
-            <div class="portfolio-masonry-entry masonry-item print">
-                <div class="entry-thumb portfolio-thumb">
-                    <div class="imgoverlay overlay-dark overlay-transparent">
-                        <img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
-                        <div class="overlaycaption">
-                            <h4 class="overlay-name title-minimal"><strong>Tom Burly</strong></h4>
-                            <div class="separator-small"><span></span></div>
-                            <ul class="socialmedia-widget alttitle">
-                                <li class="facebook"><a href="#"></a></li>
-                                <li class="dropbox"><a href="#"></a></li>
-                                <li class="flickr"><a href="#"></a></li>
-                                <li class="vimeo"><a href="#"></a></li>
-                            </ul>
-                        </div>
+        <div class="portfolio-masonry-entry masonry-item print">
+            <div class="entry-thumb portfolio-thumb">
+                <div class="imgoverlay overlay-dark overlay-transparent">
+                    <img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
+                    <div class="overlaycaption">
+                        <h4 class="overlay-name title-minimal"><strong>Tom Burly</strong></h4>
+                        <div class="separator-small"><span></span></div>
+                        <ul class="socialmedia-widget alttitle">
+                            <li class="facebook"><a href="#"></a></li>
+                            <li class="dropbox"><a href="#"></a></li>
+                            <li class="flickr"><a href="#"></a></li>
+                            <li class="vimeo"><a href="#"></a></li>
+                        </ul>
                     </div>
-                    <h6>Creative Director</h6>
-                    <p>
-                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempora invidunt ut labore.
-                    </p>
                 </div>
-            </div> <!-- END .portfolio-masonry-entry -->
+                <h6>Creative Director</h6>
+                <p>
+                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempora invidunt ut labore.
+                </p>
+            </div>
+        </div> <!-- END .portfolio-masonry-entry -->
 
-            <div class="portfolio-masonry-entry masonry-item branding">
-                <div class="entry-thumb portfolio-thumb">
-                    <div class="imgoverlay overlay-dark overlay-transparent">
-                        <img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
-                        <div class="overlaycaption">
-                            <h4 class="overlay-name title-minimal"><strong>Tom Burly</strong></h4>
-                            <div class="separator-small"><span></span></div>
-                            <ul class="socialmedia-widget alttitle">
-                                <li class="facebook"><a href="#"></a></li>
-                                <li class="dropbox"><a href="#"></a></li>
-                                <li class="flickr"><a href="#"></a></li>
-                                <li class="vimeo"><a href="#"></a></li>
-                            </ul>
-                        </div>
+        <div class="portfolio-masonry-entry masonry-item branding">
+            <div class="entry-thumb portfolio-thumb">
+                <div class="imgoverlay overlay-dark overlay-transparent">
+                    <img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
+                    <div class="overlaycaption">
+                        <h4 class="overlay-name title-minimal"><strong>Tom Burly</strong></h4>
+                        <div class="separator-small"><span></span></div>
+                        <ul class="socialmedia-widget alttitle">
+                            <li class="facebook"><a href="#"></a></li>
+                            <li class="dropbox"><a href="#"></a></li>
+                            <li class="flickr"><a href="#"></a></li>
+                            <li class="vimeo"><a href="#"></a></li>
+                        </ul>
                     </div>
-                    <h6>Creative Director</h6>
-                    <p>
-                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempora invidunt ut labore.
-                    </p>
                 </div>
-            </div> <!-- END .portfolio-masonry-entry -->
+                <h6>Creative Director</h6>
+                <p>
+                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempora invidunt ut labore.
+                </p>
+            </div>
+        </div> <!-- END .portfolio-masonry-entry -->
 
-            <div class="portfolio-masonry-entry masonry-item branding">
-                <div class="entry-thumb portfolio-thumb">
-                    <div class="imgoverlay overlay-dark overlay-transparent">
-                        <img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
-                        <div class="overlaycaption">
-                            <h4 class="overlay-name title-minimal"><strong>Tom Burly</strong></h4>
-                            <div class="separator-small"><span></span></div>
-                            <ul class="socialmedia-widget alttitle">
-                                <li class="facebook"><a href="#"></a></li>
-                                <li class="dropbox"><a href="#"></a></li>
-                                <li class="flickr"><a href="#"></a></li>
-                                <li class="vimeo"><a href="#"></a></li>
-                            </ul>
-                        </div>
+        <div class="portfolio-masonry-entry masonry-item branding">
+            <div class="entry-thumb portfolio-thumb">
+                <div class="imgoverlay overlay-dark overlay-transparent">
+                    <img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
+                    <div class="overlaycaption">
+                        <h4 class="overlay-name title-minimal"><strong>Tom Burly</strong></h4>
+                        <div class="separator-small"><span></span></div>
+                        <ul class="socialmedia-widget alttitle">
+                            <li class="facebook"><a href="#"></a></li>
+                            <li class="dropbox"><a href="#"></a></li>
+                            <li class="flickr"><a href="#"></a></li>
+                            <li class="vimeo"><a href="#"></a></li>
+                        </ul>
                     </div>
-                    <h6>Creative Director</h6>
-                    <p>
-                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempora invidunt ut labore.
-                    </p>
                 </div>
-            </div> <!-- END .portfolio-masonry-entry -->
+                <h6>Creative Director</h6>
+                <p>
+                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempora invidunt ut labore.
+                </p>
+            </div>
+        </div> <!-- END .portfolio-masonry-entry -->
 
-        </div> <!-- END #portfolio-grid -->
-        <!-- SPACED PORTFOLIO -->
+    </div> <!-- END #portfolio-grid -->
+    <!-- SPACED PORTFOLIO -->
 
-        <div class="spacer spacer-big"></div>
+    <div class="spacer spacer-big"></div>
 
-
-        <div class="spacer spacer-big"></div>
+--}}
 
 
         <!-- FOOTER -->

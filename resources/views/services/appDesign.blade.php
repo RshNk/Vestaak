@@ -67,7 +67,7 @@
 
 
     <!-- PAGE TITLE -->
-    <section id="page-title" class="full-height text-light parallax" data-parallax-image="/images/mobile.jpg">
+    <section id="page-title" class="full-height text-light parallax" data-parallax-image="/images/services/mobile-slider.jpg">
         <div class="section-inner align-center">
 
             <div class="main-title">
@@ -179,173 +179,88 @@
         </div> <!-- END .horizontalsection -->
         <!-- SERVICES -->
 
-        <div class="spacer spacer-big"></div>
+    {{--<div class="spacer spacer-big"></div>
 
-        <!-- SPACED PORTFOLIO -->
-        <div class="main-title wrapper align-center">
-            <h4 data-bigletter="ن"><strong>نمونه کارها</strong></h4>
-            <div class="separator-small"><span></span></div>
-            <h6 class="alttitle title-minimal">توجه : تنها نمونه کارهایی که اجازه انتشار دارند به اشتراک گذاشته شده اند.</h6>
-            <div class="spacer spacer-small"></div>
-            <ul id="portfolio-filter-spaced" class="filter clearfix" data-related-grid="portfolio-grid-spaced">
-                <li><a class="active" href="#" data-option-value="*">All</a></li>
-                <li><a data-option-value=".branding" href="#" title="Branding">Branding</a></li>
-                <li><a data-option-value=".print" href="#" title="Print">Print</a></li>
-            </ul>
-        </div> <!-- END .main-title .wrapper -->
-
+    <!-- SPACED PORTFOLIO -->
+    <div class="main-title wrapper align-center">
+        <h4 data-bigletter="ن"><strong>نمونه کارها</strong></h4>
+        <div class="separator-small"><span></span></div>
+        <h6 class="alttitle title-minimal">توجه : تنها نمونه کارهایی که اجازه انتشار دارند به اشتراک گذاشته شده اند.</h6>
         <div class="spacer spacer-small"></div>
+        <ul id="portfolio-filter-spaced" class="filter clearfix" data-related-grid="portfolio-grid-spaced">
+            <li><a class="active" href="#" data-option-value="*">همه</a></li>
+            <li><a href="#" data-option-value=".learning" title="آموزشی">آموزشی</a></li>
+            <li><a href="#" data-option-value=".Social" title="اجتماعی">شبکه اجتماعی</a></li>
+            <li><a href="#" data-option-value=".services" title="خدماتی">خدماتی</a></li>
+            <li><a href="#" data-option-value=".shop" title="فروشگاه">فروشگاه</a></li>
+        </ul>
+    </div> <!-- END .main-title .wrapper -->
 
-        <div id="portfolio-grid-spaced" class="masonry portfolio-entries masonry-spaced clearfix" data-maxitemwidth="400">
+    <div class="spacer spacer-small"></div>
 
-            <div class="portfolio-masonry-entry masonry-item branding">
-                <div class="entry-thumb portfolio-thumb">
-                    <div class="imgoverlay overlay-dark overlay-transparent">
-                        <img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
-                        <div class="overlaycaption">
-                            <h4 class="overlay-name title-minimal"><strong>Tom Burly</strong></h4>
-                            <div class="separator-small"><span></span></div>
-                            <ul class="socialmedia-widget alttitle">
-                                <li class="facebook"><a href="#"></a></li>
-                                <li class="dropbox"><a href="#"></a></li>
-                                <li class="flickr"><a href="#"></a></li>
-                                <li class="vimeo"><a href="#"></a></li>
-                            </ul>
-                        </div>
+    <div id="portfolio-grid-spaced" class="ourWork masonry portfolio-entries masonry-spaced clearfix" data-maxitemwidth="400">
+
+        <div class="portfolio-masonry-entry masonry-item learning">
+            <div class="entry-thumb portfolio-thumb">
+                <div class="imgoverlay overlay-dark overlay-transparent">
+                    <img src="/images/ourWork/3.png" alt="SEO IMAGE NAME">
+                    <div class="overlaycaption">
+                        <h4 class="overlay-name title-minimal"><strong>وستاکمپ</strong></h4>
+                        <div class="separator-small"><span></span></div>
+                        <ul class="socialmedia-widget alttitle">
+                            <li><a href="http://vestacamp.vestaak.com/"><i class="fa fa-television fa-2x"></i></a></li>
+                        </ul>
                     </div>
-                    <h6>Creative Director</h6>
-                    <p>
-                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempora invidunt ut labore.
-                    </p>
                 </div>
-            </div> <!-- END .portfolio-masonry-entry -->
+            </div>
+        </div> <!-- END .portfolio-masonry-entry -->
 
-            <div class="portfolio-masonry-entry masonry-item print">
-                <div class="entry-thumb portfolio-thumb">
-                    <div class="imgoverlay overlay-dark overlay-transparent">
-                        <img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
-                        <div class="overlaycaption">
-                            <h4 class="overlay-name title-minimal"><strong>Tom Burly</strong></h4>
-                            <div class="separator-small"><span></span></div>
-                            <ul class="socialmedia-widget alttitle">
-                                <li class="facebook"><a href="#"></a></li>
-                                <li class="dropbox"><a href="#"></a></li>
-                                <li class="flickr"><a href="#"></a></li>
-                                <li class="vimeo"><a href="#"></a></li>
-                            </ul>
-                        </div>
+        <div class="portfolio-masonry-entry masonry-item services">
+            <div class="entry-thumb portfolio-thumb">
+                <div class="imgoverlay overlay-dark overlay-transparent">
+                    <img src="/images/ourWork/2.png" alt="SEO IMAGE NAME">
+                    <div class="overlaycaption">
+                        <h4 class="overlay-name title-minimal"><strong>تشریفات نور جهان</strong></h4>
+                        <div class="separator-small"><span></span></div>
+                        <ul class="socialmedia-widget alttitle">
+                            <li><a href="http://noore-jahan.com/home/fa"><i class="fa fa-television fa-2x"></i></a></li>
+                        </ul>
                     </div>
-                    <h6>Creative Director</h6>
-                    <p>
-                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempora invidunt ut labore.
-                    </p>
                 </div>
-            </div> <!-- END .portfolio-masonry-entry -->
+            </div>
+        </div> <!-- END .portfolio-masonry-entry -->
 
-            <div class="portfolio-masonry-entry masonry-item branding">
-                <div class="entry-thumb portfolio-thumb">
-                    <div class="imgoverlay overlay-dark overlay-transparent">
-                        <img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
-                        <div class="overlaycaption">
-                            <h4 class="overlay-name title-minimal"><strong>Tom Burly</strong></h4>
-                            <div class="separator-small"><span></span></div>
-                            <ul class="socialmedia-widget alttitle">
-                                <li class="facebook"><a href="#"></a></li>
-                                <li class="dropbox"><a href="#"></a></li>
-                                <li class="flickr"><a href="#"></a></li>
-                                <li class="vimeo"><a href="#"></a></li>
-                            </ul>
-                        </div>
+        <div class="portfolio-masonry-entry masonry-item services">
+            <div class="entry-thumb portfolio-thumb">
+                <div class="imgoverlay overlay-dark overlay-transparent">
+                    <img src="/images/ourWork/1.png" alt="SEO IMAGE NAME">
+                    <div class="overlaycaption">
+                        <h4 class="overlay-name title-minimal"><strong>کامنت ماینر</strong></h4>
+                        <div class="separator-small"><span></span></div>
+                        <ul class="socialmedia-widget alttitle">
+                            <li><a href="http://commentminer.ir"><i class="fa fa-television fa-2x"></i></a></li>
+                        </ul>
                     </div>
-                    <h6>Creative Director</h6>
-                    <p>
-                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempora invidunt ut labore.
-                    </p>
                 </div>
-            </div> <!-- END .portfolio-masonry-entry -->
+            </div>
+        </div> <!-- END .portfolio-masonry-entry -->
 
-            <div class="portfolio-masonry-entry masonry-item print">
-                <div class="entry-thumb portfolio-thumb">
-                    <div class="imgoverlay overlay-dark overlay-transparent">
-                        <img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
-                        <div class="overlaycaption">
-                            <h4 class="overlay-name title-minimal"><strong>Tom Burly</strong></h4>
-                            <div class="separator-small"><span></span></div>
-                            <ul class="socialmedia-widget alttitle">
-                                <li class="facebook"><a href="#"></a></li>
-                                <li class="dropbox"><a href="#"></a></li>
-                                <li class="flickr"><a href="#"></a></li>
-                                <li class="vimeo"><a href="#"></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <h6>Creative Director</h6>
-                    <p>
-                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempora invidunt ut labore.
-                    </p>
-                </div>
-            </div> <!-- END .portfolio-masonry-entry -->
+    </div> <!-- END #portfolio-grid -->
+    <!-- SPACED PORTFOLIO -->
 
-            <div class="portfolio-masonry-entry masonry-item branding">
-                <div class="entry-thumb portfolio-thumb">
-                    <div class="imgoverlay overlay-dark overlay-transparent">
-                        <img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
-                        <div class="overlaycaption">
-                            <h4 class="overlay-name title-minimal"><strong>Tom Burly</strong></h4>
-                            <div class="separator-small"><span></span></div>
-                            <ul class="socialmedia-widget alttitle">
-                                <li class="facebook"><a href="#"></a></li>
-                                <li class="dropbox"><a href="#"></a></li>
-                                <li class="flickr"><a href="#"></a></li>
-                                <li class="vimeo"><a href="#"></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <h6>Creative Director</h6>
-                    <p>
-                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempora invidunt ut labore.
-                    </p>
-                </div>
-            </div> <!-- END .portfolio-masonry-entry -->
-
-            <div class="portfolio-masonry-entry masonry-item branding">
-                <div class="entry-thumb portfolio-thumb">
-                    <div class="imgoverlay overlay-dark overlay-transparent">
-                        <img src="/images/800x600.jpg" alt="SEO IMAGE NAME">
-                        <div class="overlaycaption">
-                            <h4 class="overlay-name title-minimal"><strong>Tom Burly</strong></h4>
-                            <div class="separator-small"><span></span></div>
-                            <ul class="socialmedia-widget alttitle">
-                                <li class="facebook"><a href="#"></a></li>
-                                <li class="dropbox"><a href="#"></a></li>
-                                <li class="flickr"><a href="#"></a></li>
-                                <li class="vimeo"><a href="#"></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <h6>Creative Director</h6>
-                    <p>
-                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempora invidunt ut labore.
-                    </p>
-                </div>
-            </div> <!-- END .portfolio-masonry-entry -->
-
-        </div> <!-- END #portfolio-grid -->
-        <!-- SPACED PORTFOLIO -->
-
-        <div class="spacer spacer-big"></div>
-
+    <div class="spacer spacer-big"></div>
+    --}}
         <!-- SERVICE -->
         <section id="services" class="notoppadding">
             <div class="section-inner">
 
-                <div class="horizontalsection  parallax"  data-parallax-image="/images/contact.jpg"  data-speed="0.5">
+                <div class="horizontalsection  parallax"  data-parallax-image="/images/contact2.jpg"  data-speed="0.5">
                     <div class="horizontalinner wrapper align-center text-light">
                         <div class="spacer spacer-medium"></div>
                         <h6 class="alttitle title-ultraminimal">مشاوره رایگان برای شروع کار</h6>
                         <h2 class="title-minimal" data-bigletter="ح"><strong>حرفه ای عمل کنیم</strong></h2>
                         <div class="spacer spacer-mini"></div>
-                        <a href="gallery-multipage.html" class="transition sr-button medium-button sr-button2">تماس بگیرید</a>
+                        <a href="/contact" class="transition sr-button medium-button sr-button2">تماس بگیرید</a>
                         <div class="spacer spacer-big"></div>
                     </div>
                 </div> <!-- END .horizontalsection-->
@@ -354,43 +269,34 @@
         </section> <!-- END SECTION #service-->
         <!-- SERVICE -->
 
-        <div class="spacer spacer-big"></div>
+    {{--<div class="spacer spacer-big"></div>
 
-        <!-- CLIENTS -->
-        <div class="wrapper">
+    <!-- CLIENTS -->
+    <div class="wrapper">
 
-            <div class="main-title align-center">
-                <h4><strong>Clients</strong></h4>
-                <div class="separator-small"><span></span></div>
-                <h6 class="alttitle title-minimal">Who we worked with</h6>
+        <div class="main-title align-center">
+            <h4><strong>مشتریان</strong></h4>
+            <div class="separator-small"><span></span></div>
+            <h6 class="alttitle title-minimal">مشریانی که محصول آنها قابل دسترسی است.</h6>
+        </div>
+
+        <div class="spacer spacer-mini"></div>
+
+        <div class="owlcarousel content-carousel client" data-autoplay="6000" data-pagination="true">
+            <div class="align-center">
+                <img src="/images/client/vestacamp.png" alt="وستاکمپ">
             </div>
-
-            <div class="spacer spacer-mini"></div>
-
-            <div class="owlcarousel content-carousel column-section clearfix align-center" data-autoplay="6000" data-pagination="true" data-navigation="true">
-                <div class="align-center">
-                    <img src="/images/800x600.jpg" alt="Client Logo">
-                </div>
-                <div class="align-center">
-                    <img src="/images/800x600.jpg" alt="Client Logo">
-                </div>
-                <div class="align-center">
-                    <img src="/images/800x1200.jpg" alt="Client Logo">
-                </div>
-                <div class="align-center">
-                    <img src="/images/800x600.jpg" alt="Client Logo">
-                </div>
-                <div class="align-center">
-                    <img src="/images/800x600.jpg" alt="Client Logo">
-                </div>
-                <div class="align-center">
-                    <img src="/images/800x600.jpg" alt="Client Logo">
-                </div>
+            <div class="align-center">
+                <img src="/images/client/TNJ.png" alt="تشریفات نور جهان">
+            </div>
+            <div class="align-center">
+                <img src="/images/client/vanda.png" alt="وندا اندیشه امیرکبیر">
             </div>
         </div>
+    </div>
         <!-- CLIENTS -->
 
-        <div class="spacer spacer-big"></div>
+        <div class="spacer spacer-big"></div>--}}
 
 
         <!-- FOOTER -->

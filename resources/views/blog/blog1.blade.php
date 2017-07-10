@@ -9,7 +9,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Blog Single 1 | Pond | Creative One Page Template</title>
+<title>وستاک، بلاگ</title>
 <!-- DEFAULT META TAGS -->
 
 <!-- FONTS -->

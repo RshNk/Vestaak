@@ -67,7 +67,7 @@
 
 
     <!-- PAGE TITLE -->
-    <section id="page-title" class="full-height text-light parallax"  data-parallax-image="/images/telegram.jpg">
+    <section id="page-title" class="full-height parallax"  data-parallax-image="/images/services/telegram-slider.jpg">
         <div class="section-inner align-center">
 
             <div class="main-title">
@@ -167,7 +167,7 @@
         </div> <!-- END .horizontalsection -->
         <!-- SERVICES -->
 
-        <div class="spacer spacer-big"></div>
+        {{--<div class="spacer spacer-big"></div>--}}
 
 
         <!-- FOOTER -->

@@ -5,8 +5,8 @@
         <!-- DEFAULT HEADER CONTENT -->
         <div class="default-header-content">
             <div id="logo" class="left-float">
-                <a id="default-logo" class="logotype" href="index.blade.php"><img src="/images/vestaak-light.png" alt="Logo"></a>
-                <a id="fixed-logo" class="logotype" href="index.blade.php"><img src="/images/vestaak.png" alt="Logo"></a>
+                <a id="default-logo" class="logotype" href="/"><img src="/images/vestaak-light.png" alt="Logo"></a>
+                <a id="fixed-logo" class="logotype" href="/"><img src="/images/vestaak.png" alt="Logo"></a>
             </div>
 
             <div class="menu right-float clearfix">
@@ -24,12 +24,12 @@
                                 </ul>
                             </li>
                             <li><a href="/#work" class="scroll-to" data-bigletter="ن">نمونه کارها</a></li>
-                            <li><a href="/blog" data-bigletter="ب">بلاگ</a></a>
-                                <ul class="sub-menu">
+                            <li><a href="http://blog.vestaak.com/" data-bigletter="ب">بلاگ</a></a>
+                                {{--<ul class="sub-menu">
                                     <li><a href="/blog/1">نمونه 1</a></li>
                                     <li><a href="/blog/2">نمونه 2</a></li>
                                     <li><a href="/blog/3">نمونه 3</a></li>
-                                </ul>
+                                </ul>--}}
                             </li>
                             <li><a href="/contact-us" class="scroll-to" data-bigletter="ا">ارتباط با ما</a></li>
                         </ul>

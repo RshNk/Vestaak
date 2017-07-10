@@ -66,7 +66,7 @@
     <!-- HEADER -->
 
     <!-- PAGE TITLE -->
-    <section id="page-title" class="full-height text-light parallax" data-parallax-image="/images/hrm.jpg">
+    <section id="page-title" class="full-height text-light parallax" data-parallax-image="/images/services/hrm-slider.jpg">
         <div class="section-inner align-center">
 
             <div class="main-title">
@@ -170,13 +170,13 @@
         <section id="services" class="notoppadding">
             <div class="section-inner">
 
-                <div class="horizontalsection  parallax"  data-parallax-image="/images/contact.jpg"  data-speed="0.5">
+                <div class="horizontalsection  parallax"  data-parallax-image="/images/contact2.jpg"  data-speed="0.5">
                     <div class="horizontalinner wrapper align-center text-light">
                         <div class="spacer spacer-medium"></div>
                         <h6 class="alttitle title-ultraminimal">مشاوره رایگان برای شروع کار</h6>
                         <h2 class="title-minimal" data-bigletter="ح"><strong>حرفه ای عمل کنیم</strong></h2>
                         <div class="spacer spacer-mini"></div>
-                        <a href="gallery-multipage.html" class="transition sr-button medium-button sr-button2">تماس بگیرید</a>
+                        <a href="/contact" class="transition sr-button medium-button sr-button2">تماس بگیرید</a>
                         <div class="spacer spacer-big"></div>
                     </div>
                 </div> <!-- END .horizontalsection-->
@@ -185,7 +185,7 @@
         </section> <!-- END SECTION #service-->
         <!-- SERVICE -->
 
-        <div class="spacer spacer-big"></div>
+        {{--<div class="spacer spacer-big"></div>
 
         <!-- CLIENTS -->
         <div class="wrapper">
@@ -193,38 +193,24 @@
             <div class="main-title align-center">
                 <h4><strong>مشتریان</strong></h4>
                 <div class="separator-small"><span></span></div>
-                <h6 class="alttitle title-minimal">کسانی‌ که با هم همکاری داشته ایم</h6>
+                <h6 class="alttitle title-minimal">مشریانی که محصول آنها قابل دسترسی است.</h6>
             </div>
 
             <div class="spacer spacer-mini"></div>
 
-            <div class="owlcarousel content-carousel column-section clearfix align-center" data-autoplay="6000" data-pagination="true" data-navigation="true">
+            <div class="owlcarousel content-carousel client" data-autoplay="6000" data-pagination="true">
                 <div class="align-center">
-                    <img src="/images/800x600.jpg" alt="Client Logo">
+                    <img src="/images/client/vestacamp.png" alt="وستاکمپ">
                 </div>
                 <div class="align-center">
-                    <img src="/images/800x600.jpg" alt="Client Logo">
+                    <img src="/images/client/TNJ.png" alt="تشریفات نور جهان">
                 </div>
                 <div class="align-center">
-                    <img src="/images/800x1200.jpg" alt="Client Logo">
-                </div>
-                <div class="align-center">
-                    <img src="/images/800x600.jpg" alt="Client Logo">
-                </div>
-                <div class="align-center">
-                    <img src="/images/800x600.jpg" alt="Client Logo">
-                </div>
-                <div class="align-center">
-                    <img src="/images/800x600.jpg" alt="Client Logo">
+                    <img src="/images/client/vanda.png" alt="وندا اندیشه امیرکبیر">
                 </div>
             </div>
         </div>
-        <!-- CLIENTS -->
-
-        <div class="spacer spacer-big"></div>
-
-
-        <div class="spacer spacer-big"></div>
+        <!-- CLIENTS -->--}}
 
 
         <!-- FOOTER -->

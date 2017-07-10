@@ -66,7 +66,7 @@
     <!-- HEADER -->
 
     <!-- PAGE TITLE -->
-    <section id="page-title" class="full-height text-light parallax" data-parallax-image="/images/courses2.jpg">
+    <section id="page-title" class="full-height text-light parallax" data-parallax-image="/images/services/teach-slider.jpg">
         <div class="section-inner align-center">
 
             <div class="main-title">
@@ -131,7 +131,7 @@
         </section> <!-- END SECTION #blog-->
         <!-- BLOG SINGLE SECTION -->
 
-        <div class="spacer spacer-big"></div>
+        {{--<div class="spacer spacer-big"></div>
 
         <!-- SERVICES -->
         <div class="horizontalsection" style="background:#f7f7f7;">
@@ -171,7 +171,7 @@
         <div class="main-title wrapper align-center">
             <h4 data-bigletter=" پروژه"><strong>چند نمونه از پروژه‌های آموزشی</strong></h4>
             <div class="separator-small"><span></span></div>
-            {{--<h6 class="alttitle title-minimal">تنها کارآموزانی که دوره ها به اتمام رسانده اند معرفی شده اند.</h6>--}}
+            --}}{{--<h6 class="alttitle title-minimal">تنها کارآموزانی که دوره ها به اتمام رسانده اند معرفی شده اند.</h6>--}}{{--
             <div class="spacer spacer-small"></div>
             <ul id="portfolio-filter-spaced" class="filter clearfix" data-related-grid="portfolio-grid-spaced">
                 <li><a class="active" href="#" data-option-value="*">همه</a></li>
@@ -323,7 +323,7 @@
         <div class="spacer spacer-big"></div>
 
 
-        <div class="spacer spacer-big"></div>
+        <div class="spacer spacer-big"></div>--}}
 
 
         <!-- FOOTER -->

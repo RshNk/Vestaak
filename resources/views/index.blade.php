@@ -9,7 +9,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Home | Pond | Creative One Page Template</title>
+<title>وستاک</title>
 <!-- DEFAULT META TAGS -->
 
 <!-- FONTS -->
@@ -397,7 +397,7 @@
 									<div class="separator-small"><span></span></div>
 									<h6 class="alttitle">سایتی جذاب با امکانات فوق العاده</h6>
 								</div>
-								<a href="portfolio-single.html" class="transition"></a>
+								<a href="#" class="transition"></a>
 							</div>
 						</div>
 					</div> <!-- END .portfolio-masonry-entry -->
@@ -469,31 +469,22 @@
 		<div class="wrapper">
 
 			<div class="main-title align-center">
-				<h4><strong>Clients</strong></h4>
+				<h4><strong>مشتریان</strong></h4>
 				<div class="separator-small"><span></span></div>
-				<h6 class="alttitle title-minimal">Who we worked with</h6>
+				<h6 class="alttitle title-minimal">مشریانی که محصول آنها قابل دسترسی است.</h6>
 			</div>
 
 			<div class="spacer spacer-mini"></div>
 
 			<div class="owlcarousel content-carousel client" data-autoplay="6000" data-pagination="true">
 				<div class="align-center">
-					<img src="/images/tree.jpg" alt="Client Logo">
+					<img src="/images/client/vestacamp.png" alt="وستاکمپ">
 				</div>
 				<div class="align-center">
-					<img src="/images/logo-placeholder.png" alt="Client Logo">
+					<img src="/images/client/TNJ.png" alt="تشریفات نور جهان">
 				</div>
 				<div class="align-center">
-					<img src="/images/logo-placeholder.png" alt="Client Logo">
-				</div>
-				<div class="align-center">
-					<img src="/images/logo-placeholder.png" alt="Client Logo">
-				</div>
-				<div class="align-center">
-					<img src="/images/logo-placeholder.png" alt="Client Logo">
-				</div>
-				<div class="align-center">
-					<img src="/images/logo-placeholder.png" alt="Client Logo">
+					<img src="/images/client/vanda.png" alt="وندا اندیشه امیرکبیر">
 				</div>
 			</div>
 		</div>
@@ -502,16 +493,16 @@
 		<div class="spacer spacer-big"></div>
 
 		<!-- TESTIMONIALS -->
-		<div id="testimonials" class="horizontalsection text-light parallax" data-parallax-image="/images/home.jpg">
+		<div id="testimonials" class="horizontalsection parallax" data-parallax-image="/images/comments.jpg">
 			<div class="horizontalinner wrapper">
 
 				<div class="owlslider testimonial-slider">
 					<div class="testimonial-item">
-						<div class="testimonial-quote">As a designer there are not many other templates that comes close to this. This template really understands the main purposes of webdesign.</div>
-						<h6 class="testimonial-name"><strong>Patrick Hamilton</strong></h6>
-						<h6 class="testimonial-namesub alttitle">Rip Curl</h6>
+						<div class="testimonial-quote">محیطی گرم و صمیمی داشت، همیشه امکان یادگیری مهارت های جدید و یا تقویت مهارت های قبلی را دارید. استفاده از تجربیات دیگر کارآموزان و یا خود مسئولان کارآموزی فرصت بسیار مناسبی است که هرجا در اختیار شما قرار نمیگیرد.</div>
+						<h6 class="testimonial-name"><strong>کیمیا بشیران</strong></h6>
+						<h6 class="testimonial-namesub alttitle">کارآموز</h6>
 					</div>
-					<div class="testimonial-item">
+					{{--<div class="testimonial-item">
 						<div class="testimonial-quote">Clean, simple and so mighty.</div>
 						<h6 class="testimonial-name"><strong>Andy Smith</strong></h6>
 						<h6 class="testimonial-namesub alttitle">Quicksilver</h6>
@@ -520,7 +511,7 @@
 						<div class="testimonial-quote">Wow, just amazing. Made it very easy for me to get my website up and running.</div>
 						<h6 class="testimonial-name"><strong>Sementha Garro</strong></h6>
 						<h6 class="testimonial-namesub alttitle">Billabong</h6>
-					</div>
+					</div>--}}
 				</div> <!-- END .owlslider -->
 
 			</div>
