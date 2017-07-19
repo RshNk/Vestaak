@@ -120,7 +120,7 @@
                     <p>
                         نمونه‌ای از bot تلگرام وستاک:
                         <br>
-                        <a  target="_blank" href="#">
+                        <a  target="_blank" href="http://t.me/vestaakinternshipbot">
                             bot تلگرام
                         </a>
                     </p>
@@ -178,7 +178,7 @@
         <ul class="single-pagination fixed-pagination">
             <li class="next"><a href="/services/hrm" class="transition" data-name="نرم افزار HRM">
                     <i class="pagination-icon"></i> بعدی <i class="pagination-icon"></i></a></li>
-            <li class="prev"><a href="/services/needs" class="transition" data-name="مهندسی نیازمندی ها">
+            <li class="prev"><a href="/services/courses" class="transition" data-name="کلاس های تخصصی آموزشی">
                     <i class="pagination-icon"></i> قبلی <i class="pagination-icon"></i></a></li>
         </ul>
 

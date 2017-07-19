@@ -196,7 +196,7 @@
 
         <!-- Single Pagination -->
         <ul class="single-pagination fixed-pagination">
-            <li class="next"><a href="/services/elearn" class="transition" data-name="بستر ویدئویی آموزش آنلاین">
+            <li class="next"><a href="/services/courses" class="transition" data-name="کلاس های تخصصی آموزشی">
                     <i class="pagination-icon"></i> بعدی <i class="pagination-icon"></i></a></li>
             <li class="prev"><a href="/services/young" class="transition" data-name="آموزش نیروی کار جوان">
                     <i class="pagination-icon"></i> قبلی <i class="pagination-icon"></i></a></li>

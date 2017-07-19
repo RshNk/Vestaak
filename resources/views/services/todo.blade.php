@@ -93,19 +93,19 @@
 
                     <h5 class="alttitle">
                         <strong>
-                            وستاک به شما کمک می‌کند تا پروژه‌های گروهی را به سرعت و با همکاری هم به پیش ببرید.
+                            کارهایتان را فراموش نکنید ، آن ها را به سادگی مدیریت کنید.
                         </strong>
                     </h5>
 
                    <p>
-                       یکی‌ از ابزار‌های موثر در پروژه‌های سازمان استفاده از سیستم مدیریت وظایف است. وستاک به شما این امکان را میدهد تا با استفاده از سیستم مدیریت وظایف، وظیفه هر کاربر را مدیریت کنید و روند اجرای پروژه را کنترل کنید.
+                       به سادگی در یک سیستم کاملا فارسی وظایفتان را دسته بندی کنید و برای آن ها زمان مشخص کنید ، اطلاعات مورد نیاز هر کدام را ذخیره کنید و به موقع با یادآوری نرم افزار به دنبال انجامشان باشید.
                        <br>
-                       برای هر کاربر وظایفی مشخص کنید و روند پیشروی کار را قدم به قدم مشاهده کنید.
+                       دیگر چیزی را فراموش نخواهید کرد و خواهید دید مدیریت کارهایتان چه قدر راحت است.
                    </p>
 
                     <blockquote>
                         <p>
-                            با کمک سیستم مدیریت وظایف وستاک، میتوانید از هر جایی‌ که هستید پروژه را پیش ببرید.
+                            هر جا هستید این داده ها را با خودتان داشته باشید
                         </p>
                     </blockquote>
 
@@ -113,13 +113,13 @@
                         <strong>از وقت خود بهینه استفاده کنید.</strong>
                     </h6>
 
-                    <p>
-                        با استفاده از لینک زیر برای خرید سیستم وستاک اقدام کنید:
-                        <br>
-                        <a  target="_blank" href="#">
-                            سیستم مدیریت وظایف
-                        </a>
-                    </p>
+                    {{--<p>--}}
+                        {{--با استفاده از لینک زیر برای خرید سیستم وستاک اقدام کنید:--}}
+                        {{--<br>--}}
+                        {{--<a  target="_blank" href="#">--}}
+                            {{--سیستم مدیریت وظایف--}}
+                        {{--</a>--}}
+                    {{--</p>--}}
 
                 </div>
 
@@ -145,7 +145,7 @@
                     <div class="column one-third align-center">
                         <i class="pe-7s-bookmarks pe-3x"></i>
                         <h6 class="title-minimal" data-bigletter="پ"><strong>ایجاد وظیفه</strong></h6>
-                        <p style="text-align: center">تعریف وظیفه برای هر عضو</p>
+                        <p style="text-align: center">تعریف وظیفه </p>
                     </div>
                     <div class="column one-third align-center">
                         <i class="pe-7s-albums pe-3x"></i>
@@ -171,8 +171,8 @@
 
         <!-- Single Pagination -->
         <ul class="single-pagination fixed-pagination">
-            <li class="next"><a href="/services/" class="transition" data-name="سایت شخصی و دستیار اساتید">
-                    <i class="pagination-icon"></i> بعدی <i class="pagination-icon"></i></a></li>
+            {{--<li class="next"><a href="/services/" class="transition" data-name="سایت شخصی و دستیار اساتید">--}}
+                    {{--<i class="pagination-icon"></i> بعدی <i class="pagination-icon"></i></a></li>--}}
             <li class="prev"><a href="/services/bills" class="transition" data-name="سیستم مدیریت قبص">
                     <i class="pagination-icon"></i> قبلی <i class="pagination-icon"></i></a></li>
         </ul>

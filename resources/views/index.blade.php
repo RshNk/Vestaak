@@ -282,20 +282,20 @@
 						</div>
 					</div> <!-- END .portfolio-masonry-entry -->
 
-					<div class="portfolio-masonry-entry masonry-item branding">
-						<div class="entry-thumb portfolio-thumb">
-							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-								<img src="/images/services/learn-min.jpg" data-bgposition="center center" alt="SEO IMAGE NAME">
-								<h5 class="overlay-name fixed title-minimal"><strong>بستر ویدئویی آموزش آنلاین</strong></h5>
-								<div class="overlaycaption">
-									<h5 class="overlay-name title-minimal"><strong>بستر ویدئویی آموزش آنلاین</strong></h5>
-									<div class="separator-small"><span></span></div>
-									<h6 class="alttitle">محصولات</h6>
-								</div>
-								<a href="/services/elearn" class="transition"></a>
-							</div>
-						</div>
-					</div> <!-- END .portfolio-masonry-entry -->
+					{{--<div class="portfolio-masonry-entry masonry-item branding">--}}
+						{{--<div class="entry-thumb portfolio-thumb">--}}
+							{{--<div class="imgoverlay overlay-dark overlay-transparent name-hidden">--}}
+								{{--<img src="/images/services/learn-min.jpg" data-bgposition="center center" alt="SEO IMAGE NAME">--}}
+								{{--<h5 class="overlay-name fixed title-minimal"><strong>بستر ویدئویی آموزش آنلاین</strong></h5>--}}
+								{{--<div class="overlaycaption">--}}
+									{{--<h5 class="overlay-name title-minimal"><strong>بستر ویدئویی آموزش آنلاین</strong></h5>--}}
+									{{--<div class="separator-small"><span></span></div>--}}
+									{{--<h6 class="alttitle">محصولات</h6>--}}
+								{{--</div>--}}
+								{{--<a href="/services/elearn" class="transition"></a>--}}
+							{{--</div>--}}
+						{{--</div>--}}
+					{{--</div> <!-- END .portfolio-masonry-entry -->--}}
 
 					<div class="portfolio-masonry-entry masonry-item branding">
 						<div class="entry-thumb portfolio-thumb">
@@ -312,20 +312,20 @@
 						</div>
 					</div> <!-- END .portfolio-masonry-entry -->
 
-					<div class="portfolio-masonry-entry masonry-item branding">
-						<div class="entry-thumb portfolio-thumb">
-							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-								<img src="/images/services/re-min.jpg" alt="SEO IMAGE NAME">
-								<h5 class="overlay-name fixed title-minimal"><strong>مهندسی نیازمندی ها</strong></h5>
-								<div class="overlaycaption">
-									<h5 class="overlay-name title-minimal"><strong>مهندسی نیازمندی ها</strong></h5>
-									<div class="separator-small"><span></span></div>
-									<h6 class="alttitle">استخراج نیازمندی ها و مشاوره فنی</h6>
-								</div>
-								<a href="/services/needs" class="transition"></a>
-							</div>
-						</div>
-					</div> <!-- END .portfolio-masonry-entry -->
+					{{--<div class="portfolio-masonry-entry masonry-item branding">--}}
+						{{--<div class="entry-thumb portfolio-thumb">--}}
+							{{--<div class="imgoverlay overlay-dark overlay-transparent name-hidden">--}}
+								{{--<img src="/images/services/re-min.jpg" alt="SEO IMAGE NAME">--}}
+								{{--<h5 class="overlay-name fixed title-minimal"><strong>مهندسی نیازمندی ها</strong></h5>--}}
+								{{--<div class="overlaycaption">--}}
+									{{--<h5 class="overlay-name title-minimal"><strong>مهندسی نیازمندی ها</strong></h5>--}}
+									{{--<div class="separator-small"><span></span></div>--}}
+									{{--<h6 class="alttitle">استخراج نیازمندی ها و مشاوره فنی</h6>--}}
+								{{--</div>--}}
+								{{--<a href="/services/needs" class="transition"></a>--}}
+							{{--</div>--}}
+						{{--</div>--}}
+					{{--</div> <!-- END .portfolio-masonry-entry -->--}}
 
 					<div class="portfolio-masonry-entry masonry-item branding">
 						<div class="entry-thumb portfolio-thumb">
@@ -387,20 +387,20 @@
 						</div>
 					</div> <!-- END .portfolio-masonry-entry -->
 
-					<div class="portfolio-masonry-entry masonry-item branding">
-						<div class="entry-thumb portfolio-thumb">
-							<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
-								<img src="/images/services/teacher-min.jpg" alt="SEO IMAGE NAME">
-								<h5 class="overlay-name fixed title-minimal"><strong>سایت شخصی و دستیار اساتید</strong></h5>
-								<div class="overlaycaption">
-									<h5 class="overlay-name title-minimal"><strong>سایت شخصی و دستیار اساتید</strong></h5>
-									<div class="separator-small"><span></span></div>
-									<h6 class="alttitle">سایتی جذاب با امکانات فوق العاده</h6>
-								</div>
-								<a href="#" class="transition"></a>
-							</div>
-						</div>
-					</div> <!-- END .portfolio-masonry-entry -->
+					{{--<div class="portfolio-masonry-entry masonry-item branding">--}}
+						{{--<div class="entry-thumb portfolio-thumb">--}}
+							{{--<div class="imgoverlay overlay-dark overlay-transparent name-hidden">--}}
+								{{--<img src="/images/services/teacher-min.jpg" alt="SEO IMAGE NAME">--}}
+								{{--<h5 class="overlay-name fixed title-minimal"><strong>سایت شخصی و دستیار اساتید</strong></h5>--}}
+								{{--<div class="overlaycaption">--}}
+									{{--<h5 class="overlay-name title-minimal"><strong>سایت شخصی و دستیار اساتید</strong></h5>--}}
+									{{--<div class="separator-small"><span></span></div>--}}
+									{{--<h6 class="alttitle">سایتی جذاب با امکانات فوق العاده</h6>--}}
+								{{--</div>--}}
+								{{--<a href="#" class="transition"></a>--}}
+							{{--</div>--}}
+						{{--</div>--}}
+					{{--</div> <!-- END .portfolio-masonry-entry -->--}}
 
 				</div> <!-- END #portfolio-grid -->
 				<!-- STANDARD PORTFOLIO -->

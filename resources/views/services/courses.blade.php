@@ -105,7 +105,7 @@
 
                     <blockquote>
                         <p>
-                            کلاس‌های وستاک نقطه شروعی برای آینده است.
+                            کلاس‌های وستاکمپ نقطه شروعی برای آینده است.
                         </p>
                     </blockquote>
 
@@ -116,8 +116,8 @@
                     <p>
                         میتوانید برای ثبت نام و مشاهده ی دوره‌های وستاک از طریق سایت زیر اقدام کنید
                         <br>
-                        <a  target="_blank" href="#">
-                            ورود به سایت وستاک
+                        <a  target="_blank" href="http://vestacamp.vestaak.com">
+                            ورود به سایت وستاکمپ
                         </a>
                     </p>
 
@@ -332,9 +332,9 @@
 
         <!-- Single Pagination -->
         <ul class="single-pagination fixed-pagination">
-            <li class="next"><a href="/services/needs" class="transition" data-name="مهندسی نیازمندی ها">
+            <li class="next"><a href="/services/telebot" class="transition" data-name="ربات تلگرام">
                     <i class="pagination-icon"></i> بعدی <i class="pagination-icon"></i></a></li>
-            <li class="prev"><a href="/services/elearn" class="transition" data-name="بستر آنلاین آموزش ویدئو">
+            <li class="prev"><a href="/services/consult" class="transition" data-name="مشاوره و ارائه تیم فنی">
                     <i class="pagination-icon"></i> قبلی <i class="pagination-icon"></i></a></li>
         </ul>
 
