@@ -79,7 +79,7 @@
 					<!-- THE FIRST SLIDE -->
 					<li data-transition="slidedown" data-slotamount="5" data-masterspeed="1200" style="width: 100%; height: auto;">
 						<!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
-						<img src="/images/slider/6-min.jpg"   alt="slidebg1"  data-bgposition="center center" data-bgrepeat="no-repeat" style="opacity:50%;">
+						<img src="/images/slider/slider-1.jpg"   alt="slidebg1"  data-bgposition="center center" data-bgrepeat="no-repeat" style="opacity:50%;">
 						
 						<!-- LAYER NR. 1 -->    
 						<div class="tp-caption srcaption-bigwhite lft ltb"
@@ -98,7 +98,7 @@
 					<!-- THE SECOND SLIDE -->
 					<li data-transition="slidedown" data-slotamount="5" data-masterspeed="1200" >
 						<!-- THE MAIN IMAGE IN THE SECOND SLIDE -->
-						<img src="/images/slider/2-min.jpg"   alt="slidebg2"  data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+						<img src="/images/slider/slider-2.jpg"   alt="slidebg2"  data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
 						<!-- LAYER NR. 1 -->    
 						<div class="tp-caption srcaption-bigwhite lft ltb"
 						data-x="center" data-hoffset="0"
@@ -116,7 +116,7 @@
 					<!-- THE THIRD SLIDE -->
 					<li data-transition="slidedown" data-slotamount="5" data-masterspeed="1200" >
 						<!-- THE MAIN IMAGE IN THE SECOND SLIDE -->
-						<img src="/images/slider/1-min.jpg"   alt="slidebg3"  data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+						<img src="/images/slider/slider-3.jpg"   alt="slidebg3"  data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
 						<!-- LAYER NR. 1 -->    
 						<div class="tp-caption srcaption-bigwhite lft ltb"
 						data-x="center" data-hoffset="0"
@@ -425,7 +425,7 @@
 				<div class="spacer spacer-small"></div>
 
 				<div class="owlcarousel portfolio-carousel work-Slider" data-pagination="false" data-navigation="true">
-					<div class="portfolio-carousel-item" style="background-image:url(/images/ourWork/1.png);">
+					<div class="portfolio-carousel-item" style="background-image:url(/images/ourWork/1.jpg);">
 						<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
 							<div class="overlaycaption">
 								<h5 class="overlay-name title-minimal"><strong>Commentminer</strong></h5>
@@ -435,7 +435,7 @@
 							<a href="http://commentminer.ir/" class="transition"></a>
 						</div>
 					</div>
-					<div class="portfolio-carousel-item" style="background-image:url(/images/ourWork/2.png);">
+					<div class="portfolio-carousel-item" style="background-image:url(/images/ourWork/2.jpg);">
 						<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
 							<div class="overlaycaption">
 								<h5 class="overlay-name title-minimal"><strong>Noor e jahan</strong></h5>
@@ -445,7 +445,7 @@
 							<a href="http://noore-jahan.com/home/fa" class="transition"></a>
 						</div>
 					</div>
-					<div class="portfolio-carousel-item" style="background-image:url(/images//ourWork/3.png);">
+					<div class="portfolio-carousel-item" style="background-image:url(/images/ourWork/3.jpg);">
 						<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
 							<div class="overlaycaption">
 								<h5 class="overlay-name title-minimal"><strong>VEestacamp</strong></h5>

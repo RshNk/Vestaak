@@ -203,7 +203,7 @@
             <div class="portfolio-masonry-entry masonry-item learning">
                 <div class="entry-thumb portfolio-thumb">
                     <div class="imgoverlay overlay-dark overlay-transparent">
-                        <img src="/images/ourWork/3.png" alt="SEO IMAGE NAME">
+                        <img src="/images/ourWork/3.jpg" alt="SEO IMAGE NAME">
                         <div class="overlaycaption">
                             <h4 class="overlay-name title-minimal"><strong>وستاکمپ</strong></h4>
                             <div class="separator-small"><span></span></div>
@@ -218,7 +218,7 @@
             <div class="portfolio-masonry-entry masonry-item services">
                 <div class="entry-thumb portfolio-thumb">
                     <div class="imgoverlay overlay-dark overlay-transparent">
-                        <img src="/images/ourWork/2.png" alt="SEO IMAGE NAME">
+                        <img src="/images/ourWork/2.jpg" alt="SEO IMAGE NAME">
                         <div class="overlaycaption">
                             <h4 class="overlay-name title-minimal"><strong>تشریفات نور جهان</strong></h4>
                             <div class="separator-small"><span></span></div>
@@ -233,7 +233,7 @@
             <div class="portfolio-masonry-entry masonry-item services">
                 <div class="entry-thumb portfolio-thumb">
                     <div class="imgoverlay overlay-dark overlay-transparent">
-                        <img src="/images/ourWork/1.png" alt="SEO IMAGE NAME">
+                        <img src="/images/ourWork/1.jpg" alt="SEO IMAGE NAME">
                         <div class="overlaycaption">
                             <h4 class="overlay-name title-minimal"><strong>کامنت ماینر</strong></h4>
                             <div class="separator-small"><span></span></div>
