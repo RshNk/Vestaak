@@ -89,6 +89,7 @@
 
 							<div class="main-title align-center">
 								<h5 class="alttitle title-minimal"><strong>کارشناسان ما در اولین فرصت پاسخگوی پیام شما هستند.</strong></h5>
+								<h5 class="alttitle title-minimal"><strong>آدرس : مترو شریف ، خیابان حبیب الله ، پلاک ۱۰۳ ، واحد ۲ ، وستاک</strong></h5>
 							</div>
 
 							<form id="contact-form" class="checkform" action="#" target="contact-send.php" method="post" >
