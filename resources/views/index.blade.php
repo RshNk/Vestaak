@@ -448,11 +448,21 @@
 					<div class="portfolio-carousel-item" style="background-image:url(/images/ourWork/3.jpg);">
 						<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
 							<div class="overlaycaption">
-								<h5 class="overlay-name title-minimal"><strong>VEestacamp</strong></h5>
+								<h5 class="overlay-name title-minimal"><strong>Vestacamp</strong></h5>
 								<div class="separator-small"><span></span></div>
 								<h6 class="alttitle">web site</h6>
 							</div>
 							<a href="http://vestacamp.vestaak.com/" class="transition"></a>
+						</div>
+					</div>
+					<div class="portfolio-carousel-item" style="background-image:url(/images/ourWork/4.png);">
+						<div class="imgoverlay overlay-dark overlay-transparent name-hidden">
+							<div class="overlaycaption">
+								<h5 class="overlay-name title-minimal"><strong>jobyaar</strong></h5>
+								<div class="separator-small"><span></span></div>
+								<h6 class="alttitle">web site</h6>
+							</div>
+							<a href="http://jobyaar.com/" class="transition"></a>
 						</div>
 					</div>
 				</div>
@@ -485,6 +495,9 @@
 				</div>
 				<div class="align-center">
 					<img src="/images/client/vanda.png" alt="وندا اندیشه امیرکبیر">
+				</div>
+				<div class="align-center">
+					<img src="/images/client/jobyaar.png" alt="جاب یار">
 				</div>
 			</div>
 		</div>

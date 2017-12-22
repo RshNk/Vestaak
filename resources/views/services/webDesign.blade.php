@@ -245,6 +245,21 @@
                 </div>
             </div> <!-- END .portfolio-masonry-entry -->
 
+            <div class="portfolio-masonry-entry masonry-item services">
+                <div class="entry-thumb portfolio-thumb">
+                    <div class="imgoverlay overlay-dark overlay-transparent">
+                        <img src="/images/ourWork/4.png" alt="jobyaar">
+                        <div class="overlaycaption">
+                            <h4 class="overlay-name title-minimal"><strong>جاب یار</strong></h4>
+                            <div class="separator-small"><span></span></div>
+                            <ul class="socialmedia-widget alttitle">
+                                <li><a href="http://jobyaar.com"><i class="fa fa-television fa-2x"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div> <!-- END .portfolio-masonry-entry -->
+
         </div> <!-- END #portfolio-grid -->
         <!-- SPACED PORTFOLIO -->
 
@@ -291,6 +306,9 @@
                 </div>
                 <div class="align-center">
                     <img src="/images/client/vanda.png" alt="وندا اندیشه امیرکبیر">
+                </div>
+                <div class="align-center">
+                    <img src="/images/client/jobyaar.png" alt="جاب یار">
                 </div>
             </div>
         </div>
