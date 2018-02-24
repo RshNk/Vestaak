@@ -68,12 +68,16 @@ jQuery(window).load(function($) {
 					var str = $form.serialize();
 					
 					   jQuery.ajax({
-					   type: "POST",
+					   type: "GET",
 					   url: form_action,
 					   data: str,
 					   success: function(msg){
-						jQuery("#form-note").html(msg);
-						jQuery("#form-note").delay(200).fadeIn(200);
+					   	if(msg == 0){
+                            jQuery("#form-note").delay(200).fadeIn(200);
+						}
+						else{
+                            jQuery("#form_success").delay(200).fadeIn(200);
+                        }
 					   }
 				});
 				return false;

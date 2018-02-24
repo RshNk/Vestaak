@@ -92,7 +92,7 @@
 								<h5 class="alttitle title-minimal"><strong>آدرس : جردن، خیابان تابان غربی ، موسسه آموزش عالی امیرکبیر، پلاک ۱۷، طبقه دوم ،۲۰۲</strong></h5>
 							</div>
 
-							<form id="contact-form" class="checkform" action="#" target="/sendcontact" method="post" >
+							<form id="contact-form" class="checkform" action="#" target="/sendcontact" method="GET" >
 
 								<div class="form-row clearfix">
 									<label for="name" class="req">نام *</label>
@@ -112,6 +112,11 @@
 								<div id="form-note">
 									<div class="alert alert-error">
 										<strong>خطا</strong>دوباره اطلاعات خواسته شده را وارد کنید. :
+									</div>
+								</div>
+								<div id="form_success" style="display: none;">
+									<div class="alert alert-success">
+										<strong>  متشکریم  </strong>    با موفقیت انجام شد
 									</div>
 								</div>
 

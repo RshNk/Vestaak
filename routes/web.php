@@ -86,4 +86,4 @@ Route::get('/blog/3', function () {
     return view('blog.blog3');
 });
 
-Route::post('sendcontact','ContactController@contact');
+Route::get('sendcontact','ContactController@contact');
